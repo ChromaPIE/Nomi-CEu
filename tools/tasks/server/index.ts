@@ -11,6 +11,8 @@ import {
 	downloadOrRetrieveFileDef,
 	getForgeJar,
 	getVersionManifest,
+	promiseStream,
+	shouldSkipChangelog,
 } from "#utils/util.ts";
 import {
 	modDestDirectory,
@@ -172,57 +174,69 @@ async function downloadMinecraftServer() {
  * Copies server & shared mods.
  */
 async function copyServerMods() {
-	return src(["*", upath.join("server", "*")], {
-		cwd: modDestDirectory,
-		resolveSymlinks: true,
-		encoding: false,
-	}).pipe(dest(upath.join(serverDestDirectory, "mods")));
+	return promiseStream(
+		src(["*", upath.join("server", "*")], {
+			cwd: modDestDirectory,
+			resolveSymlinks: true,
+			encoding: false,
+		}).pipe(dest(upath.join(serverDestDirectory, "mods"))),
+	);
 }
 
 /**
  * Copies modpack overrides.
  */
-function copyServerOverrides() {
-	return src(buildConfig.copyFromSharedServerGlobs, {
-		cwd: sharedDestDirectory,
-		allowEmpty: true,
-		resolveSymlinks: true,
-		encoding: false,
-	}).pipe(dest(upath.join(serverDestDirectory)));
+async function copyServerOverrides() {
+	return promiseStream(
+		src(buildConfig.copyFromSharedServerGlobs, {
+			cwd: sharedDestDirectory,
+			allowEmpty: true,
+			resolveSymlinks: true,
+			encoding: false,
+		}).pipe(dest(upath.join(serverDestDirectory))),
+	);
 }
 
 /**
  * Copies files from ./serverfiles into dest folder.
  */
-function copyServerFiles() {
-	return src(["../serverfiles/**"], {
-		encoding: false, // Needed because of the Server Icon
-	}).pipe(dest(serverDestDirectory));
+async function copyServerFiles() {
+	return promiseStream(
+		src(["../serverfiles/**"], {
+			encoding: false, // Needed because of the Server Icon
+		}).pipe(dest(serverDestDirectory)),
+	);
 }
 
 /**
  * Copies the license file.
  */
-function copyServerLicense() {
-	return src("../LICENSE").pipe(dest(serverDestDirectory));
+async function copyServerLicense() {
+	return promiseStream(src("../LICENSE").pipe(dest(serverDestDirectory)));
 }
 
 /**
  * Copies the update notes file.
  */
-function copyServerUpdateNotes() {
-	return src("../UPDATENOTES.md", { allowEmpty: true }).pipe(
-		dest(serverDestDirectory),
+async function copyServerUpdateNotes() {
+	return promiseStream(
+		src("../UPDATENOTES.md", { allowEmpty: true }).pipe(
+			dest(serverDestDirectory),
+		),
 	);
 }
 
 /**
  * Copies the changelog file.
  */
-function copyServerChangelog() {
-	return src(
-		upath.join(buildConfig.buildDestinationDirectory, "CHANGELOG.md"),
-	).pipe(dest(serverDestDirectory));
+async function copyServerChangelog() {
+	if (shouldSkipChangelog()) return;
+
+	return promiseStream(
+		src(upath.join(buildConfig.buildDestinationDirectory, "CHANGELOG.md")).pipe(
+			dest(serverDestDirectory),
+		),
+	);
 }
 
 /**
@@ -230,7 +244,7 @@ function copyServerChangelog() {
  *
  * Replaces jvmArgs, minRAM, maxRAM and forgeJar.
  */
-function processLaunchscripts() {
+async function processLaunchscripts() {
 	const rules = {
 		jvmArgs: buildConfig.launchscriptsJVMArgs,
 		minRAM: buildConfig.launchscriptsMinRAM,
@@ -245,17 +259,19 @@ function processLaunchscripts() {
 		logWarn("Did downloadForge task fail?");
 	}
 
-	return src(["../launchscripts/**"])
-		.pipe(
-			through.obj((file, _, callback) => {
-				if (file.isBuffer()) {
-					const rendered = mustache.render(file.contents.toString(), rules);
-					file.contents = Buffer.from(rendered);
-				}
-				callback(null, file);
-			}),
-		)
-		.pipe(dest(serverDestDirectory));
+	return promiseStream(
+		src(["../launchscripts/**"])
+			.pipe(
+				through.obj((file, _, callback) => {
+					if (file.isBuffer()) {
+						const rendered = mustache.render(file.contents.toString(), rules);
+						file.contents = Buffer.from(rendered);
+					}
+					callback(null, file);
+				}),
+			)
+			.pipe(dest(serverDestDirectory)),
+	);
 }
 
 export default series(

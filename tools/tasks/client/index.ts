@@ -10,7 +10,11 @@ import buildConfig from "#buildConfig";
 import { deleteAsync } from "del";
 import { createModList, ModFileInfo } from "../misc/createModList.ts";
 import dedent from "dedent-js";
-import { cleanupVersion } from "#utils/util.ts";
+import {
+	cleanupVersion,
+	promiseStream,
+	shouldSkipChangelog,
+} from "#utils/util.ts";
 
 async function clientCleanUp() {
 	return deleteAsync(upath.join(clientDestDirectory, "*"), { force: true });
@@ -64,37 +68,45 @@ async function exportModpackManifest() {
  * Copies the license file.
  */
 async function copyClientLicense() {
-	return src("../LICENSE").pipe(dest(clientDestDirectory));
+	return promiseStream(src("../LICENSE").pipe(dest(clientDestDirectory)));
 }
 
 /**
  * Copies the update notes file.
  */
-function copyClientUpdateNotes() {
-	return src("../UPDATENOTES.md", { allowEmpty: true }).pipe(
-		dest(clientDestDirectory),
+async function copyClientUpdateNotes() {
+	return promiseStream(
+		src("../UPDATENOTES.md", { allowEmpty: true }).pipe(
+			dest(clientDestDirectory),
+		),
 	);
 }
 
 /**
  * Copies the changelog file.
  */
-function copyClientChangelog() {
-	return src(
-		upath.join(buildConfig.buildDestinationDirectory, "CHANGELOG.md"),
-	).pipe(dest(clientDestDirectory));
+async function copyClientChangelog() {
+	if (shouldSkipChangelog()) return;
+
+	return promiseStream(
+		src(upath.join(buildConfig.buildDestinationDirectory, "CHANGELOG.md")).pipe(
+			dest(clientDestDirectory),
+		),
+	);
 }
 
 /**
  * Copies modpack overrides.
  */
-function copyClientOverrides() {
-	return src(buildConfig.copyFromSharedClientGlobs, {
-		cwd: sharedDestDirectory,
-		allowEmpty: true,
-		resolveSymlinks: true,
-		encoding: false,
-	}).pipe(dest(upath.join(clientDestDirectory, "overrides")));
+async function copyClientOverrides() {
+	return promiseStream(
+		src(buildConfig.copyFromSharedClientGlobs, {
+			cwd: sharedDestDirectory,
+			allowEmpty: true,
+			resolveSymlinks: true,
+			encoding: false,
+		}).pipe(dest(upath.join(clientDestDirectory, "overrides"))),
+	);
 }
 
 /**
