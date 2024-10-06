@@ -9,7 +9,7 @@
       "properties:10": {
         "betterquesting:10": {
           "autoclaim:1": 0,
-          "desc:8": "The main purpose for this device is to turn §6Certus Quartz§r into §6Charged Certus Quartz Crystals§r.\n\nThis device can be powered with RF via energy conduits or use AE energy from a network via ME conduits or cables.\n\nIt accepts power from two sides. Which two sides? It\u0027s pretty easy to guess.\n\n\n\n\n\n\n\n\nOk, ok. It\u0027s the top and bottom.",
+          "desc:8": "这台设备的主要目的是将§6赛特斯石英水晶§r处理成§6充能赛特斯石英水晶§r。\n\n它同时接受RF和AE能量，故能量导管和AE网络中的ME导管或线缆均可为其供能，但仅有两面可接受能量。哪两面呢？看一看，猜一猜。\n\n\n\n\n\n\n\n\n行行行。揭晓答案：顶面和底面。",
           "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
@@ -21,7 +21,7 @@
           "ismain:1": 1,
           "issilent:1": 0,
           "lockedprogress:1": 1,
-          "name:8": "Charging Quartz",
+          "name:8": "为石英充能",
           "partysinglereward:1": 0,
           "questlogic:8": "AND",
           "repeat_relative:1": 1,
@@ -88,7 +88,7 @@
       "properties:10": {
         "betterquesting:10": {
           "autoclaim:1": 0,
-          "desc:8": "The §3Crystal Growth Chamber§r allows you to perform §bApplied Energistics§r\u0027s world crafting recipes inside of a machine. Hooray, you never have to drop more things in water again!\n\nIt is used for growing §6Crystal Seeds§r into §6Pure Crystals§r, and also for creating §6Fluix Crystals§r.\n\nThis machine requires §eME Power§r, which is provided through a §aME Network§r connection. Placing it next to your §3Energy Acceptor§r accomplishes this for now, or you can connect it via §3Fluix Glass Cables§r.\n\nJEI doesn\u0027t show the Chamber\u0027s recipes directly, so we\u0027ll explain it here:\n\nSeeds are made by pulverizing any of the three crystal types and mixing the dust with sand. A seed grows into the corresponding Pure Crystal, which is substitutable for the original crystal in most recipes. Using Pure Crystals lets you effectively double your material efficiency, which is nice. And no, you can\u0027t grind down Pure Crystals to further multiply your resources. Sorry.\n\nFluix Crystals you\u0027ve already had to make in a pool of water by now, and it\u0027s the same ingredients here: insert one each of a §6Redstone§r, §6Charged Certus Quartz Crystal§r, and a §6Nether Quartz§r to produce two Fluix Crystals.",
+          "desc:8": "§b应用能源§r的§3晶体催生仓§r能将你从一遍一遍把东西往水里扔的痛苦中解放出来。\n\n放入§6水晶种子§r并稍等片刻，即可获取§6高纯水晶§r。这种晶体培育方法同样适用于§6福鲁伊克斯水晶§r。\n\n这台机器消耗的是经由§aME网络§r传导的§eME能量§r。给§3能源接收器§r供电，并将催生仓紧贴其放置即可使其正常运作。在网络体量逐渐壮大后，你也可以将其安置在任意位置并使用§3ME玻璃线缆§r连接至网络，或直接把它摆在任意一台在线的ME设备旁边。\n\nJEI并不会直接显示催生仓的配方，所以这里会做一个说明：\n\n将水晶（下界石英/赛特斯石英水晶/福鲁伊克斯水晶）打碎成粉，并与沙子在合成栏中混合，即可获取相应的种子。放入晶体催生仓后将成长为高纯水晶，可在多数配方中直接替代普通水晶。一份水晶粉最终可制得两个高纯水晶，可有效倍增材料利用率，但很抱歉，水晶粉无法使用高纯水晶制作，杜绝了无限增殖的可能性。\n\n但先别急着两手一摊，再把那桶水倒回沟里。晶体催生仓同样可以制造福鲁伊克斯水晶，效率更高，且原料完全一致：§6红石§r、§6充能赛特斯石英水晶§r、§6下界石英§r，出产两个福鲁伊克斯水晶。",
           "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
@@ -100,7 +100,7 @@
           "ismain:1": 0,
           "issilent:1": 0,
           "lockedprogress:1": 1,
-          "name:8": "Crystal Growth Chamber",
+          "name:8": "晶体催生仓",
           "partysinglereward:1": 0,
           "questlogic:8": "AND",
           "repeat_relative:1": 1,
@@ -200,7 +200,7 @@
       "properties:10": {
         "betterquesting:10": {
           "autoclaim:1": 0,
-          "desc:8": "Note: this quest accepts both LV and MV Canning Machines.\n\n§aLV Batteries§r were very simple to make, but more effective forms of power storage will be more complex to build, so we\u0027ll need to lay the groundwork now.\n\nPut your §3Centrifuge§r to work for the §6Antimony§r you\u0027ll need, which comes in tiny piles from processing §6Tetrahedrite Ore§r and §6Stibnite Ore§r.",
+          "desc:8": "注意：本任务仅接受LV和MV级的装罐机。\n\n§aLV电池§r的制作方法简便，但效率更高的能量存储形式的建构方式则更为复杂，所以眼下我们亟需固实基础。\n\n现在开动§3离心机§r，处理§6黝铜矿§r和§6辉锑矿§r，获取足量的小撮§6锑§r。",
           "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
@@ -212,7 +212,7 @@
           "ismain:1": 1,
           "issilent:1": 0,
           "lockedprogress:1": 1,
-          "name:8": "Canning Machine and Assorted Stuff",
+          "name:8": "装罐机之类的东西",
           "partysinglereward:1": 0,
           "questlogic:8": "AND",
           "repeat_relative:1": 1,
@@ -1882,7 +1882,7 @@
       "properties:10": {
         "betterquesting:10": {
           "autoclaim:1": 0,
-          "desc:8": "To make §6Dark Steel§r you\u0027ll need §6Obsidian§r, which is created by solidifying lava source blocks with water as usual. It can be mined with a §aDiamond Hammer§r/§aPickaxe§r or other diamond-level tool.\n\nAn §3HV Rock Breaker§r can create §6Obsidian§r without spending §6Lava§r later on, and §6Void Crystals§r can be used as a cheaper substitute.",
+          "desc:8": "§6黑曜石§r是制作§6玄钢§r的必要材料，你可以像往常一样往熔岩上浇水，再用§a钻石镐§r或免费赠送的§a钻石锤§r又或是其他采掘等级为钻石的工具来获取。\n\n后续你可以制造§3HV等级的碎岩机§r来生产§6黑曜石§r，省下不可再生的§6熔岩§r资源。此外，你也可以使用§6煤晶§r作为更加经济的替代品来制造玄钢。",
           "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
@@ -1894,7 +1894,7 @@
           "ismain:1": 0,
           "issilent:1": 0,
           "lockedprogress:1": 1,
-          "name:8": "Obsidian",
+          "name:8": "黑曜石",
           "partysinglereward:1": 0,
           "questlogic:8": "AND",
           "repeat_relative:1": 1,
@@ -2764,7 +2764,7 @@
       "properties:10": {
         "betterquesting:10": {
           "autoclaim:1": 0,
-          "desc:8": "Another alloy.\n\n§2In EV Age, you can build an Alloy Blast Smelter which doubles the yield.",
+          "desc:8": "又是一种合金。\n\n§2在EV时代，你可以借助合金冶炼炉获得双倍的合金产出。",
           "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
@@ -2776,7 +2776,7 @@
           "ismain:1": 1,
           "issilent:1": 0,
           "lockedprogress:1": 1,
-          "name:8": "§2Vibrant Alloy",
+          "name:8": "§2跃动合金",
           "partysinglereward:1": 0,
           "questlogic:8": "AND",
           "repeat_relative:1": 1,
@@ -3860,7 +3860,7 @@
       "properties:10": {
         "betterquesting:10": {
           "autoclaim:1": 0,
-          "desc:8": "The §2Cleanroom§r is a hollow multiblock free of contaminants. Going forward, most new circuit-related recipes, as well as some unique things like §3Fusion Casings§r, will need to be run in machines inside a Cleanroom. This is another ported §5GT5u§r feature, but just like with §aMaintenance§r, it won\u0027t be nearly as harsh.\n\nOnce built, it must be well-maintained and powered for a while to clean the inside. The Cleanroom\u0027s power draw will decrease once it fully cleans itself. Recipes requiring the Cleanroom will §conly§r run when inside a §cfully-cleaned§r Cleanroom; if not, the recipe will not start, or recipe progress might be lost. (Recipe inputs will §enever be voided§r.)\n\nThe Cleanroom can be built in any size between 5x5x5 and 15x15x15. The Controller is placed in the center of the top face, and the rest of the top face is built from §3Filter Casings§r. The rest of the wall space is filled with §3Plascrete§r.\n\nFor transfer between the clean environment and the outside world:\n\n- Items and fluids through §3Passthrough Hatches§r. They automatically input from one side and output from the opposite side.\n\n- Energy through §bGregTech §3Hulls§r or §3Diodes§r (of any tier). Note that Diodes can transport up to §e16 amps§r, whilst Hulls can only transport §e1 amp§r.\n\n- Your AE network through §bGregTech §3Hulls§r (of any tier).\n\n- Players through regular §3Doors§r. The room remains clean when doors are opened.\n\nApart from the \"official\" solutions, non-physical methods of transfer such as §3Ender Chests§r might be effective. §bApplied Energistics §3P2P Tunnels§r may also fit your liking.\n\nYou will also need an §3Energy §rand §3Maintenance Hatch §rfor cleaning. §3Cleanroom Glass§r can replace any §3Plascrete§r, apart from the edges.\n\nIf you\u0027re facing issues forming the Cleanroom:\n\n- The wall space must be at least 75% §3Plascrete§r or §3Cleanroom Glass§r. The floor block directly under the controller must also be §3Plascrete§r or §3Cleanroom Glass§r.\n\n- GT generators and Muffler Hatches are §cnot allowed§r in Cleanrooms.\n\n- Try rotating the controller with a wrench, or for even side lengths, try the other central positions.",
+          "desc:8": "§2超净间§r是一种中空房间形态的多方块结构，会营造一片无尘的洁净环境。随着游戏进度的发展，众多牵涉到电路的配方，以及§3反应堆外壳§r等特殊物品的制造，均需要将机器置于超净间中方可运行。但与同样源自§5格雷科技5-非官方版（GT5u）§r的§a维修机制§r一样，GTCEu的超净间机制也是经过了调整的，并不会那么严苛。\n\n搭建完成后，必须维持其电力供应和维修状态以便超净间进行内部清洁。清洁完毕后，超净间将持续运转以维持内部环境，但能耗与清洁污染时相比较低。需要超净间的配方§c只能§r在§c完全洁净§r的超净间中进行，否则，即使电力和原料供给正常，未开始的处理任务也不会积累任何进度，而机器在工作时若脱离了超净环境（例如超净间结构遭到损坏），将导致进度倒退，但已被消耗的原材料§e不会被销毁§r。\n\n超净间的结构尺寸可在5x5x5到15x15x15之间任意规划。其核心方块需放置在天花板的正中央，顶部除边框外的余下部分则需使用§3过滤外壳§r填满，其余的墙面部分使用§3塑料固实建材§r搭建。\n\n关于超净间内外互通的说明：\n\n- 物品和流体使用§3物品/流体连通仓§r传输，可从一面自动输入并从相对的一面自动输出。\n\n- 能量使用§b格雷科技§r的§3机身§r或§3二极管§r传输，电压等级不限。请注意，二极管最高可传输§e16安§r的电流，而机身仅能传输§e1安§r。\n\n- AE网络连接通过§b格雷科技§r的§3机身§r传输，电压等级不限。\n\n- 玩家本身可通过§3门§r内外通行。门在开启时不影响洁净度。\n\n除了上述的“官方”传输方法，诸如§3末影箱§r之类的魔法手段，也是可行的；或者可以考虑§b应用能源§r的§3P2P通道§r，看看是否符合你的喜好。\n\n其他结构部件包括§3能源仓§r和§3维修仓§r，用以维持超净间的持久清洁；以及§3超净间玻璃§r，可以替换边框以外任何部分的§3塑料固实建材§r。\n\n如果超净间结构的成型遇到了困难：\n\n- §3塑料固实建材§r或§3超净间玻璃§r在墙面部分所占的比重应至少为75%。核心方块正下方的地面也必须属于上述两种方块。\n\n- 超净间内部§c不允许§r出现格雷科技的发电机器和隔音排气仓。\n\n- 可以尝试使用扳手旋转核心方块；若长或宽为偶数，则可尝试将核心方块换至另一个中心位置。",
           "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
@@ -3872,7 +3872,7 @@
           "ismain:1": 1,
           "issilent:1": 0,
           "lockedprogress:1": 0,
-          "name:8": "§2Cleanroom",
+          "name:8": "§2超净间",
           "questlogic:8": "AND",
           "repeat_relative:1": 1,
           "repeattime:3": -1,
@@ -3938,7 +3938,7 @@
       "properties:10": {
         "betterquesting:10": {
           "autoclaim:1": 0,
-          "desc:8": "The §3Wiremill§r is a major efficiency boost, giving you double yield of §6wires§r for your ingots. But first, you\u0027ll need to make some §6Motors§r.\n\n§bGregTech§r machines are built from a number of components, many of which are shared between the machines. Motors§r are used in a great number of recipes, even including other components.\n\nMake sure to encode the recipes needed for motors into a §3Crafting Station§r. You\u0027ll need quite a lot of them.\n\nThe Wiremill requires a §6Programmed Circuit§r to run. Each machine comes with a free one - click on the circuit slot in the §dbottom right §rof the GUI. For making single wires, leave the circuit at §econfiguration 1§r. Refer to §eJEI§r for which circuit config a recipe calls for, and refer to the adjacent quest for more information.\n\nAfter you make the Wiremill, §econsider making a few stacks§r of LV motors. This might sound extreme, but §ebatch crafting§r in this manner is an important habit to pick up. This way you won\u0027t have to craft more for a while, and you §owill §ruse all those motors eventually, so you\u0027re not wasting materials.\n\nAs you get access to more machinery you will no longer need to craft things manually. Instead, you will engineer factories to automate the production for you. It is useful to keep a stockpile of frequently used things like circuits and components crafted so you don\u0027t have to wait for them when you need them.\n\n§2If the machine sounds start to get on your nerves, you can mute GT machines with a GT Hammer.",
+          "desc:8": "§3线材轧机§r堪称工业效率的一大飞跃，能使单块锭的§6导线§r产量翻倍。但首先，你需要制造一些§6电动马达§r。\n\n§b格雷科技§r机器的制造会包含若干种机械部件，其中一些常见于各种机器的配方之中，而其中§6电动马达§r出现的频率格外之高。\n\n为了尽可能简化高需求量带来的繁复操作，建议你使用§3合成站§r制造电动马达所牵涉到的材料，将配方存入其中。\n\n线材轧机的运作还需要§6编程电路§r。每台机器的界面§d右下角§r均自带一个编程电路槽位。若要制造单束（1x）导线，可将§e配置值§r设为§e1§r。其他配方所需的编程电路配置值可在§eJEI§r中查询获悉。有关编程电路的更多信息，在本任务下方的“编程电路”任务中有详细说明。\n\n拥有线材轧机后，§e请考虑多制造几组§rLV电动马达。虽说听着吓人，但为了跟上科技发展的步伐，这样“吓人”的§e批量合成§r习惯实际上至关重要。一次备上几组，够吃很长一段时间，§o又不是用不完§r。既然好钢都用在了刀刃上，又怎会有浪费之嫌呢？\n\n随着游戏的推进，坐拥的机械越来越多，你甚至可以搭桥接线，使手工作坊变身大型自动化工厂，让你有工夫转转手腕，松松筋骨。不仅是马达，只要你经常在配方中看见某样物品，比如电路和各种电子元器件，一个字，“囤”。一朝吃苦，日日享福。\n\n§2另外，如果机器窟嗤窟嗤的声音听得你耳朵起了老茧，手持格雷科技的锤子右击机器即可静音。",
           "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
@@ -3950,7 +3950,7 @@
           "ismain:1": 1,
           "issilent:1": 0,
           "lockedprogress:1": 1,
-          "name:8": "§2LV Wiremill",
+          "name:8": "§2LV线材轧机",
           "partysinglereward:1": 0,
           "questlogic:8": "AND",
           "repeat_relative:1": 1,
@@ -4011,7 +4011,7 @@
       "properties:10": {
         "betterquesting:10": {
           "autoclaim:1": 0,
-          "desc:8": "When §6Ender Eyes§r just aren\u0027t creepy enough.\n\nYou\u0027ll need an HV or better §3Chemical Bath§r to make these. The recipe is quite slow, so invest in the highest tier Chemical Baths you can and consider parallelizing the recipe.",
+          "desc:8": "§6末影之眼§r看久了甚至觉得有点可爱？试试量子之眼。\n\n其制作配方最低需要HV级的§3化学浸洗机§r且处理速度极其缓慢，所以机器等级越高越好，同时可以考虑多台并行。",
           "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
@@ -4023,7 +4023,7 @@
           "ismain:1": 1,
           "issilent:1": 0,
           "lockedprogress:1": 1,
-          "name:8": "Quantum Eyes",
+          "name:8": "量子之眼",
           "partysinglereward:1": 0,
           "questlogic:8": "AND",
           "repeat_relative:1": 1,
@@ -4079,7 +4079,7 @@
       "properties:10": {
         "betterquesting:10": {
           "autoclaim:1": 0,
-          "desc:8": "§3Centrifuges§r provide you with §21 tiny pile§r of additional materials when processing ore dusts (§e9 tiny piles \u003d 1 dust§r). Sometimes it\u0027s the main dust, but often it\u0027s a different useful material that is otherwise unobtainable.\n\nInstead of washing §6impure dusts§r (made from macerating or hammering ores) in a cauldron, you can get more out of each dust by centrifuging it. The same is true of §6pure dusts§r, when you eventually make a §3Washer§r or §3Chemical Bath§r. Note however that pure and impure dusts will usually give different byproducts (always check in §bJEI§r).\n\nCentrifuges also have other uses like unmixing compound dusts and fluids, or getting §6Rubber Pulp§r, which can be chemically reacted with §6Sulfur§r to efficiently make §9liquid Rubber§r.",
+          "desc:8": "§3离心机§r可在处理矿物粉时额外产出§21份小撮粉§r（§e9份小撮粉 \u003d 1份粉§r）。在部分配方中这个小撮粉可能与被处理的矿物粉同属一种，但多数情况下则属于另一种金属或矿物，且通常是无法像铁或铅一样通过常规方式获得的关键材料。\n\n相较于炼药锅漂洗，使用离心机处理§6含杂粉§r（通过粉碎或锤碎矿石获得）或§6洁净粉§r（来自§3洗矿机§r或§3化学浸洗机§r）可获得的产出更多、更丰富，但请注意，洁净和含杂粉可产出的副产物往往不同，具体可查阅§bJEI§r。\n\n除了处理矿物外，离心机也有一些其他的用途，比如将搅拌混合而成的粉或流体重新分离开来，或是用来生产§6生橡胶浆§r，进而与§6硫粉§r进行化学反应来制备§9液态橡胶§r。",
           "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
@@ -4091,7 +4091,7 @@
           "ismain:1": 1,
           "issilent:1": 0,
           "lockedprogress:1": 1,
-          "name:8": "§2Centrifuge",
+          "name:8": "§2离心机",
           "partysinglereward:1": 0,
           "questlogic:8": "AND",
           "repeat_relative:1": 1,
@@ -4740,7 +4740,7 @@
       "properties:10": {
         "betterquesting:10": {
           "autoclaim:1": 0,
-          "desc:8": "§bApplied Energistics§r uses §6Storage Cells§r as its primary means of digital item and fluid storage.\n\nAll Storage Cells are limited to at most 63 distinct item types, with the first item of each new type taking up a chunk of the total bytes of cell storage, and subsequent items of existing types taking a small number of bytes thereafter.\n\nSo, if you want to maximize your storage for a particular item, it may be helpful to format your cells in a §eCell Workbench§r, which results in only those items being allowed to enter the cell.\n\nA §61k ME Storage Cell§r is the first and smallest cell for storing items. If you are going to be storing many different kinds of items in your network, you will need to make an §6ME Drive§r and fill it with multiple Storage Cells.\n\nThe §64k ME Storage Cell§r is the next size up. With four times the bytes it holds substantially more items per type, but it requires a more advanced technology than you currently have available: AE §6Processors§r made in an §3Inscriber§r.\n\nPress §eR§r whilst hovering over a cell to see its contents, and shift-right click whilst holding a §6Storage Cell§r to turn it back into a §6Housing§r and a §6Component§r.",
+          "desc:8": "§b应用能源§r以数字形式存储物品和流体的主要手段是§6存储元件§r。\n\n所有存储元件都只能存储至多63种不同的物品，且每个新的种类均会占用较大一部分存储空间，但同种物品的后续存储所占用的字节数则会较小。\n\n所以，如果你对空间利用率有极致的追求，可能需要借助§e元件工作台§r对元件进行格式化，以此限制允许进入元件的物品类型。\n\n§61k-ME存储元件§r是最初的，也是最小的物品存储元件。如果你的网络需要承载多种、大量的物品，则需要制造一台§6ME驱动器§r来同时驱动多个存储元件。\n\n比1k大一号的是§64k-ME存储元件§r，字节数翻了四倍，所以对单种物品来说，实质上能容纳的数量也要大得多，但俗话说好货不便宜，你如果暂时没有用来制造AE§6处理器§r所必需的§3压印器§r，那可能暂未达到它所需的科技水准。\n\n鼠标指针指向一个元件并按下§eR§r键即可查看它的制作原料。持握§6存储元件§r时潜行右击可将§6存储组件§r拆解出来，同时返还§6存储外壳§r。",
           "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
@@ -4752,7 +4752,7 @@
           "ismain:1": 1,
           "issilent:1": 0,
           "lockedprogress:1": 1,
-          "name:8": "Digital Storage At Last",
+          "name:8": "数字存储的尽头",
           "partysinglereward:1": 0,
           "questlogic:8": "AND",
           "repeat_relative:1": 1,
@@ -5004,7 +5004,7 @@
       "properties:10": {
         "betterquesting:10": {
           "autoclaim:1": 0,
-          "desc:8": "A pair of §6Double-Layer RF Capacitors§r combined with some §6Vibrant Alloy§r and §6Glowstone§r creates an §6Octadic RF Capacitor§r, which is a tier three §bEnderIO§r capacitor.",
+          "desc:8": "一对§6双层RF电容§r，一些§6跃动合金§r，再来点§6荧石§r，这便是§b末影接口§r的第三级电容——§6八层RF电容§r。",
           "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
@@ -5016,7 +5016,7 @@
           "ismain:1": 1,
           "issilent:1": 0,
           "lockedprogress:1": 1,
-          "name:8": "Octadic Capacitor",
+          "name:8": "八层电容",
           "partysinglereward:1": 0,
           "questlogic:8": "AND",
           "repeat_relative:1": 1,
@@ -5840,7 +5840,7 @@
       "properties:10": {
         "betterquesting:10": {
           "autoclaim:1": 0,
-          "desc:8": "Cuts things up.\n\nThe §3Cutting Machine§r is able to cut wafers, rods, wood, and various other things for you, making it a versatile crafting tool. Cutting blocks into 9 plates may be faster than using a §2Bending Machine §rto make them one at a time.\n\nThe MV version is required for cutting §6Silicon Boules§r for easier §6Diodes§r once you get §9Polyethylene (PE)§r, and for cutting §6Wafers§r into usable components.\n\nThe blade will require you to make §2Vanadiumsteel§r.\n\nCutting Machines work with plain §9Water§r for all recipes. You can also use §9Distilled Water§r which speeds up the processing somewhat, or §9Lubricant§r that speeds it up greatly (and uses very little per operation). These might be a little tricky to make right now, but are very worthwhile upgrades in the future.",
+          "desc:8": "用来切割的机器。\n\n§3切割机§r专一而又花心，能处理的物品很多，从木头到各种杆再到高科技的晶圆都能放进去切上一切。它能把方块切割成9块板，制作效率往往高于一次一个的§2卷板机§r。\n\n§9聚乙烯（PE）§r一旦到手，你可以使用硅晶圆代替砷化镓方便地制造更多§6二极管§r，但硅晶圆切割自单晶硅，而其必须由MV或更高等级的切割机来完成，在精密激光蚀刻机中出产的各种§6电子器件晶圆§r也是如此。\n\nMV级切割机材料中§2钒钢§r的制作需要格外留意。\n\n所有的切割机配方都可以使用普通的§9水§r来辅助进行，但改用§9蒸馏水§r则能使配方的处理速度更快，且单次消耗量更小。如果有条件，甚至可以一步到位使用§9润滑油§r。虽然目前看来略显棘手，但无论从处理速度还是消耗量来考虑，它带来的都是质的飞跃，值得一试。",
           "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
@@ -5852,7 +5852,7 @@
           "ismain:1": 1,
           "issilent:1": 0,
           "lockedprogress:1": 1,
-          "name:8": "§2Cutting Machine",
+          "name:8": "§2切割机",
           "partysinglereward:1": 0,
           "questlogic:8": "AND",
           "repeat_relative:1": 1,
@@ -6579,7 +6579,7 @@
       "properties:10": {
         "betterquesting:10": {
           "autoclaim:1": 0,
-          "desc:8": "With the §3Advanced Circuit Assembling Machine§r, a new theme of Circuits is available.",
+          "desc:8": "§3进阶电路组装机§r为你带来了一套全新系列的电路。",
           "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
@@ -6591,7 +6591,7 @@
           "ismain:1": 1,
           "issilent:1": 0,
           "lockedprogress:1": 1,
-          "name:8": "§2MV Circuit Assembler",
+          "name:8": "§2MV电路组装机",
           "partysinglereward:1": 0,
           "questlogic:8": "AND",
           "repeat_relative:1": 1,
@@ -6782,7 +6782,7 @@
       "properties:10": {
         "betterquesting:10": {
           "autoclaim:1": 0,
-          "desc:8": "With §6HV Machine Hulls§r made, you\u0027ve made your first step towards §eHigh Voltage (HV)§r power machinery!\n\nWhile you can make these in a crafting table with §6Polyethylene Sheets§r, liquid §9Polyethylene§r can be used to craft these directly in an §3Assembling Machine§r.",
+          "desc:8": "§6HV机身§r一旦到手，你便踏上了前往§e高压（HV）§r级机械的征程！\n\n选择中规中矩的工作台配方固然可行，但你也可以考虑在§3组装机§r中使用液态的§9聚乙烯§r来制作，省下固化处理的时间。",
           "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
@@ -6794,7 +6794,7 @@
           "ismain:1": 1,
           "issilent:1": 0,
           "lockedprogress:1": 1,
-          "name:8": "HV Machine Hulls",
+          "name:8": "HV机身",
           "partysinglereward:1": 0,
           "questlogic:8": "AND",
           "repeat_relative:1": 1,
@@ -7578,7 +7578,7 @@
       "properties:10": {
         "betterquesting:10": {
           "autoclaim:1": 0,
-          "desc:8": "§aPatterns§r are used to encode a single crafting table or processing recipe for on-demand automation with §bApplied Energistics§r.\n\nEncode them in a §aPattern Terminal§r.\n\nNote that recipes encoded with Substitutions on will use existing equivalent items, but §ewill only automatically craft the exact item specified in the recipe.§r\n\n§2With PAE2, recipes with tools have been improved by a huge amount. However, still aim for recipes without tools.§r\n\nUse recipes that use machines instead!",
+          "desc:8": "§a编码样板§r可以通过§a样板终端§r等设备写入单个工作台合成配方或其他机器的处理配方，以实现§b应用能源§r的按需自动合成。\n\n注意：编码时启用了替代选项的样板只会对输入的合成材料使用替代，而接受的输出成品§e只能与编码配方中指定的输出完全一致§r。\n\n§2本整合包所使用的应用能源2分支版AE2-UEL极大地优化了牵涉到工具的工作台配方（例如用到了扳手的各种机器外壳配方和用到了足足八种工具的维修仓配方），改善了相关的处理和判定，但最好还是避免依赖这类配方。§r\n\n也就是说，能用机器做，就用机器做！",
           "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
@@ -7590,7 +7590,7 @@
           "ismain:1": 1,
           "issilent:1": 0,
           "lockedprogress:1": 1,
-          "name:8": "Autocrafting Patterns",
+          "name:8": "自动合成样板",
           "partysinglereward:1": 0,
           "questlogic:8": "AND",
           "repeat_relative:1": 1,
@@ -7713,7 +7713,7 @@
       "properties:10": {
         "betterquesting:10": {
           "autoclaim:1": 0,
-          "desc:8": "As the name suggests, this terminal lets you encode recipes onto §aBlank Patterns§r.\n\nIt\u0027s a micropart, so you need to place it on §6ME Cable§r (not a conduit).",
+          "desc:8": "物如其名，你可以在这种终端内为§a空白样板§r写入配方。\n\n样板终端属于微部件，所以必须安装于§6ME线缆§r，而非末影接口的ME导管。",
           "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
@@ -7725,7 +7725,7 @@
           "ismain:1": 1,
           "issilent:1": 0,
           "lockedprogress:1": 1,
-          "name:8": "Pattern Terminal",
+          "name:8": "样板终端",
           "partysinglereward:1": 0,
           "questlogic:8": "AND",
           "repeat_relative:1": 1,
@@ -7983,7 +7983,7 @@
       "properties:10": {
         "betterquesting:10": {
           "autoclaim:1": 0,
-          "desc:8": "Autocrafting at last.\n\nWell, you need patterns too I guess.\n\nThe details of autocrafting will be explained in a later quest.",
+          "desc:8": "自动合成的终极答案，有它就够了。\n\n哦对了，还有样板。\n\n自动合成的细节将在后续任务中详细阐述。",
           "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
@@ -7995,7 +7995,7 @@
           "ismain:1": 1,
           "issilent:1": 0,
           "lockedprogress:1": 1,
-          "name:8": "Crafting Units",
+          "name:8": "合成单元",
           "partysinglereward:1": 0,
           "questlogic:8": "AND",
           "repeat_relative:1": 1,
@@ -8057,7 +8057,7 @@
       "properties:10": {
         "betterquesting:10": {
           "autoclaim:1": 0,
-          "desc:8": "Crafting in a digital grid is heaven after using primitive wooden tables for so long.\n\nIt\u0027s a micropart, so you need to place it on §6ME Cable§r (not a conduit).",
+          "desc:8": "在那张破木桌上忙活到天昏地暗，一个数字化的合成栏必然好似天赐甘霖一般。\n\n合成终端属于微部件，所以必须安装于§6ME线缆§r，而非末影接口的ME导管。",
           "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
@@ -8069,7 +8069,7 @@
           "ismain:1": 1,
           "issilent:1": 0,
           "lockedprogress:1": 1,
-          "name:8": "Crafting Terminal",
+          "name:8": "合成终端",
           "partysinglereward:1": 0,
           "questlogic:8": "AND",
           "repeat_relative:1": 1,
@@ -8535,7 +8535,7 @@
       "properties:10": {
         "betterquesting:10": {
           "autoclaim:1": 0,
-          "desc:8": "The second tier of AE §6Item Storage§r. Used for making §a4k ME Storage Cells§r or §a4k Crafting Storages§r.\n\nUnformatted disks always have a hard limit of 63 distinct types of items, but each step up has roughly four times the total storage space of the prior disk.",
+          "desc:8": "第二级的AE§6物品存储§r组件，用以制造§a4k-ME存储元件§r或§a4k合成存储器§r。\n\n若元件未经格式化，其能够存储的物品种类将被限制在63，但更大容量的元件至多可存储的单种物品数量则大约是前一级元件的4倍。",
           "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
@@ -8547,7 +8547,7 @@
           "ismain:1": 0,
           "issilent:1": 0,
           "lockedprogress:1": 1,
-          "name:8": "4k Item Storage",
+          "name:8": "4k物品存储",
           "partysinglereward:1": 0,
           "questlogic:8": "AND",
           "repeat_relative:1": 1,
@@ -9516,7 +9516,7 @@
       "properties:10": {
         "betterquesting:10": {
           "autoclaim:1": 0,
-          "desc:8": "§2You can start to churn out Microprocessors§r. These are the best kind of Tier One circuits you can make, and you won\u0027t unlock the better recipes for quite a while.\n\nYou should absolutely automate the production of these circuits, and §ekeep a stockpile automatically crafted§r so you don\u0027t have to wait around for them or bloat your crafting orders making them on-demand through AE.",
+          "desc:8": "§2你终于可以大批量生产微型处理器了。§r它是市面上最棒的一级电路，但它的后两种制造配方还需要走上好一段路才够得着。\n\n强烈建议尽早实现自动化、工业化的量产，并且§e保持储量，避免断货§r，别等急用的时候一边苦等，一边哀叹。",
           "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
@@ -9528,7 +9528,7 @@
           "ismain:1": 1,
           "issilent:1": 0,
           "lockedprogress:1": 1,
-          "name:8": "§2The Third And Final Tier One Circuits",
+          "name:8": "§2第三种，也是最后一种一级电路",
           "partysinglereward:1": 0,
           "questlogic:8": "AND",
           "repeat_relative:1": 1,
@@ -9584,7 +9584,7 @@
       "properties:10": {
         "betterquesting:10": {
           "autoclaim:1": 0,
-          "desc:8": "Better substrates. Using §6Polyvinyl Chloride§r (PVC) instead of §6Polyethylene§r (PE) doubles your yield.\n\nThe third §2and fourth material options§r are much more difficult to make and probably not worth considering for now.",
+          "desc:8": "更好的基板。使用§6聚氯乙烯§r（PVC）取代§6聚乙烯§r（PE）可获得双倍配方出产。\n\n第三§2和第四种材料选项§r虽然看似出产数量更高，但制作工序极其繁杂，可能并不适合在当前阶段选用。",
           "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
@@ -9596,7 +9596,7 @@
           "ismain:1": 1,
           "issilent:1": 0,
           "lockedprogress:1": 1,
-          "name:8": "§2Plastic Substrate",
+          "name:8": "§2塑料基板",
           "partysinglereward:1": 0,
           "questlogic:8": "OR",
           "repeat_relative:1": 1,
@@ -9660,7 +9660,7 @@
       "properties:10": {
         "betterquesting:10": {
           "autoclaim:1": 0,
-          "desc:8": "§2Unique to this tier of Circuit, this MV circuit doesn\u0027t require the previous tier to craft.§r These are the best kind of Tier Two circuits you can make, and you won\u0027t unlock the better recipes for quite a while.\n\nYou should absolutely automate the production of these circuits, and §ekeep a stockpile automatically crafted§r so you don\u0027t have to wait around for them or bloat your crafting orders making them on-demand through AE.",
+          "desc:8": "§2这种MV电路的不同之处在于，它们的合成配方中不包含低一等的电路。§r这是最好的一种二级电路，但你目前应该离它的后两种制造配方颇有一段距离。\n\n强烈建议为这些电路打造自动化产线，并§e使用自动合成来保持库存§r，以免在急用的时候对着慢如老牛的合成状态界面干瞪眼。",
           "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
@@ -9672,7 +9672,7 @@
           "ismain:1": 1,
           "issilent:1": 0,
           "lockedprogress:1": 1,
-          "name:8": "§2The Third And Final Tier Two Circuits",
+          "name:8": "§2第三种，也是最后一种二级电路",
           "partysinglereward:1": 0,
           "questlogic:8": "AND",
           "repeat_relative:1": 1,
@@ -10158,7 +10158,7 @@
       "properties:10": {
         "betterquesting:10": {
           "autoclaim:1": 0,
-          "desc:8": "Centrifuge §6Rare Earth§r, and among other useful materials, you\u0027ll get some §6Yttrium§r.\n\nBecause this recipe has chanced outputs, use a §2high tier Centrifuge to increase output chances§r, and §eensure the output slots don\u0027t fill up or excess items will be voided§r.",
+          "desc:8": "离心§6稀土§r，你会得到一众有用的产物，而§6钇§r正是其中的一员。\n\n稀土离心配方中的产物均为几率出产，且略受离心机电压等级的影响，所以§2更高级的离心机能够带来更多的产物§r，且能够§e确保输出槽有足够的空间容纳每种可能的产物，避免溢出而遭到销毁§r。",
           "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
@@ -10170,7 +10170,7 @@
           "ismain:1": 0,
           "issilent:1": 0,
           "lockedprogress:1": 1,
-          "name:8": "Yttrium",
+          "name:8": "钇",
           "partysinglereward:1": 0,
           "questlogic:8": "AND",
           "repeat_relative:1": 1,
@@ -10494,7 +10494,7 @@
       "properties:10": {
         "betterquesting:10": {
           "autoclaim:1": 0,
-          "desc:8": "Combining §9Titanium Tetrachloride§r with §6Magnesium§r in an §3Electric Blast Furnace§r (approximating the Kroll process) will net you your first §6Titanium§r.\n\nThis process is a loop, and therefore will not cost you any resources, apart from §6Rutile§r, if you process it correctly.\n\nUnfortunately, it is super hot. You\u0027ll need to cool it in a §3Vacuum Freezer§r for it to be usable.\n\nRouting through AE is an alternative way to using item conduits. Simply set an Ore Dictionary Storage Bus on the input bus of the freezer, set it to \u0027ingotHot*\u0027, and set it to a high piority. This will accept any new Hot Ingots entering your system, and eliminates the need for a big conduit network.\n\nDon\u0027t encode the Hot Ingot in a pattern though!",
+          "desc:8": "把§9四氯化钛§r和§6镁粉§r一起喂给§3电力高炉§r（大致模拟了克罗尔法制钛工艺），你将得到第一块§6钛§r。\n\n该工艺包含了数个循环的制备流程，如果操作正确，则不会消耗§6金红石§r以外的任何原料。\n\n刚出炉的钛火热逼人，化学浸洗机是拿它没办法的。要想得到真正能派得上用场的钛，你需要§3真空冷冻机§r。\n\n为了避免徒手抓钛导致自废武功，除了使用物品导管外，AE网络也是不错的选择。我们可以选用ME矿物词典存储总线，将其设置为“ingotHot*”并调高优先级。这样一来，任何进入网络的热锭均将优先发送至冷冻机，彻底解决四处拉线的苦恼。\n\n别把热锭编码进样板里，真的犯不上！",
           "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
@@ -10506,7 +10506,7 @@
           "ismain:1": 1,
           "issilent:1": 0,
           "lockedprogress:1": 1,
-          "name:8": "Hot Titanium",
+          "name:8": "钛热辣！",
           "partysinglereward:1": 0,
           "questlogic:8": "AND",
           "repeat_relative:1": 1,
@@ -10824,7 +10824,7 @@
       "properties:10": {
         "betterquesting:10": {
           "autoclaim:1": 0,
-          "desc:8": "With tier three circuits in hand, it\u0027s time to make a §3Distillation Tower§r, which is the gatekeeper for more advanced plastics like §6Epoxy§r and doing petrochemistry.\n\nThe Distillation Tower is a highly flexible multiblock structure, able to be anywhere from §62 blocks high to up to 13 high§r (12 fluid outputs). The way that it works is that each level of the tower after the first will output an additional fluid from the recipe. §cAny output fluids in excess of available buses are voided§r.\n\nWhat you need the Distillation Tower for initially is to break down §9Oil§r and §9Fermented Biomass§r into useful resources.§9 Oil§r distillation, with its four outputs, will require a §efive-block-high Distillation Tower§r (the quest materials are for such a tower; if you want to build it bigger, you will need §ean additional 7 casings and 1 fluid output per floor§r).\n\nAny recipe with more than four output fluids (like §9Fermented Biomass§r) will need a larger tower. Make sure to increase the height of your tower to accommodate all of the outputs you want to keep. Also check the voltage requirements of the recipes, as many Distillation Tower recipes need higher voltages than MV. §eYou can swap out your Energy Input for a higher tier one when that time comes§r. Also, any recipe that has an item output will need an §6Output Bus§r, anywhere on the bottom layer.\n\nThe tower we\u0027ll be building at first is 3x3x5 (LxWxH), with a hollow center. The §6Fluid Input Hatch §2can go anywhere on the bottom layer.§r. The §6controller§r goes in the middle of an outer edge of the bottom layer. The §6Energy Input Hatch§r can go wherever you can fit it on the bottom layer. The rest of the 3x3 must be filled with §6Clean Stainless Steel Casings§r.§2 You also need a Maintenance Hatch, which can go anywhere on the structure.§r Each level above that is a ring of 7 Clean Stainless Steel Casings, one §6Fluid Output§r and nothing in the center, except for the topmost layer which needs an eighth casing to fill in the center, capping off the top.\n\nFor distilling fluids which only have one useful output, like §9Biomass§r, it is recommended to use single-block Distilleries, due to their energy efficiency and generally lower costs.",
+          "desc:8": "手握3级电路，我们可以开始§3蒸馏塔§r的搭建任务了。这台多方块机器是制造§6环氧树脂§r等高级塑料，以及开始石油化工流程的先决条件。\n\n蒸馏塔的机器结构十分灵活，§62格至13格高§r（可承载12种流体输出）的结构统统视为有效。最底层上方的每一层加高结构均可加装一个输出仓，也就能使机器额外输出一种流体。§c若可用的输出仓数量小于配方输出的流体种类个数，配方处理不受影响，但超出的部分将遭到销毁§r。\n\n蒸馏塔的最初目的应当是将§9石油§r和§9发酵生物质§r分解为更有利用价值的资源。§9石油§r蒸馏的配方能够输出4种产物，意味着§e蒸馏塔的搭建高度应至少为5§r（本任务的需求匹配的正是这样一座蒸馏塔。若你打算扩建，则每层加高结构将需要§e1个输出仓和7个洁净不锈钢机器外壳§r）\n\n任何输出流体多于4种的配方（例如§9发酵生物质§r的配方）均需要较之更高的蒸馏塔，请按需扩建以确保产物不受损失。此外，你需要留意配方的电压要求。许多蒸馏塔配方仅能在高于MV的输入电压下运行。§e更高级的能源仓到手之后便可着手拆换§r。§6输出总线§r不是蒸馏塔的必要部件，但有些配方会产出物品。如果你不愿意割舍，可以将它加装在结构底部的任意位置。\n\n一个5层的蒸馏塔整体为3x3x5（长x宽x高）的中空结构。§2底层§r需要一个§6输入仓§r和至多两个§6能源仓§r，§2安装位置不限§r；核心的§6控制器§r方块则需位于底层任一边的中央位置；余下空位全部使用§6洁净不锈钢机器外壳§r铺满。§2维修仓可安装在结构的任意位置。§r上方的每一层均为7个机器外壳和1个§6输出仓§r构成的环状结构，但最上层需使用机器外壳封顶。\n\n§9生物质§r之类仅有一种有用产物的配方并不推荐使用蒸馏塔处理。单方块的蒸馏室拥有更高的能效，更加经济实惠。",
           "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
@@ -10836,7 +10836,7 @@
           "ismain:1": 1,
           "issilent:1": 0,
           "lockedprogress:1": 0,
-          "name:8": "§2Distillation Tower",
+          "name:8": "§2蒸馏塔",
           "partysinglereward:1": 0,
           "questlogic:8": "AND",
           "repeat_relative:1": 1,
@@ -11056,7 +11056,7 @@
       "properties:10": {
         "betterquesting:10": {
           "autoclaim:1": 0,
-          "desc:8": "Time to upgrade your §3Electric Blast Furnace§r! §6Kanthal§r is the second coil material available, increasing your EBF\u0027s operating temperature to 2700K so it can process more advanced materials.\n\n§6Kanthal Coils§r are required primarily for producing §6Silicon§r, required for Circuit parts, and §6Titanium§r, used for §5EV§r machines. An §bMV §3Assembler§r is required to produce them, and they require §62x Kanthal Wire§r, §6Aluminium Foil§r, and §9Copper fluid§r.\n\n§2In CEu, using higher-tier coils provides some bonuses to their multiblocks.§r For the §3Electric Blast Furnace§r, running recipes hotter than required can reduce the energy cost and time taken. The §dtemperature§r of the EBF depends on the coil used and the voltage it is running at. For Kanthal Coils, this means that recipes you could run with §6Cupronickel Coils§r will save §d5%§r energy.\n\nRefer to the coil tooltip and EBF controller tooltip for the other bonuses provided.",
+          "desc:8": "是时候给§3电力高炉§r来点升级了！§6坎塔尔合金§r是继白铜之后第二种可用的线圈制造材料，能将电力高炉的操作温度提升至2700K，借以处理更多更高级的材料。\n\n§6坎塔尔合金线圈方块§r的第一个任务是炼制§6硅§r和§6钛§r，前者是各种电路元件的关键材料，而后者则是通往§5EV§r级机器的阶梯。这种线圈方块的制造材料包括§62x 坎塔尔合金导线§r、§6铝箔§r和熔融的§9液态铜§r，且需要§bMV§r级的§3组装机§r做最终处理。\n\n§2在CEu版的格雷科技中，更高级的线圈将为多方块机器带来一些加成。§r拿§3电力高炉§r来说，其§d炉温§r取决于线圈和机器当前的电压，它比配方所需炉温越高，处理时间会越短，能耗也就会越低。若某个配方仅需§6白铜线圈方块§r方可运行，而当前线圈的材料为坎塔尔合金，则可节省§d5%§r的能耗。\n\n关于其他加成，可查看线圈方块和电力高炉核心方块的提示信息。",
           "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
@@ -11068,7 +11068,7 @@
           "ismain:1": 1,
           "issilent:1": 0,
           "lockedprogress:1": 1,
-          "name:8": "§2Kanthal Coil Blocks",
+          "name:8": "§2坎塔尔合金线圈方块",
           "partysinglereward:1": 0,
           "questlogic:8": "AND",
           "repeat_relative:1": 1,
@@ -16183,7 +16183,7 @@
       "properties:10": {
         "betterquesting:10": {
           "autoclaim:1": 0,
-          "desc:8": "If you\u0027ve tried to insert or remove a lot of items quickly, you might notice your ME network\n§eflickers offline§r briefly. This is because digitizing and re-materializing items requires energy!\n\nYour network doesn\u0027t naturally store very much energy and the §6Energy Acceptor§r only intermittently refills the network\u0027s power. To keep things stable, you will need to add some energy storage in your network using §6Energy Cells§r.\n\nJust place one anywhere in your network and it will fill up with AE energy received from the Energy Acceptor. Now, you should have enough energy in your network to prevent these power losses. Feel free to add more energy cells, or upgrade to §6Dense Energy Cells§r, if you continue to experience problems.\n\nIf you\u0027ve opted to enable channels in your AE2 configs, you will innately have some energy storage from the §3ME Controller§r, but we assume you know what you\u0027re doing at that point. §eAE2 Channels mechanics are outside the scope of the quest book, and this is the only time it will be mentioned.",
+          "desc:8": "不知你是否有过这样的体验：在基地里连轴转的时候没刹得住车，在ME网络中取出或放入物品的频率太高，动作太快，突然发觉ME网络的在线状态§e闪断§r了一小下。知识点来了：物品的数字化和再物质化都是需要消耗能量的！\n\n你的网络本身并不会存储太多能量，§6能源接收器§r只负责间歇性地将能量供应给网络，也不能太过仰仗。为了保持稳定的供电，你需要使用§6能源元件§r来存储ME能量。\n\n能源元件的放置位置不设限，保证连接在线即可。来自能源接收器的能量将涓涓流入其中，并自动填补网络的能量缺口。Feel free to add more energy cells, or upgrade to §6Dense Energy Cells§r, if you continue to experience problems.\n\nIf you\u0027ve opted to enable channels in your AE2 configs, you will innately have some energy storage from the §3ME Controller§r, but we assume you know what you\u0027re doing at that point. §eAE2 Channels mechanics are outside the scope of the quest book, and this is the only time it will be mentioned.",
           "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
@@ -16196,7 +16196,7 @@
           "ismain:1": 0,
           "issilent:1": 0,
           "lockedprogress:1": 1,
-          "name:8": "Oops... A Blackout!",
+          "name:8": "完蛋……停电了！",
           "partysinglereward:1": 0,
           "questlogic:8": "AND",
           "repeat_relative:1": 1,
@@ -22306,7 +22306,7 @@
       "properties:10": {
         "betterquesting:10": {
           "autoclaim:1": 0,
-          "desc:8": "You\u0027ll need large quantities of §6Canola§r (for §6Canola Oil§r in a §bCanola Press§r) and §6Sugarcane§r (for §6Ethanol§r).\n\nOf course, other crops can work as well, if you want to mix things up.",
+          "desc:8": "§6油菜§r可使用§b油菜压榨机§r榨成§6菜籽油§r，§6甘蔗§r是§6乙醇§r的稳定来源。建议你从现在开始广垦田，多产粮，以应对将来对上述粮食产品的超高需求量。\n\n其他庄稼当然也能行，所以如果你想把万亩农田装点得色彩斑斓，那也无妨。",
           "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
@@ -22318,7 +22318,7 @@
           "ismain:1": 0,
           "issilent:1": 0,
           "lockedprogress:1": 1,
-          "name:8": "Farming",
+          "name:8": "耕田种地",
           "partysinglereward:1": 0,
           "questlogic:8": "AND",
           "repeat_relative:1": 1,
@@ -23528,7 +23528,7 @@
       "properties:10": {
         "betterquesting:10": {
           "autoclaim:1": 0,
-          "desc:8": "§2You can make HV Batteries like LV and MV ones, but there is a better option.\n\nEnergium Crystals can store 6,400,000 EU, at the cost of some crafting complexity. They need an HV Autoclave.",
+          "desc:8": "§2“小”和“中”后面不一定非得是“大”。\n\n能量水晶的制作步骤稍显琐碎，需要HV级的高压釜，但其高达6,400,000 EU的储电量一定能值回票价。",
           "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
@@ -23543,7 +23543,7 @@
           "ismain:1": 0,
           "issilent:1": 0,
           "lockedprogress:1": 1,
-          "name:8": "§2Good HV Power Storage",
+          "name:8": "§2优秀的HV级能量存储方案",
           "partysinglereward:1": 0,
           "questlogic:8": "AND",
           "repeat_relative:1": 1,
@@ -26615,7 +26615,7 @@
       "properties:10": {
         "betterquesting:10": {
           "autoclaim:1": 0,
-          "desc:8": "Congratulations! You\u0027ve reached the end of the circuit progression.\n\nThe only UHV circuit is the §6Wetware Mainframe§r, which is used for crafting high-tier micro miners among some endgame stuff.",
+          "desc:8": "祝贺你到达了电路进度的最尾端！\n\nUHV电路只有§6湿件主机§r一种，没别的了。这种电路将出现在高等级的微型采矿舰和其他一些毕业道具的配方中。",
           "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
@@ -26627,7 +26627,7 @@
           "ismain:1": 0,
           "issilent:1": 0,
           "lockedprogress:1": 1,
-          "name:8": "UHV Circuit...s?",
+          "name:8": "还有个UHV电路？？",
           "partysinglereward:1": 0,
           "questlogic:8": "AND",
           "repeat_relative:1": 1,
@@ -26933,7 +26933,7 @@
       "properties:10": {
         "betterquesting:10": {
           "autoclaim:1": 0,
-          "desc:8": "The §3Multi Smelter§r is an absolute smelting unit, and is most likely the best furnace added by a mod.\n\nIt\u0027s a 3x3x3 multiblock machine capable of §esmelting huge amounts of items per second§r. By upgrading its coils and power tier, it can become capable of smelting up to literal thousands of items per second.\n\nShift and hover over different coil blocks: they tell you the number of items a Multi Smelter can smelt per operation: §e32 items per level§r. The most basic Multi Smelter essentially does 32 items in the same time as a furnace does one. With a set of §6Tungstensteel§r coil blocks, that jumps to 128 items per operation.\n\nThis quest doesn\u0027t ask for coils, hatches or buses: feel free to choose whatever combination you want. You\u0027ll need §a8 coil blocks§r, §a1 input bus§r, §a1 output bus§r, and §21 maintenance hatch§r, §21 muffler hatch§r, and at least §a1 energy hatch§r, all of any tier.",
+          "desc:8": "§3多重冶炼炉§r是一台不折不扣的熔炼利器，甚至可谓是众多模组提供的所有熔炼设备中当之无愧的的佼佼者。\n\n这是一种尺寸为3x3x3的多方块机器，能够§e在弹指之间烧炼巨量的物品§r。如果有够好的线圈方块和够高的电压等级加持，一秒几千个也不在话下。\n\n鼠标指针指向线圈方块并按住Shift即可在提示信息中查看使用该线圈的多重冶炼炉单次操作可烧炼的物品数量：§e每个等级可额外烧炼32件物品§r，意味着最基础最普通的多重冶炼炉就抵得上32台同时运作的原版熔炉。若是换用§6钨钢§r线圈方块，这个数字将飙升至128。\n\n本任务并不要求线圈方块、流体仓或物品总线，你可以自由构想符合你期望的组合，但硬性要求至少包含§a8个线圈方块§r、§a1个输入总线§r、§a1个输出总线§r、§21个维修仓§r、§21个隔音排气仓§r，以及至少§a1个能源仓§r。所有部件的电压等级不限。",
           "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
@@ -26945,7 +26945,7 @@
           "ismain:1": 0,
           "issilent:1": 0,
           "lockedprogress:1": 0,
-          "name:8": "Multi Smelter",
+          "name:8": "多重冶炼炉",
           "partysinglereward:1": 0,
           "questlogic:8": "AND",
           "repeat_relative:1": 1,
@@ -34023,7 +34023,7 @@
       "properties:10": {
         "betterquesting:10": {
           "autoclaim:1": 0,
-          "desc:8": "The §3HV Circuit Assembling Machine§r unlocks §2the Mainframe. That\u0027s it.§r\n\nIt can also optionally overclock recipes up to 128 EU/t, gaining additional speed for relatively more power.",
+          "desc:8": "§3HV§r级的§3电路组装机§r将解锁一种新的电路系列——§2主机§r。§2没有其他过于特殊之处§r。\n\n同样地，它也能将配方的功率超频至128 EU/t，以相对更高的能耗换取额外的处理速度加成。",
           "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
@@ -34035,7 +34035,7 @@
           "ismain:1": 1,
           "issilent:1": 0,
           "lockedprogress:1": 1,
-          "name:8": "§2HV Circuit Assembling Machine",
+          "name:8": "§2HV电路组装机",
           "partysinglereward:1": 0,
           "questlogic:8": "AND",
           "repeat_relative:1": 1,
@@ -34610,7 +34610,7 @@
       "properties:10": {
         "betterquesting:10": {
           "autoclaim:1": 0,
-          "desc:8": "Overclocking aside, as you continue to progress in §5Nomifactory§r, materials made in the §3Electric Blast Furnace§r will take longer to complete. §eMore advanced coils allow for the furnace to §eget hot enough to process more advanced materials§r, §2and they also granting energy efficiency bonuses and speed bonuses to overclocking.§r\n\nDespite this, you\u0027ll still need to continually expand your smelting and power generation infrastructure.\n\nYou don\u0027t have to get all four of these Electric Blast Furnaces completed and running just yet, but be prepared to make many of them over the course of the pack.\n\n§2As a reminder, all blocks and hatches can be shared across EBFs, except Maintenance!",
+          "desc:8": "先不谈超频，在§5Nomifactory§r中推线越深，应该越会感觉到§3电力高炉§r耗时之长。§e更高级的线圈能提供处理更高级的材料要求的炉温§r，§2也可以提供超频所需的能效和速度加成。§r\n\n但尽管如此，你还是免不了继续拓展你的基础建设，提升电力高炉的数量规模，同时扩建与之匹配的发电设施。\n\n这四台电力高炉并不非要同时高负荷运转，但你需要未雨绸缪，多多益善。\n\n§2顺便提醒一句，除维修仓外的所有的物品总线、流体仓和其他杂项方块均可被多台多方块机器共享！",
           "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
@@ -34622,7 +34622,7 @@
           "ismain:1": 0,
           "issilent:1": 0,
           "lockedprogress:1": 1,
-          "name:8": "§2More Blast Furnaces",
+          "name:8": "§2更多电力高炉",
           "partysinglereward:1": 0,
           "questlogic:8": "AND",
           "repeat_relative:1": 1,
@@ -35412,7 +35412,7 @@
       "properties:10": {
         "betterquesting:10": {
           "autoclaim:1": 0,
-          "desc:8": "Being able to fly is pretty sick. It\u0027s also pretty expensive.\n\nIt\u0027s probably a bit premature to consider a §6jetpack§r at this point, but if you really want to craft this bad boy, I won\u0027t stop you.\n\nThere\u0027s also a quest chain for §bEnderIO§r Jetpacks (starting with the §6Conductive Iron Jetpack§r). Eventually you\u0027ll need to make both, but not for a long time, so feel free to ignore at least one of these quest chains unless you really really like flying.\n\nIf the §6Jetpack§r overview and information from §bThe One Probe§r conflict, they can be adjusted through the §bSimply Jetpacks 2 §eConfiguration file§r or the command §6/topcfg§r respectively.",
+          "desc:8": "能飞很酷，但也很贵。\n\n还没跑得顺溜就想着靠着§6飞行背包§r一跃冲天未免有些天真，但你若一意孤行，我必不会执意阻拦。\n\n使用§b末影接口§r材料的飞行背包有一条独立的任务线（从§6导电铁飞行背包§r开始）。在不久后的将来，面对“飞行”二字的终极解决方案，你会需要同时制作两者，但在目前，如果你的执念尚不及走火入魔的地步，你大可以跳过其中一条不做。\n\n如果在屏幕上叠加显示的§6飞行背包§r数据总览与§bThe One Probe§r信息框重叠了，你可以使用§6/topcfg§r命令或进入§bSimply Jetpacks 2§r的§e配置文件§r调整显示位置。",
           "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
@@ -35428,7 +35428,7 @@
           "ismain:1": 0,
           "issilent:1": 0,
           "lockedprogress:1": 1,
-          "name:8": "Leadstone Jetpack",
+          "name:8": "铅石飞行背包",
           "partysinglereward:1": 0,
           "questlogic:8": "AND",
           "repeat_relative:1": 1,
@@ -45885,7 +45885,7 @@
       "properties:10": {
         "betterquesting:10": {
           "autoclaim:1": 0,
-          "desc:8": "This is the fluid counterpart to the standard §aME Interface§r.\n\nFluids inserted into it are automatically digitized into the network, though it does have internal storage that can back up if you run out of space.\n\nYou can configure the interface to stock up to §2nine§r different fluids (or for faster throughput later on, several tanks of the same fluid). You can use §aPump covers§r on §bGregTech§r machines to pull fluids from or extract fluids into an interface. This is useful for routing fluids if you\u0027re already using the output side for items or a different fluid.\n\nIt is also far more performant and scales better without lag than §aFluid Import/Export Buses§r.",
+          "desc:8": "标准§aME接口§r的流体型号。\n\n输入其中的流体将经过数字化处理并进入网络。其内部自带缓存空间，可作为网络存储耗尽时的临时后备。\n\n流体接口可配置§29§r种不同的输出流体，也可将多个配置槽位设为同种流体以提升输出速率。你可以将§a电动泵§r作为§a覆盖板§r安装在§b格雷科技§r的机器侧面来抽取其中的流体或将产出的流体输入网络，在输出面已承载物品或其他流体的传输任务时此方法会格外有效。\n\n同时，流体接口对游戏性能影响较小，不易造成卡顿，使其在这一方面远胜于§a流体导入/导出总线§r。",
           "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
@@ -45897,7 +45897,7 @@
           "ismain:1": 1,
           "issilent:1": 0,
           "lockedprogress:1": 1,
-          "name:8": "Fluid Interface",
+          "name:8": "流体接口",
           "partysinglereward:1": 0,
           "questlogic:8": "AND",
           "repeat_relative:1": 1,
@@ -47181,7 +47181,7 @@
       "properties:10": {
         "betterquesting:10": {
           "autoclaim:1": 0,
-          "desc:8": "Using plain §3Steam Dynamos§r is pretty inefficient.\n\nIt\u0027s strongly recommended to make §aaugments§r. With these, you can turn one Steam Dynamo into a §3steam boiler§r, and two other Steam Dynamos into §3steam turbines§r. The ratio is always §a1:2§r if all Dynamos are equally upgraded.\n\nThis greatly increases the overall efficiency and the amount of power produced, from §a40 RF/t§r per basic steam dynamo to §a320 RF/t§r per set of three augmented dynamos.",
+          "desc:8": "不加任何升级的§3蒸汽能源炉§r可谓是十分低效。\n\n我们强烈建议你为它们加装§a专业化升级§r，将一台蒸汽能源炉升级为§3蒸汽锅炉§r，再配上两台改装而成的§3蒸汽涡轮§r。若所有能源炉的其他升级参数相同，则能恰好按§a1:2§r的比率搭配。\n\n这样一来，基础产能功率仅§a40 RF/t§r的蒸汽能源炉即可摇身一变，成为三台组合功率合计§a320 RF/t§r的发电利器。",
           "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
@@ -47193,7 +47193,7 @@
           "ismain:1": 0,
           "issilent:1": 0,
           "lockedprogress:1": 1,
-          "name:8": "Boilers and Turbines",
+          "name:8": "锅炉和涡轮",
           "partysinglereward:1": 0,
           "questlogic:8": "AND",
           "repeat_relative:1": 1,
@@ -48180,7 +48180,7 @@
       "properties:10": {
         "betterquesting:10": {
           "autoclaim:1": 0,
-          "desc:8": "Circuits along this line are HV, and can all be substituted in recipes.\n\nThe pattern stays the same: the rightmost circuit comes in larger quantities and is overall easier to produce.",
+          "desc:8": "这条线上所有电路的等级均为HV，在所有配方中均可互相替代。\n\n它们遵循同样的规律：次序越往右，单个配方产量越高，总体制造难度越低。",
           "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
@@ -48192,7 +48192,7 @@
           "ismain:1": 0,
           "issilent:1": 0,
           "lockedprogress:1": 1,
-          "name:8": "HV Circuits",
+          "name:8": "HV电路",
           "partysinglereward:1": 0,
           "questlogic:8": "OR",
           "repeat_relative:1": 1,
@@ -48746,7 +48746,7 @@
       "properties:10": {
         "betterquesting:10": {
           "autoclaim:1": 0,
-          "desc:8": "§oThis is represented in a Processing Line. Visit the Processing Lines Tab to have more info, useful tips and a visual representation.§r\n\nNow that you have acquired §6Steel§r, your path to infinite cobblestone awaits! The §6Cobblestone Generator§r continuously outputs cobblestone into adjacent inventories, and can be upgraded to produce it even faster.\n\nCobblestone can be processed into many useful materials:\n\n§6Stone Dust§r is useful for small amounts of a whole host of useful materials.\n\n§6Gravel§r is useful for making conduits and §9Concrete§r.\n\n§6Sand§r is useful for §6Glass§r, which can be turned into §6Nether Quartz§r or §6Silicon Dioxide§r for §6Oxygen§r.\n\nFinally, §6Dust§r can be turned into §6Clay§r which is both a reliable source of §6Aluminium§r and very important for automating §bDeep Mob Evolution§r.\n\nSet up a §ecobbleworks§r soon, so you can stockpile all these useful materials.",
+          "desc:8": "§o请查阅“处理线”任务线以获取更多有关圆石处理的信息、提示和图例说明。§r\n\n§6钢§r一搞到手，无限圆石也就不远了！§6造石机§r会持续产出圆石并自动输出至紧邻的物品容器中，且有两种升级型号，越高级的造石机产出速率越快。\n\n许多有用的材料都来自圆石这种看似稀松平常的方块：\n\n§6石头粉§r。聚在一堆，其貌不扬，但其中蕴含着惊人的潜力；\n\n§6砂砾§r，导管和§9混凝土§r的关键材料。\n\n§6沙子§r，烧制成§6玻璃§r后可进一步处理，得到§6下界石英§r，或制备§6氧气§r所需的§6二氧化硅§r；\n\n最后，还有§6尘土块§r，用于制造§6黏土§r，借以获得§6铝§r的可靠来源，并帮助形成§b深度怪物进化§r相关的自动化流水线。\n\n§e圆石处理线§r一经成型，上述所有材料的大量囤积也将成为现实。",
           "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
@@ -48758,7 +48758,7 @@
           "ismain:1": 0,
           "issilent:1": 0,
           "lockedprogress:1": 1,
-          "name:8": "Infinite Cobblestone",
+          "name:8": "无限圆石",
           "questlogic:8": "AND",
           "repeat_relative:1": 1,
           "repeattime:3": -1,
@@ -48881,7 +48881,7 @@
       "properties:10": {
         "betterquesting:10": {
           "autoclaim:1": 0,
-          "desc:8": "The §6Numismatic Dynamo§r is the main source of power through the Mid Game of the pack. Paired with a §aLapidary Calibration Augment§r and a self-sustaining §bDeep Mob Evolution§r setup, this dynamo can burn through §6Diamonds§r to produce large amounts of §eRF power§r.\n\nJust like other §bThermal Expansion§r dynamos, the §6Numismatic Dynamo§r can be given tier upgrades to produce more power and gain access to more §aAugment Slots§r.",
+          "desc:8": "§6通货能源炉§r是本整合包中期阶段的主要电力来源。加装§a宝石刻印校准§r升级并搭配一套自供给的§b深度怪物进化§r产线后，这种能源炉能从§6钻石§r中攫取大量的§eRF能量§r。\n\n与其他§b热力膨胀§r的能源炉一样，§6通货能源炉§r也能通过硬化、强化等设备升级来获得更多§a升级槽位§r和产能加成。",
           "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
@@ -48899,7 +48899,7 @@
           "ismain:1": 1,
           "issilent:1": 0,
           "lockedprogress:1": 1,
-          "name:8": "Numismatic Power",
+          "name:8": "钞能力",
           "partysinglereward:1": 0,
           "questlogic:8": "AND",
           "repeat_relative:1": 1,
@@ -51806,7 +51806,7 @@
       "properties:10": {
         "betterquesting:10": {
           "autoclaim:1": 0,
-          "desc:8": "§2The successor of Small Coils, Inductors are another circuit component you will need.\n\nFor the best results, use Nickel Zinc Ferrite and Annealed Copper to make these.\n\nBut depending on which setups you build first, you may not need to make many of the basic version over the SMD version.",
+          "desc:8": "§2小线圈的后继者——电感，是另一种你需要用到的电路组件。\n\n用到镍锌铁氧体和退火铜的配方制作数量最多，可以优先考虑使用。\n\n但如果你已经拥有或正打算制作HV级的组装机，则并不需要储备过多基础版本的电感，而可以直接制作性价比更加卓越的贴片电感。",
           "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
@@ -52318,7 +52318,7 @@
       "properties:10": {
         "betterquesting:10": {
           "autoclaim:1": 0,
-          "desc:8": "§2A more compact infinite Water source. Place this as a cover on any GT machine and it will insert 16B of water every second.",
+          "desc:8": "§2极致纤薄的无限水源，作为覆盖板加装至任意格雷机器或容器即可以每秒16桶的速率降下瓢泼大雨。",
           "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
@@ -52330,7 +52330,7 @@
           "ismain:1": 0,
           "issilent:1": 0,
           "lockedprogress:1": 0,
-          "name:8": "§2Greggy Infinite Water",
+          "name:8": "§2更适合格雷宝宝的无限水",
           "questlogic:8": "AND",
           "repeat_relative:1": 1,
           "repeattime:3": -1,
@@ -52450,7 +52450,7 @@
       "properties:10": {
         "betterquesting:10": {
           "autoclaim:1": 0,
-          "desc:8": "The §3Central Monitor§r enables you to oversee sections of your factory §eremotely§r! When paired with the §aWireless Digital Interface covers§r, it becomes possible for you to not only view §ethe status and capacity of your machines, but also access their GUIs and display the entirety of your §3multi-blocks§e right on the screen§r, providing §econvenient access to all relevant parts without leaving your seat§r!\n\nThe Central Monitor itself is a multi-block, capable of supporting a screen ranging §ein size from 3x2 to 14x9§r. Do remember to configure it to the correct size before building.\n\nSetting it up is straightforward. Start by crafting a Wireless Digital Interface. Once it\u0027s ready and in your hand, sneak-right click on the Central Monitor, then place it on any machine, be it a single- or multi-block, just like any other cover. After installation, right-click the Central Monitor and navigate to an available slot. The quantity of slots will depend on the Central Monitor\u0027s size.\n\nOnce in the slot menu, you\u0027ll see §ethe selected machine appearing on the right side of the screen§r. You can now choose the machine and, subject to the §aPlugin§r installed, exhibit pertinent information on the display. Most plugins offer the luxury of §eaccessing the chosen machine directly from the screen§r.\n\nHere\u0027s a snapshot of what different Plugins can do:\n\n- §lText Plugin§r: as the name suggests, it enables you to §ehave 16 different strings per Plugin§r, each having its own color.\n\n- §lOnline Picture Plugin§r: ideal for showcasing your favorite memes. Simply feed it a direct link to an image, and it will display it for all to see.\n\n- §lGUI Proxy Plugin§r: attaches the GUI of a selected machine to the screen, allowing direct machine access with a simple right-click. §cDon\u0027t forget to activate Proxy Mode on the right side of the menu!§r\n\n- §lAdvanced Monitor Proxy Plugin§r: this one takes the cake. It enables you to project entire multi-blocks onto the screen, giving you direct access to any visible part of the multi-block. This can all be done without ever needing to return to the actual machine.",
+          "desc:8": "有了§3中央监控器§r，纵使§e远隔千万里§r，基地风光也能尽收眼底！与§a无线数字接口覆盖板§r搭配使用时，你不仅能够§e浏览机器的内容物和运作状态，还能访问它们的界面，甚至将整个§3多方块机器§e渲染在屏幕上§r，§e人在家中坐，但万物仍任你掌握！§r\n\n中央监控器本身也是一种多方块机器，能够搭载§e尺寸在3x2到14x9之间§r的监控器屏幕。需要留意的是，在开始搭建前需先在中央监控器内设定好屏幕大小。\n\n监控器的设置方法简单直接。首先，制作一个无线数字接口，手持并潜行右击中央监控器。绑定完成后，像其他覆盖板一样将其加装于单方块或多方块机器。安装完成后，右击中央监控器，并在界面中After installation, right-click the Central Monitor and navigate to an available slot. The quantity of slots will depend on the Central Monitor\u0027s size.\n\nOnce in the slot menu, you\u0027ll see §ethe selected machine appearing on the right side of the screen§r. You can now choose the machine and, subject to the §aPlugin§r installed, exhibit pertinent information on the display. Most plugins offer the luxury of §eaccessing the chosen machine directly from the screen§r.\n\nHere\u0027s a snapshot of what different Plugins can do:\n\n- §lText Plugin§r: as the name suggests, it enables you to §ehave 16 different strings per Plugin§r, each having its own color.\n\n- §lOnline Picture Plugin§r: ideal for showcasing your favorite memes. Simply feed it a direct link to an image, and it will display it for all to see.\n\n- §lGUI Proxy Plugin§r: attaches the GUI of a selected machine to the screen, allowing direct machine access with a simple right-click. §cDon\u0027t forget to activate Proxy Mode on the right side of the menu!§r\n\n- §lAdvanced Monitor Proxy Plugin§r: this one takes the cake. It enables you to project entire multi-blocks onto the screen, giving you direct access to any visible part of the multi-block. This can all be done without ever needing to return to the actual machine.",
           "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
@@ -52462,7 +52462,7 @@
           "ismain:1": 0,
           "issilent:1": 0,
           "lockedprogress:1": 0,
-          "name:8": "§2Central Monitor",
+          "name:8": "§2中央监控器",
           "questlogic:8": "AND",
           "repeat_relative:1": 1,
           "repeattime:3": -1,
@@ -52528,7 +52528,7 @@
       "properties:10": {
         "betterquesting:10": {
           "autoclaim:1": 0,
-          "desc:8": "§oNote: This quest accepts any Super or Quantum Tank.\n\n§2Super and Quantum Tanks are the high-tier GT Fluid storage solution.§r\n\nThe first tier holds §64,000 buckets§r, and higher tiers hold more. They can also be used like Drums to put fluids in and out of machines.\n\nYou can conveniently configure §cvoiding§r for them to always void, start voiding at 95% capacity, or never void.\n\nThe item equivalent are §3Super Chests§r, which are used in certain §6Micro Miner§r recipes.\n\nHigher-tier versions of these are called §3Quantum Tanks§r and §3Quantum Chests§r. They all require their respective tier §3Hermetic Casings§r to craft.",
+          "desc:8": "§o提醒：本任务接受任何等级的超级缸或量子缸。\n\n§2超级缸和量子缸来自格雷科技，是一种更高级的流体存储解决方案。§r\n\n最初级的超级缸可盛装§64,000桶§r流体，等级越高，容积越大。与格雷科技的金属桶一样，它可以与各种机器进行流体传输。\n\n你可以使用界面中的按钮方便地配置流体§c销毁§r规则：始终销毁、容量95%以上销毁，或禁用销毁。\n\n与之等价的物品存储设备叫§3超级箱§r，你也可以在一些§6微型采矿舰§r的合成配方中找到它们的身影。\n\n§3量子缸/箱§r只是超级缸/箱的别名，听上去更厉害而已。它们的制作材料中都包含等级与之相匹配的§3密闭外壳§r。",
           "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
@@ -52540,7 +52540,7 @@
           "ismain:1": 0,
           "issilent:1": 0,
           "lockedprogress:1": 0,
-          "name:8": "§2Super and Quantum Tanks",
+          "name:8": "§2超级缸、量子缸",
           "questlogic:8": "AND",
           "repeat_relative:1": 1,
           "repeattime:3": -1,
@@ -55527,7 +55527,7 @@
       "properties:10": {
         "betterquesting:10": {
           "autoclaim:1": 0,
-          "desc:8": "§2This element is now required in Omnium.",
+          "desc:8": "§2本元素现为全能素的必需材料。",
           "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
@@ -55539,7 +55539,7 @@
           "ismain:1": 0,
           "issilent:1": 0,
           "lockedprogress:1": 0,
-          "name:8": "§2Element 119: Tritanium",
+          "name:8": "§2第119号元素：三钛合金",
           "questlogic:8": "AND",
           "repeat_relative:1": 1,
           "repeattime:3": -1,
@@ -55593,7 +55593,7 @@
       "properties:10": {
         "betterquesting:10": {
           "autoclaim:1": 0,
-          "desc:8": "§2This element is now required in Omnium.",
+          "desc:8": "§2本元素现为全能素的必需材料。",
           "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
@@ -55605,7 +55605,7 @@
           "ismain:1": 0,
           "issilent:1": 0,
           "lockedprogress:1": 0,
-          "name:8": "§2Element 120: Duranium",
+          "name:8": "§2第120号元素：铿铀",
           "questlogic:8": "AND",
           "repeat_relative:1": 1,
           "repeattime:3": -1,
@@ -55659,7 +55659,7 @@
       "properties:10": {
         "betterquesting:10": {
           "autoclaim:1": 0,
-          "desc:8": "§2This element is now required in Omnium.",
+          "desc:8": "§2本元素现为全能素的必需材料。",
           "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
@@ -55671,7 +55671,7 @@
           "ismain:1": 0,
           "issilent:1": 0,
           "lockedprogress:1": 0,
-          "name:8": "§2Element 125: Trinium",
+          "name:8": "§2第125号元素：凯金",
           "questlogic:8": "AND",
           "repeat_relative:1": 1,
           "repeattime:3": -1,
@@ -56735,7 +56735,7 @@
       "properties:10": {
         "betterquesting:10": {
           "autoclaim:1": 0,
-          "desc:8": "§2Sodium Potassium is an alloy of... take a guess.\n\nIt\u0027s used in the construction of HV and above Energy and Dynamo hatches.",
+          "desc:8": "§2钠钾合金是一种合金，制备原料为……你说呢？\n\nHV及更高等级的能源仓和动力仓均需要用到这种材料。",
           "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
@@ -56751,7 +56751,7 @@
           "ismain:1": 1,
           "issilent:1": 0,
           "lockedprogress:1": 0,
-          "name:8": "§2Sodium Potassium",
+          "name:8": "§2钠钾合金",
           "questlogic:8": "AND",
           "repeat_relative:1": 1,
           "repeattime:3": -1,
@@ -56803,7 +56803,7 @@
       "properties:10": {
         "betterquesting:10": {
           "autoclaim:1": 0,
-          "desc:8": "With §6Silver, LPICs§r, §9NaK§r, and an §6HV Assembler§r, you can finally make HV Energy and Dynamo hatches.\n\nYou should get the gist of making these now, so there will not be further quests on Energy and Dynamo hatches.\n\nLook out for a new more efficient EV-tier recipe for §6Steel§r in the EBF.",
+          "desc:8": "§6银§r、§6LPIC§r、§9钠钾合金§r、§6HV组装机§r，齐活。HV能源和动力仓，搞定。\n\n走到这一步，你应该已经掌握了制造能源仓和动力仓的要点，所以更高级的型号将不再提供对应任务来赘述。\n\n两个HV能源仓能将电力高炉的电压等级提升至EV，所以现在你可以使用两个新的电力高炉配方实现高效炼§6钢§r。",
           "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
@@ -56815,7 +56815,7 @@
           "ismain:1": 1,
           "issilent:1": 0,
           "lockedprogress:1": 0,
-          "name:8": "§2HV Energy Hatch",
+          "name:8": "§2HV能源仓",
           "questlogic:8": "AND",
           "repeat_relative:1": 1,
           "repeattime:3": -1,
@@ -58046,7 +58046,7 @@
       "properties:10": {
         "betterquesting:10": {
           "autoclaim:1": 0,
-          "desc:8": "A variant of the §aInterface Configuration Terminal§r which allows you to view and edit the stocking slots of fluid interfaces on your network, as well as highlighting them in-world.\n\nUseful for managing passive automation setups, and finding them when your base gets large.",
+          "desc:8": "§aME接口配置终端§r的流体型号，你可以在其中浏览网络中ME流体接口的槽位情况，也可以使其高亮显示。\n\n对于管理被动自动化系统十分有用，其高亮功能也能帮助你在庞大的基地中快速确定接口的实际位置。",
           "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
@@ -58058,7 +58058,7 @@
           "ismain:1": 1,
           "issilent:1": 0,
           "lockedprogress:1": 0,
-          "name:8": "Fluid Interface Configuration Terminal",
+          "name:8": "流体接口配置终端",
           "questlogic:8": "AND",
           "repeat_relative:1": 1,
           "repeattime:3": -1,
@@ -58112,7 +58112,7 @@
       "properties:10": {
         "betterquesting:10": {
           "autoclaim:1": 0,
-          "desc:8": "A variant of the §aInterface Terminal§r which allows you to view and edit the stocking slots of interfaces on your network, as well as highlighting them in-world.\n\nUseful for managing passive automation setups, and finding them when your base gets large.",
+          "desc:8": "§aME接口终端§r的升级版，你可以在其中浏览网络中ME接口的槽位情况，也可以使其高亮显示。\n\n对于管理被动自动化系统十分有用，其高亮功能也能帮助你在庞大的基地中快速确定接口的实际位置。",
           "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
@@ -58124,7 +58124,7 @@
           "ismain:1": 1,
           "issilent:1": 0,
           "lockedprogress:1": 0,
-          "name:8": "Interface Configuration Terminal",
+          "name:8": "接口配置终端",
           "questlogic:8": "AND",
           "repeat_relative:1": 1,
           "repeattime:3": -1,
@@ -58178,7 +58178,7 @@
       "properties:10": {
         "betterquesting:10": {
           "autoclaim:1": 0,
-          "desc:8": "No Description",
+          "desc:8": "没有描述",
           "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
@@ -58190,7 +58190,7 @@
           "ismain:1": 0,
           "issilent:1": 1,
           "lockedprogress:1": 0,
-          "name:8": "Breaking Some Eggs",
+          "name:8": "敲点鸡蛋",
           "questlogic:8": "AND",
           "repeat_relative:1": 1,
           "repeattime:3": -1,
@@ -58254,7 +58254,7 @@
       "properties:10": {
         "betterquesting:10": {
           "autoclaim:1": 0,
-          "desc:8": "§bUV§r Machine Hulls. The second last Machine Hull. §bUV§r stands for §bUltimate Voltage§r.\n\nThis Hull is made with §2Darmstadtium, Yttrium Barium Cuprate Cables, and Polybenzimidazole.§r\n\nYou\u0027ll need it mainly for the §6Fusion Reactor MK 3§r.",
+          "desc:8": "§bUV§r机身，倒数第二种机身。§bUV§r是§b极限压（Ultimate Voltage）§r的缩写。\n\n该机身的制造材料包含§2、钇钡铜氧合金和聚苯并咪唑，主要用来制造§6三型聚变反应堆§r。",
           "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
@@ -58266,7 +58266,7 @@
           "ismain:1": 0,
           "issilent:1": 0,
           "lockedprogress:1": 0,
-          "name:8": "§2UV Machine Hulls",
+          "name:8": "§2UV机身",
           "questlogic:8": "AND",
           "repeat_relative:1": 1,
           "repeattime:3": -1,
@@ -62724,7 +62724,7 @@
       "properties:10": {
         "betterquesting:10": {
           "autoclaim:1": 0,
-          "desc:8": "The §3Rock Breaker§r makes §6Lava§r and §6Water§r related products, such as §6Cobblestone§r, §6Granite§r and §6Obsidian§r.\n\nIn order to set this up, §6Lava§r and §6Water§r must be placed §ahorizontally adjacent§r.\n\nMaking §6Cobblestone§r this way is not a good idea, due to §bNuclearCraft §6Cobblestone Generators§r, which don\u0027t cost any power. However, with §aHV §3Rock Breakers§r, you can make §6Obsidian§r, without spending lots of §6Lava§r!\n\n§aLV§r and §aMV§r ones also exist, however, they aren\u0027t very useful.",
+          "desc:8": "§3碎岩机§r可产出与§6熔岩§r和§6水§r有关的方块，例如§6圆石§r、§6花岗岩§r和§6黑曜石§r。\n\n投入使用前，你需要§a紧邻其水平侧面§r放置一格§6熔岩§r和一格§6水§r。\n\n别放着§b核电工艺§r不耗电的§6造石机§r不用，反而用碎岩机来造§6圆石§r，太屈才。§aHV§r等级的§3碎岩机§r可以源源不断地制造§6黑曜石§r，§6熔岩§r成本也就只是放在它旁边的那一桶而已！\n\n碎岩机是有§aLV§r和§aMV§r型号的，但用处不是很大。",
           "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
@@ -62736,7 +62736,7 @@
           "ismain:1": 0,
           "issilent:1": 0,
           "lockedprogress:1": 0,
-          "name:8": "HV Rock Breaker",
+          "name:8": "HV碎岩机",
           "questlogic:8": "AND",
           "repeat_relative:1": 1,
           "repeattime:3": -1,
@@ -62790,7 +62790,7 @@
       "properties:10": {
         "betterquesting:10": {
           "autoclaim:1": 0,
-          "desc:8": "§2Black Granite Processing is a great way to get tons of Fluorine and Thorium. Therefore, it is recommended to setup this process as soon as possible.§r\n\n§6Fluorine§r is needed to produce §6Polytetrafluoroethylene§r (PTFE) and to process §6Naquadah§r, and §6Thorium§r is used to breed other elements in a §3Fission Reactor§r.\n\n§3Rock Breakers§r are first used to achieve renewable §6Black Granite§r. This recipe runs at §dEV§r or higher, and can be performed without any water or lava present if done in a §3Processing Array§r.\n\nAfter this, §3Macerators§r should pulverise the §6Black Granite§r into §6Black Granite Dust§r and a chance of §6Thorium§r. It is recommended to overclock this recipe as much as you can, in order to maximize output of §6Thorium§r.\n\nA §3Centrifuge§r then turns §6Black Granite Dust§r into §6Biotite Dust§r and §6Silicon Dioxide Dust§r. The latter can be electrolysed, yielding §6Silicon§r and §6Oxygen§r.\n\n§6Biotite Dust §ris then finally put into a §3Electrolyser§r. This yeilds §6Potassium, Magnesium, Aluminium§r and §6Silicon Dust§r, as well as some §6Fluorine§r.",
+          "desc:8": "§2黑花岗岩是氟和钍极其优质的来源，建议尽早搭建产线。§r\n\n§6氟§r是制造§6聚四氟乙烯§r（PTFE）和§6硅岩§r所需的材料，而§6钍§r则将经由§3聚变反应堆§r衰变为其他元素。\n\n§6黑花岗岩§r的首个可再生来源是§3碎岩机§r，但最低电压等级为§dEV§r。使用§3处理阵列§r可在完全不需要水或熔岩的情况下执行生产。\n\n得到黑花岗岩后，应使用§3研磨机§r将§6黑花岗岩§r磨制成§6黑花岗岩粉§r且有几率得到副产物§6钍§r。该配方超频越多，§6钍§r的出产几率越大，所以推荐使用等级尽可能高的研磨机。\n\n接下来需要用到§3离心机§r将§6黑花岗岩粉§r离心为§6黑云母粉§r和§6二氧化硅粉§r，后者可进一步电解得到§6硅粉§r和§6氧气§r。\n\n最后，将§6黑云母粉§r投入§3电解机§r，得到§6钾、镁、铝§r和§6硅粉§r，当然，还有§6氟§r。",
           "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
@@ -62802,7 +62802,7 @@
           "ismain:1": 0,
           "issilent:1": 0,
           "lockedprogress:1": 0,
-          "name:8": "§2Black Granite Processing",
+          "name:8": "§2黑花岗岩的处理",
           "questlogic:8": "AND",
           "repeat_relative:1": 1,
           "repeattime:3": -1,
@@ -63375,7 +63375,7 @@
       "properties:10": {
         "betterquesting:10": {
           "autoclaim:1": 0,
-          "desc:8": "A §6P2P Tunnel§r (§aPoint-to-Point Tunnel§r) is a powerful tool from §bApplied Energistics 2§r that can be used to send items, redstone, RF/EU or fluids from one location to another, using your ME system, without the need to use any disk storage space.\n\nEach P2P tunnel system may have §aany number of inputs§r and §aany number of outputs§r. There is no limit on how many P2P tunnels, or P2P tunnel systems, you can have on one network.\n\nBy default, a P2P tunnel is an §6ME tunnel§r, which transmits Applied Energistics channels and power. Since channels are disabled, you will most likely not be using the default tunnel. You can change the mode of your P2P tunnels by using the assembler recipes or by §asneak-scrolling§r with the P2P tunnel in hand.\n\nTo configure your P2P tunnels, take a §6Memory Card§r. While holding the memory card, §ashift-right click§r the unconfigured tunnel, to set the frequency of the input, and save the frequency to the memory card. Once the first tunnel has been set up this way and the memory card is configured with the frequency, any subsequent tunnel you §aright-click§r with the memory card will be set as the output of the most recent frequency used. Alternatively, you can set a P2P tunnel as an §einput§r by §aright-clicking§r the tunnel with the §ecard in your off-hand§r.\n\nYou can also use memory cards to copy the configuration of ME blocks and tile-entities, such as §6Interfaces§r and §6Storage Buses§r. §aShift-right click§r a ME block to copy its configuration, and §aright-click§r to paste that configuration. Note that this doesn\u0027t copy upgrades applied to the block.\n\nYou can also §ashift-right click§r to empty the frequency, or the ME block configuration, set in the card.",
+          "desc:8": "来自§b应用能源2§r的§6P2P通道§r，即§a点对点（Point-to-Point）通道§r，是一种ME网络架构中的强力工具，能够在不占用任何元件存储空间的情况下实现物品、红石信号、RF/EU能量、流体乃至ME频道的点对点传输。\n\n每个P2P通道系统所容许的§a输入端§r和§a输出端§r§a没有数量限制§r，而同样地，单个ME网络内也可以布置无限多的P2P通道及通道系统。\n\nP2P通道的默认类型为§6ME通道§r，用以传输AE能量和频道。在本整合包中并未启用频道玩法，所以该类型的通道意义不大。你可以手持P2P通道，§a在潜行时滑动滚轮§r来循环切换其类型，或使用组装机配方来量产特定类型的P2P通道。\n\n配置P2P通道会用到§6内存卡§r。手持内存卡时§a潜行右击§r一个未经配置的通道即可为输入端设置频率并将其频率存入卡内。此番操作后，通道频率一经设置，且频率已保存至内存卡时，在接下来使用内存卡§a右击§r的任何通道均会被设为输出端并调谐至最近一次存入的频率。此外，你也可以§e将内存卡持握于副手§r，此时§a右击§rP2P通道则会将其设为§e输入端§r。\n\n内存卡的另一个用途是复制§6接口§r、§6存储总线§r或其它ME方块和方块实体的内部配置。§a潜行右击§r来复制配置，§a右击§r来粘贴配置。但请注意，复制对方块内部的升级无效。\n\n若想抹除内存卡存储的配置信息，手持并对空§a潜行右击§r即可。",
           "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
@@ -63387,7 +63387,7 @@
           "ismain:1": 0,
           "issilent:1": 0,
           "lockedprogress:1": 0,
-          "name:8": "P2P Tunnels",
+          "name:8": "P2P通道",
           "questlogic:8": "AND",
           "repeat_relative:1": 1,
           "repeattime:3": -1,
@@ -63699,7 +63699,7 @@
       "properties:10": {
         "betterquesting:10": {
           "autoclaim:1": 0,
-          "desc:8": "This pack has §bInventory Bogo Sorter§r, allowing for quick, customizable, and easy sorting of any inventory.\n\nThe default sort keybind is §aMiddle Click§r, but you can always change the keybind. Simply hover over any slot in an inventory (§eChests§r, §eCrates§r, §ePlayer Inventory§r, etc.), click the sort keybind, and voila! A neat inventory.\n\nYou can also configure how your items are sorted within the Config GUI. The default key to open the GUI is §aK§r.\n\nInventory Bogo Sorter, by default, also §erefills stacks of items§r, like blocks, tools and food, from your inventory to your hotbar. For tools, it replaces it §ejust before it breaks§r, so you can repair it.",
+          "desc:8": "本整合包安装了§bInventory Bogo Sorter§r模组，使玩家能够随心所欲，方便快捷地整理任何物品栏。\n\n默认的整理按键为§a鼠标中键§r，但你可以随时在设置中更改键位绑定。使用方法非常简单：只需将鼠标移至你想要整理的物品栏（如§e箱子§r、§e板条箱§r、§e玩家物品栏§r等等）内并按下按键，即可享受条理分明的储物界面！\n\n你也可以通过快捷键（默认为§aK§r）打开模组的配置界面，详细设定物品的整理方式。\n\n在默认配置下，Inventory Bogo Sorter还会§e自动填补物品§r，也即手中的方块、工具或食物耗尽时，自动从物品栏中将同类物品填补至主手。对于工具，该功能会在其即将损毁时将其卸除并填补，以待后续修复。",
           "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
@@ -63711,7 +63711,7 @@
           "ismain:1": 0,
           "issilent:1": 0,
           "lockedprogress:1": 0,
-          "name:8": "Inventory Sorting",
+          "name:8": "整理物品栏",
           "questlogic:8": "AND",
           "repeat_relative:1": 1,
           "repeattime:3": -1,
@@ -64949,7 +64949,7 @@
       "properties:10": {
         "betterquesting:10": {
           "autoclaim:1": 0,
-          "desc:8": "§6Silicon§r in its solid form is required to produce §6Transistors§r, which are required for §6HV Circuits§r. Notice that the recipe for a §6Hot Silicon Ingot§r calls for §d2,273 K§r. This is why we built §6Kanthal Coils§r earlier - §6Cupronickel Coils§r can\u0027t reach that temperature.\n\nDirectly heating §6Silicon Dust§r you get from Electrolyzing various materials is an option, but a slow and energy-hungry one. The better method is to obtain §6Silicon Dioxide Dust§r by repurposing the §6Glass§r you\u0027re producing for PPC, and heat it with §6Carbon Dust§r. This produces §6Silicon Ingots §dover 5x§r faster, with a side of §eCarbon Monoxide§r for use in various chemical processes.\n\nDon\u0027t forget that what comes out of the §3EBF§r is a §6Hot Ingot§r - cool it in a §6Chemical Bath§r first before using. Later, you will build a §3Vacuum Freezer§r which can do it better.",
+          "desc:8": "§6HV电路§r离不开§6晶体管§r，而晶体管的制造又需要固态的§6硅§r。你可能已经注意到了，烧制§6热硅锭§r所需的炉温在§d2,273 K§r，而§6白铜线圈方块§r并不符合要求，这正是我们在前序设置§6坎塔尔合金线圈方块§r任务的原因。\n\n直接电解各类材料获取§6硅粉§r，然后把它扔进高炉里烧，当然是一种方案，但不仅慢，还吃电。这里有一个更好的方法：从脉动聚合粘土产线中分出一部分§6玻璃§r用来制造§6二氧化硅§r，与§6碳粉§r一起在高炉中烧制。这种§6硅锭§r制法的处理速度比直接烧硅粉§d快5倍不止，还能产出副产物§e一氧化碳§r，可用于多种化学制备流程。\n\n别忘了，从§3电力高炉§r里出来的是§6热锭§r，你需要使用§6化学浸洗机§r冷却它才能得到可进一步处理的成品锭。这种冷却手段只是当下的简易过渡，后续你将需要搭建更冷，也更酷的§3真空冷冻机§r。",
           "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
@@ -64961,7 +64961,7 @@
           "ismain:1": 1,
           "issilent:1": 0,
           "lockedprogress:1": 0,
-          "name:8": "§2Silicon Ingots",
+          "name:8": "§2硅锭",
           "questlogic:8": "AND",
           "repeat_relative:1": 1,
           "repeattime:3": -1,
@@ -65299,7 +65299,7 @@
       "properties:10": {
         "betterquesting:10": {
           "autoclaim:1": 0,
-          "desc:8": "The §aAlarm§r is a simple tool which plays a loud sound when given a redstone signal. Useful for notifying you if things go wrong.\n\nRight-click the block to configure its range and sound. This tool requires §d4 EU/t§r input to work.",
+          "desc:8": "§a警报器§r是一种接收到红石信号时发出响声的简单设备，能耗为§d4 EU/t§r，可用来警示基地的运作异常。\n\n右击以配置声音范围和响度。",
           "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
@@ -65311,7 +65311,7 @@
           "ismain:1": 0,
           "issilent:1": 0,
           "lockedprogress:1": 0,
-          "name:8": "Alarm",
+          "name:8": "警报器",
           "questlogic:8": "AND",
           "repeat_relative:1": 1,
           "repeattime:3": -1,
@@ -65735,7 +65735,7 @@
       "properties:10": {
         "betterquesting:10": {
           "autoclaim:1": 0,
-          "desc:8": "There are many §eCards§r in §bApplied Energistics 2§r and §bNeeve\u0027s AE2: Extended Life Additions§r, some of which are highlighted in this chapter. However, for the rest of them, it is up to you to discover them!\n\nSimply search \u0027@ae2 card\u0027 n §bJEI§r to find them, at which point you can simply see their tooltip for their usage!\n\nHave fun exploring!",
+          "desc:8": "§b应用能源2§r和§bNeeve的AE2:EL附加工具§r模组带来了许多为AE设备提供功能或升级的§e卡片§r。本任务仅聚焦于其中的一小部分，余下的则需要你自己亲身发现！\n\n对于游戏语言为中文的玩家来说，仅仅在§bJEI§r中搜索“@ae2 card”完全起不到作用，所以你可能需要浏览搜索结果，寻找任何形似卡片的物品，并查阅提示文本来了解其用途！\n\n探索之路其乐无穷，祝你玩得开心！",
           "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
@@ -65747,7 +65747,7 @@
           "ismain:1": 0,
           "issilent:1": 0,
           "lockedprogress:1": 0,
-          "name:8": "AE2 Modifier Cards",
+          "name:8": "AE2的改装卡",
           "questlogic:8": "AND",
           "repeat_relative:1": 1,
           "repeattime:3": -1,
@@ -73486,14 +73486,14 @@
         "betterquesting:10": {
           "bg_image:8": "",
           "bg_size:3": 256,
-          "desc:8": "Convert between matter and energy with §bApplied Energistics§r.\n\nAutomate ALL the things! o/",
+          "desc:8": "掌握§b应用能源§r，实现物质与能量之间的转换。\n\n万物皆可自动化！o/",
           "icon:10": {
             "Count:3": 1,
             "Damage:2": 2,
             "OreDict:8": "",
             "id:8": "chisel:futura"
           },
-          "name:8": "Matter-Energy",
+          "name:8": "物质-能量",
           "visibility:8": "ALWAYS"
         }
       },
