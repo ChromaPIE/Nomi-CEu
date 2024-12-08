@@ -8751,9 +8751,8 @@
       ],
       "properties:10": {
         "betterquesting:10": {
-          "autoclaim:1": 0,
           "desc:8": "§6Carbon Fibers§r are useful for a variety of things.\n\n§2They are made with Carbon Dust and polymers. Higher tier polymers grant higher yields. It\u0027s also not a chanced output anymore.§r",
-          "globalshare:1": 0,
+          "frame:8": "GATE",
           "icon:10": {
             "Count:3": 1,
             "Damage:2": 499,
@@ -8762,15 +8761,7 @@
           "ismain:1": 1,
           "lockedprogress:1": 1,
           "name:8": "§2Carbon Fibers§r",
-          "partysinglereward:1": 0,
-          "questlogic:8": "AND",
-          "repeat_relative:1": 1,
-          "repeattime:3": -1,
-          "simultaneous:1": 0,
-          "snd_complete:8": "minecraft:entity.player.levelup",
-          "snd_update:8": "minecraft:entity.player.levelup",
-          "tasklogic:8": "AND",
-          "visibility:8": "ALWAYS"
+          "partysinglereward:1": 0
         }
       },
       "questID:3": 186,
@@ -8851,9 +8842,8 @@
       ],
       "properties:10": {
         "betterquesting:10": {
-          "autoclaim:1": 0,
           "desc:8": "§6Epoxy Circuit Boards§r are a more advanced substrate type that gives you access to §2Nanocircuits, which span tiers three through six.§r",
-          "globalshare:1": 0,
+          "frame:8": "GATE",
           "icon:10": {
             "Count:3": 1,
             "Damage:2": 404,
@@ -8862,15 +8852,7 @@
           "ismain:1": 1,
           "lockedprogress:1": 1,
           "name:8": "§2Epoxy Substrate§r",
-          "partysinglereward:1": 0,
-          "questlogic:8": "AND",
-          "repeat_relative:1": 1,
-          "repeattime:3": -1,
-          "simultaneous:1": 0,
-          "snd_complete:8": "minecraft:entity.player.levelup",
-          "snd_update:8": "minecraft:entity.player.levelup",
-          "tasklogic:8": "AND",
-          "visibility:8": "ALWAYS"
+          "partysinglereward:1": 0
         }
       },
       "questID:3": 188,
@@ -9023,15 +9005,7 @@
           "ismain:1": 1,
           "lockedprogress:1": 1,
           "name:8": "§2The First Tier Five Circuit§r",
-          "partysinglereward:1": 0,
-          "questlogic:8": "AND",
-          "repeat_relative:1": 1,
-          "repeattime:3": -1,
-          "simultaneous:1": 0,
-          "snd_complete:8": "minecraft:entity.player.levelup",
-          "snd_update:8": "minecraft:entity.player.levelup",
-          "tasklogic:8": "AND",
-          "visibility:8": "ALWAYS"
+          "partysinglereward:1": 0
         }
       },
       "questID:3": 192,
@@ -9097,15 +9071,7 @@
           },
           "lockedprogress:1": 1,
           "name:8": "§2Phosphorus Doped Silicon Boule§r",
-          "partysinglereward:1": 0,
-          "questlogic:8": "AND",
-          "repeat_relative:1": 1,
-          "repeattime:3": -1,
-          "simultaneous:1": 0,
-          "snd_complete:8": "minecraft:entity.player.levelup",
-          "snd_update:8": "minecraft:entity.player.levelup",
-          "tasklogic:8": "AND",
-          "visibility:8": "ALWAYS"
+          "partysinglereward:1": 0
         }
       },
       "questID:3": 194,
@@ -9151,18 +9117,8 @@
             "id:8": "gregtech:machine"
           },
           "ismain:1": 1,
-          "issilent:1": 0,
-          "lockedprogress:1": 0,
           "name:8": "§2Fusion Reactor MK3§r",
-          "partysinglereward:1": 0,
-          "questlogic:8": "AND",
-          "repeat_relative:1": 1,
-          "repeattime:3": -1,
-          "simultaneous:1": 0,
-          "snd_complete:8": "minecraft:entity.player.levelup",
-          "snd_update:8": "minecraft:entity.player.levelup",
-          "tasklogic:8": "AND",
-          "visibility:8": "ALWAYS"
+          "partysinglereward:1": 0
         }
       },
       "questID:3": 195,
@@ -9255,9 +9211,8 @@
       ],
       "properties:10": {
         "betterquesting:10": {
-          "autoclaim:1": 0,
           "desc:8": "§6RTM-Alloy§r is an alloy of §6Ruthenium, Tungsten§r and §6Molybdenum§r.\n\nThis alloy is cooked in an §3Electric Blast Furnace§r and cooled in a §3Vacuum Freezer§r.",
-          "globalshare:1": 0,
+          "frame:8": "GATE",
           "icon:10": {
             "Count:3": 1,
             "Damage:2": 451,
@@ -9303,9 +9258,8 @@
       ],
       "properties:10": {
         "betterquesting:10": {
-          "autoclaim:1": 0,
           "desc:8": "With §6Tungstensteel§r achieved, you can now make hulls for Insane Voltage (IV) §bGregTech§r machines.\n\n§2Starting at IV, 16A Energy and Dynamo hatches are available at each tier.§r",
-          "globalshare:1": 0,
+          "frame:8": "GATE",
           "icon:10": {
             "Count:3": 1,
             "Damage:2": 990,
@@ -9314,15 +9268,7 @@
           "ismain:1": 1,
           "lockedprogress:1": 1,
           "name:8": "§2IV Machine Hulls§r",
-          "partysinglereward:1": 0,
-          "questlogic:8": "AND",
-          "repeat_relative:1": 1,
-          "repeattime:3": -1,
-          "simultaneous:1": 0,
-          "snd_complete:8": "minecraft:entity.player.levelup",
-          "snd_update:8": "minecraft:entity.player.levelup",
-          "tasklogic:8": "AND",
-          "visibility:8": "ALWAYS"
+          "partysinglereward:1": 0
         }
       },
       "questID:3": 198,
@@ -9433,9 +9379,8 @@
       ],
       "properties:10": {
         "betterquesting:10": {
-          "autoclaim:1": 0,
           "desc:8": "§6Tungsten§r is a material that requires an §3EV Electrolyzer, §2Chemical Bath§r and an §3Electric Blast Furnace§r with at least §6Nichrome Coils§r.\n\nIt is only found from §6Tungstate §2Dust and Scheelite Dust, obtained from their respective ores.§r Tungstate is also obtainable in small quantities from centrifuging §6Endstone Dust§r.\n\nScheelite and Tungstate needs to be §2bathed in Hydrochloric Acid to make Tungstic Acid, then electrolyzed§r to get to the Tungsten, which then needs to be cooked in the EBF for Tungsten ingots.",
-          "globalshare:1": 0,
+          "frame:8": "GATE",
           "icon:10": {
             "Count:3": 1,
             "Damage:2": 115,
@@ -9444,15 +9389,7 @@
           "ismain:1": 1,
           "lockedprogress:1": 1,
           "name:8": "§2Tungsten§r",
-          "partysinglereward:1": 0,
-          "questlogic:8": "AND",
-          "repeat_relative:1": 1,
-          "repeattime:3": -1,
-          "simultaneous:1": 0,
-          "snd_complete:8": "minecraft:entity.player.levelup",
-          "snd_update:8": "minecraft:entity.player.levelup",
-          "tasklogic:8": "AND",
-          "visibility:8": "ALWAYS"
+          "partysinglereward:1": 0
         }
       },
       "questID:3": 201,
@@ -9494,9 +9431,8 @@
       ],
       "properties:10": {
         "betterquesting:10": {
-          "autoclaim:1": 0,
           "desc:8": "This is one of the simpler rockets you can build. The specifics of the shape don\u0027t really matter as long as the rocket engines are on the bottom and all the parts are added. It also needs to be inside the edges of the Launch Pad and not taller than the Structure Tower.\n\n§aIn order to progress this quest chain further, you\u0027ll first need to complete the Interdimensional Transport (either FTB Warps/Homes, Dislocators or Telepad) questline and the Rocket Fuel questline, both of which are nearby on this quest tab.§r",
-          "globalshare:1": 0,
+          "frame:8": "GATE",
           "icon:10": {
             "Count:3": 1,
             "id:8": "advancedrocketry:rocketmotor"
@@ -9562,15 +9498,7 @@
           "ismain:1": 1,
           "lockedprogress:1": 1,
           "name:8": "§2The Second Tier Three Circuits§r",
-          "partysinglereward:1": 0,
-          "questlogic:8": "AND",
-          "repeat_relative:1": 1,
-          "repeattime:3": -1,
-          "simultaneous:1": 0,
-          "snd_complete:8": "minecraft:entity.player.levelup",
-          "snd_update:8": "minecraft:entity.player.levelup",
-          "tasklogic:8": "AND",
-          "visibility:8": "ALWAYS"
+          "partysinglereward:1": 0
         }
       },
       "questID:3": 203,
@@ -9837,9 +9765,8 @@
       ],
       "properties:10": {
         "betterquesting:10": {
-          "autoclaim:1": 0,
           "desc:8": "At some point you might consider venturing into space, like the Moon. While it\u0027s not at all required for the progression, you might find it valuable: to say the least, the Moon contains ore veins which are not found in the Overworld. And for this, you\u0027ll need a rocket and a whole lot of preparations.\n\nBefore you can build the rocket itself, you\u0027ll need to create a launch pad. The §6Launch Pad§r blocks go in a 3x3 layout flat on the ground to form the platform.\n\nThe Structure Tower is formed from a column of §6Structure Tower§r blocks that holds your rocket upright. The first block goes adjacent to any side of the launch pad platform (on the same Y-level as the launch pad blocks).\n\nWith 6 Structure Tower blocks, you can only build a rocket 5 blocks high, since any higher would exceed the height of the tower. To build a taller rocket, you\u0027ll need to build a taller tower using more Structure Tower blocks.\n\nThe §3Rocket Assembling Machine§r needs to be placed next to the launch pad (not on it) 1 block higher than the platform, so that the bottom of the Rocket Assembler is flush with the top of the launch pad. It also needs to be supplied with RF power to function.",
-          "globalshare:1": 0,
+          "frame:8": "GATE",
           "icon:10": {
             "Count:3": 1,
             "id:8": "advancedrocketry:rocketbuilder"
@@ -10334,9 +10261,8 @@
       ],
       "properties:10": {
         "betterquesting:10": {
-          "autoclaim:1": 0,
           "desc:8": "This is your first §bMicro Miner. §2You\u0027ll need that Phosphorous in the LV Field Generators.§r\nYes, not the last: these things aren\u0027t reusable.\n\nThis one can get you:\n§6* Dense Iron Ore\n* Cassiterite Ore\n* Redstone Ore\n* Nickel Ore\n§2* Ilmenite Ore\n§6* Uraninite Ore\n* Galena Ore\n§2* Molybdenum Ore\n§6* Moon Turf\n* Dilithium\n* Salt Ore§r\n\nWhen equipped with a §bGemstone Sensor§r (which may currently not be available to you yet):\n§2* Perfect Diamond\n§6* Apatite Ore\n* Tricalcium Phosphate Ore\n* Quartzite Ore§r\n\nCan also be used to bring §bStellar Creation Data§r, but less efficiently than the Tier Two.",
-          "globalshare:1": 0,
+          "frame:8": "GATE",
           "icon:10": {
             "Count:3": 1,
             "id:8": "nomilabs:tieroneship"
@@ -10344,15 +10270,7 @@
           "ismain:1": 1,
           "lockedprogress:1": 1,
           "name:8": "§2First Foray Into The Microverse§r",
-          "partysinglereward:1": 0,
-          "questlogic:8": "AND",
-          "repeat_relative:1": 1,
-          "repeattime:3": -1,
-          "simultaneous:1": 0,
-          "snd_complete:8": "minecraft:entity.player.levelup",
-          "snd_update:8": "minecraft:entity.player.levelup",
-          "tasklogic:8": "AND",
-          "visibility:8": "ALWAYS"
+          "partysinglereward:1": 0
         }
       },
       "questID:3": 217,
@@ -10503,9 +10421,8 @@
       ],
       "properties:10": {
         "betterquesting:10": {
-          "autoclaim:1": 0,
           "desc:8": "§9Dimethylamine§r and §9Chloramine§r combine together into §91,1-Dimethylhydrazine§r. §2Or, combine Methanol, Ammonia and Hypochlorous Acid in a LCR.§r",
-          "globalshare:1": 0,
+          "frame:8": "GATE",
           "icon:10": {
             "Count:3": 1,
             "id:8": "forge:bucketfilled",
@@ -10517,15 +10434,7 @@
           "ismain:1": 1,
           "lockedprogress:1": 1,
           "name:8": "§21,1-Dimethylhydrazine§r",
-          "partysinglereward:1": 0,
-          "questlogic:8": "AND",
-          "repeat_relative:1": 1,
-          "repeattime:3": -1,
-          "simultaneous:1": 0,
-          "snd_complete:8": "minecraft:entity.player.levelup",
-          "snd_update:8": "minecraft:entity.player.levelup",
-          "tasklogic:8": "AND",
-          "visibility:8": "ALWAYS"
+          "partysinglereward:1": 0
         }
       },
       "questID:3": 221,
@@ -10562,9 +10471,8 @@
       ],
       "properties:10": {
         "betterquesting:10": {
-          "autoclaim:1": 0,
           "desc:8": "§9Methanol§r and §9Ammonia§r combine together to make §9Dimethylamine§r.\n\nI know you\u0027re expecting a Breaking Bad joke here, but I don\u0027t walt to go for such low hanging fruit.\n\n§2This step can be skipped with a Large Chemical Reactor.§r",
-          "globalshare:1": 0,
+          "frame:8": "GATE",
           "icon:10": {
             "Count:3": 1,
             "id:8": "forge:bucketfilled",
@@ -10594,9 +10502,8 @@
       ],
       "properties:10": {
         "betterquesting:10": {
-          "autoclaim:1": 0,
           "desc:8": "§9Hypochlorous Acid§r and §9Ammonia§r combine together to make §9Chloramine§r. §2This step can be skipped with LCRs.§r",
-          "globalshare:1": 0,
+          "frame:8": "GATE",
           "icon:10": {
             "Count:3": 1,
             "id:8": "forge:bucketfilled",
@@ -10608,15 +10515,7 @@
           "ismain:1": 1,
           "lockedprogress:1": 1,
           "name:8": "§2Chloramine§r",
-          "partysinglereward:1": 0,
-          "questlogic:8": "AND",
-          "repeat_relative:1": 1,
-          "repeattime:3": -1,
-          "simultaneous:1": 0,
-          "snd_complete:8": "minecraft:entity.player.levelup",
-          "snd_update:8": "minecraft:entity.player.levelup",
-          "tasklogic:8": "AND",
-          "visibility:8": "ALWAYS"
+          "partysinglereward:1": 0
         }
       },
       "questID:3": 223,
@@ -10646,15 +10545,7 @@
           "ismain:1": 1,
           "lockedprogress:1": 1,
           "name:8": "§2Ammonia§r",
-          "partysinglereward:1": 0,
-          "questlogic:8": "AND",
-          "repeat_relative:1": 1,
-          "repeattime:3": -1,
-          "simultaneous:1": 0,
-          "snd_complete:8": "minecraft:entity.player.levelup",
-          "snd_update:8": "minecraft:entity.player.levelup",
-          "tasklogic:8": "AND",
-          "visibility:8": "ALWAYS"
+          "partysinglereward:1": 0
         }
       },
       "questID:3": 224,
@@ -10752,15 +10643,7 @@
           "ismain:1": 1,
           "lockedprogress:1": 1,
           "name:8": "§2Hypochlorous Acid§r",
-          "partysinglereward:1": 0,
-          "questlogic:8": "AND",
-          "repeat_relative:1": 1,
-          "repeattime:3": -1,
-          "simultaneous:1": 0,
-          "snd_complete:8": "minecraft:entity.player.levelup",
-          "snd_update:8": "minecraft:entity.player.levelup",
-          "tasklogic:8": "AND",
-          "visibility:8": "ALWAYS"
+          "partysinglereward:1": 0
         }
       },
       "questID:3": 226,
@@ -11118,9 +11001,7 @@
       ],
       "properties:10": {
         "betterquesting:10": {
-          "autoclaim:1": 0,
           "desc:8": "§6Barium§r is an element found in §6Barite§r, which may be found as §6Barite Ore§r, inside §6Quartz§r veins.\n\nBarite can also be extracted from other Quartz ores via ore processing, §2and Naquadah Processing, available in LuV.§r",
-          "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
             "Damage:2": 8,
@@ -11128,15 +11009,7 @@
           },
           "lockedprogress:1": 1,
           "name:8": "§2Barium§r",
-          "partysinglereward:1": 0,
-          "questlogic:8": "AND",
-          "repeat_relative:1": 1,
-          "repeattime:3": -1,
-          "simultaneous:1": 0,
-          "snd_complete:8": "minecraft:entity.player.levelup",
-          "snd_update:8": "minecraft:entity.player.levelup",
-          "tasklogic:8": "AND",
-          "visibility:8": "ALWAYS"
+          "partysinglereward:1": 0
         }
       },
       "questID:3": 234,
@@ -11185,15 +11058,7 @@
           "ismain:1": 1,
           "lockedprogress:1": 1,
           "name:8": "§2Primal Mana§r",
-          "partysinglereward:1": 0,
-          "questlogic:8": "AND",
-          "repeat_relative:1": 1,
-          "repeattime:3": -1,
-          "simultaneous:1": 0,
-          "snd_complete:8": "minecraft:entity.player.levelup",
-          "snd_update:8": "minecraft:entity.player.levelup",
-          "tasklogic:8": "AND",
-          "visibility:8": "ALWAYS"
+          "partysinglereward:1": 0
         }
       },
       "questID:3": 235,
@@ -11230,9 +11095,8 @@
       ],
       "properties:10": {
         "betterquesting:10": {
-          "autoclaim:1": 0,
           "desc:8": "§6Transistors§r are semiconductors that can amplify or switch electrical signals and power. They\u0027re probably one of the most important inventions of the 20th century.\n\nYou\u0027re going to use them as a component for better circuits. This one is a bit pricey, requiring §2PE, Silicon Plates and Fine Tin Wire.§r",
-          "globalshare:1": 0,
+          "frame:8": "GATE",
           "icon:10": {
             "Count:3": 1,
             "Damage:2": 518,
@@ -11241,15 +11105,7 @@
           "ismain:1": 1,
           "lockedprogress:1": 1,
           "name:8": "§2Transistor§r",
-          "partysinglereward:1": 0,
-          "questlogic:8": "AND",
-          "repeat_relative:1": 1,
-          "repeattime:3": -1,
-          "simultaneous:1": 0,
-          "snd_complete:8": "minecraft:entity.player.levelup",
-          "snd_update:8": "minecraft:entity.player.levelup",
-          "tasklogic:8": "AND",
-          "visibility:8": "ALWAYS"
+          "partysinglereward:1": 0
         }
       },
       "questID:3": 236,
@@ -12008,9 +11864,8 @@
       ],
       "properties:10": {
         "betterquesting:10": {
-          "autoclaim:1": 0,
           "desc:8": "The Sixth Micro Miner.\n\nThe first decent source of §6Dragon Eggs§r and §6Stabilized Einsteinium§r.\n\nIs also useful for:\n§2* Uraninite Ore\n* Iridosmine 80/20 Ore\n* Osmiridium 80/20 Ore§r",
-          "globalshare:1": 0,
+          "frame:8": "GATE",
           "icon:10": {
             "Count:3": 1,
             "id:8": "nomilabs:tiersixship"
@@ -12156,15 +12011,7 @@
           "ismain:1": 1,
           "lockedprogress:1": 1,
           "name:8": "§2Draconium Double Plates§r",
-          "partysinglereward:1": 0,
-          "questlogic:8": "AND",
-          "repeat_relative:1": 1,
-          "repeattime:3": -1,
-          "simultaneous:1": 0,
-          "snd_complete:8": "minecraft:entity.player.levelup",
-          "snd_update:8": "minecraft:entity.player.levelup",
-          "tasklogic:8": "AND",
-          "visibility:8": "ALWAYS"
+          "partysinglereward:1": 0
         }
       },
       "questID:3": 257,
@@ -12246,9 +12093,8 @@
       ],
       "properties:10": {
         "betterquesting:10": {
-          "autoclaim:1": 0,
           "desc:8": "Your first MV hull is as good of a place as any to consider yourself graduated from LV.\n\nYou might notice that these hulls can be made more cheaply in an §3Assembling Machine§r, but you don\u0027t have that weird fluid. Don\u0027t worry, you\u0027ll be able to make that soon.\n\n§2Overclocking mechanics have changed in CEu. All overclocks now multiply the speed by 2.0x (instead of the 2.0/2.8 split in CE). This means that to save energy, you should build more low-tier machines over overclocking a high-tier machine, especially for passive processes.\nAdditionally, ULV recipes will not overclock to LV. A ≤8 EU/t recipe won\u0027t overclock at all in an LV machine, will only overclock once in an MV machine, etc.§r",
-          "globalshare:1": 0,
+          "frame:8": "GATE",
           "icon:10": {
             "Count:3": 1,
             "Damage:2": 987,
@@ -12257,15 +12103,7 @@
           "ismain:1": 1,
           "lockedprogress:1": 1,
           "name:8": "§2MV Machine Hulls§r",
-          "partysinglereward:1": 0,
-          "questlogic:8": "AND",
-          "repeat_relative:1": 1,
-          "repeattime:3": -1,
-          "simultaneous:1": 0,
-          "snd_complete:8": "minecraft:entity.player.levelup",
-          "snd_update:8": "minecraft:entity.player.levelup",
-          "tasklogic:8": "AND",
-          "visibility:8": "ALWAYS"
+          "partysinglereward:1": 0
         }
       },
       "questID:3": 259,
@@ -12467,9 +12305,8 @@
       ],
       "properties:10": {
         "betterquesting:10": {
-          "autoclaim:1": 0,
           "desc:8": "§6Indium§r is a rare material requiring specialized bulk ore processing to acquire. It is useful for making §6Indium Gallium Phosphide§r (InGaP).\n\nYou will need to purify (with a §3Washer§r or §3Chemical Bath§r) §6Galena§r and §6Sphalerite§r to get §6Crushed Purified§r dusts. These need to be placed together in a §3Chemical Reactor§r along with §9Sulfuric Acid§r, which will result in §9Indium Concentrate§r.\n\nThis in turn needs to be reacted with §6Aluminium§r in another Chemical Reactor, to create §2Indium Dust§r, §2Aluminium Sulfite§r and §9Lead-Zinc Solution§r. The latter two can be broken down into various useful materials.\n\nThere is an alternative recipe set to §9Programmed Circuit §64§r, which performs the recipe in a larger batch and allows you to §2skip combining small piles into full dusts.\n\nIndium can also be obtained from the Naquadah processing chain in LuV.§r",
-          "globalshare:1": 0,
+          "frame:8": "GATE",
           "icon:10": {
             "Count:3": 1,
             "Damage:2": 48,
@@ -12516,9 +12353,8 @@
       ],
       "properties:10": {
         "betterquesting:10": {
-          "autoclaim:1": 0,
           "desc:8": "With your new §6Epoxy Circuit Boards, QBit CPUs§r, and some standard components, you can make the final type of Tier Four Circuit: the §6Quantum Circuit§r.\n\nAs the best form of Tier Four circuit, these should be automated and stockpiled. The variant recipe requiring §6Advanced System-on-Chip§r won\u0027t be available until ZPM.",
-          "globalshare:1": 0,
+          "frame:8": "GATE",
           "icon:10": {
             "Count:3": 1,
             "Damage:2": 636,
@@ -12611,26 +12447,13 @@
       ],
       "properties:10": {
         "betterquesting:10": {
-          "autoclaim:1": 0,
           "desc:8": "§2Item Pipes are back in GTCEu! They will transport items instantly through them.§r\n\nThis quest accepts a item pipe of any material, any size, whether restrictive or normal.\n\nFor now, the best material to make these pipes out of is probably §6Tin§r.\n\nTheir advantage over §5EnderIO §3Item Conduits§r is their far higher §6throughput§r. An unupgraded EIO Item Conduit transports §d8 items per second§r, and up to §d128§r when upgraded. In comparison, small low-tier Item Pipes can transfer §d64 items per second§r, and those made from later materials can transfer §dmultiple stacks per second§r.\n\nThey don\u0027t auto-extract by themselves, so you have to use §3Conveyor covers§r etc. with them.\n\nThe priority mechanics are more complicated, so skip ahead if you are not interested:\nA Destination will have a Routing Value calculated, which is the sum of all Routing Values of the individual Pipes to that Destination. Whichever Destination has the lowest Routing Value will be the one selected for Insertion.\nRestrictive Pipes typically have the lowest Priority for insertion due to their higher Routing Value.",
-          "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
             "Damage:2": 112,
             "id:8": "gregtech:item_pipe_small"
           },
-          "ignoresview:1": 0,
-          "ismain:1": 0,
-          "issilent:1": 0,
-          "lockedprogress:1": 0,
           "name:8": "§2GT Item Pipes§r",
-          "questlogic:8": "AND",
-          "repeat_relative:1": 1,
-          "repeattime:3": -1,
-          "simultaneous:1": 0,
-          "snd_complete:8": "minecraft:entity.player.levelup",
-          "snd_update:8": "minecraft:entity.player.levelup",
-          "tasklogic:8": "AND",
           "visibility:8": "CHAIN"
         }
       },
@@ -13440,15 +13263,7 @@
           "ismain:1": 1,
           "lockedprogress:1": 1,
           "name:8": "§2LuV Circuit Assembling Machine§r",
-          "partysinglereward:1": 0,
-          "questlogic:8": "AND",
-          "repeat_relative:1": 1,
-          "repeattime:3": -1,
-          "simultaneous:1": 0,
-          "snd_complete:8": "minecraft:entity.player.levelup",
-          "snd_update:8": "minecraft:entity.player.levelup",
-          "tasklogic:8": "AND",
-          "visibility:8": "ALWAYS"
+          "partysinglereward:1": 0
         }
       },
       "questID:3": 283,
@@ -13512,19 +13327,8 @@
             "Damage:2": 1191,
             "id:8": "gregtech:machine"
           },
-          "ignoresview:1": 0,
-          "ismain:1": 0,
-          "issilent:1": 0,
-          "lockedprogress:1": 0,
           "name:8": "§2Multi Fluid Hatches§r",
-          "questlogic:8": "OR",
-          "repeat_relative:1": 1,
-          "repeattime:3": -1,
-          "simultaneous:1": 0,
-          "snd_complete:8": "minecraft:entity.player.levelup",
-          "snd_update:8": "minecraft:entity.player.levelup",
-          "tasklogic:8": "AND",
-          "visibility:8": "ALWAYS"
+          "questlogic:8": "OR"
         }
       },
       "questID:3": 285,
@@ -13587,15 +13391,7 @@
           "ismain:1": 1,
           "lockedprogress:1": 1,
           "name:8": "§2Assembly Line§r",
-          "partysinglereward:1": 0,
-          "questlogic:8": "AND",
-          "repeat_relative:1": 1,
-          "repeattime:3": -1,
-          "simultaneous:1": 0,
-          "snd_complete:8": "minecraft:entity.player.levelup",
-          "snd_update:8": "minecraft:entity.player.levelup",
-          "tasklogic:8": "AND",
-          "visibility:8": "ALWAYS"
+          "partysinglereward:1": 0
         }
       },
       "questID:3": 286,
@@ -13676,18 +13472,8 @@
             "id:8": "gregtech:machine"
           },
           "ismain:1": 1,
-          "issilent:1": 0,
-          "lockedprogress:1": 0,
           "name:8": "§2Fusion Reactor MK1§r",
-          "partysinglereward:1": 0,
-          "questlogic:8": "AND",
-          "repeat_relative:1": 1,
-          "repeattime:3": -1,
-          "simultaneous:1": 0,
-          "snd_complete:8": "minecraft:entity.player.levelup",
-          "snd_update:8": "minecraft:entity.player.levelup",
-          "tasklogic:8": "AND",
-          "visibility:8": "ALWAYS"
+          "partysinglereward:1": 0
         }
       },
       "questID:3": 287,
@@ -13749,9 +13535,8 @@
       ],
       "properties:10": {
         "betterquesting:10": {
-          "autoclaim:1": 0,
           "desc:8": "You\u0027ll need at least §6Naquadah Coil Blocks§r in your blast furnace to smelt §6Draconium§r, as well as a healthy supply of §2Cetane-Boosted Diesel or Gasoline§r to reach the immense heat it takes to liquefy.\n\nDraconium gets so hot that it requires the potent coolant §9Gelid Cryotheum§r to aid your §3Vacuum Freezer§r in turning it into usable ingots.\n\nThere are several ways to make Draconium: dust can be smelted into ingots, but you can also turn §6Ender Dragon Scales§r, which contain Draconium, directly into ingots. It uses a lot of §2combustion fuel§r, but is the most efficient way to craft Draconium.\n\nYou\u0027ve been stockpiling fuel, right?",
-          "globalshare:1": 0,
+          "frame:8": "GATE",
           "icon:10": {
             "Count:3": 1,
             "Damage:2": 1,
@@ -13760,15 +13545,7 @@
           "ismain:1": 1,
           "lockedprogress:1": 1,
           "name:8": "§2Draconium Ingots§r",
-          "partysinglereward:1": 0,
-          "questlogic:8": "AND",
-          "repeat_relative:1": 1,
-          "repeattime:3": -1,
-          "simultaneous:1": 0,
-          "snd_complete:8": "minecraft:entity.player.levelup",
-          "snd_update:8": "minecraft:entity.player.levelup",
-          "tasklogic:8": "AND",
-          "visibility:8": "ALWAYS"
+          "partysinglereward:1": 0
         }
       },
       "questID:3": 288,
@@ -13809,9 +13586,8 @@
       ],
       "properties:10": {
         "betterquesting:10": {
-          "autoclaim:1": 0,
           "desc:8": "By baking a §2Raw Crystal Chip§r and §6Emerald Plates§r with §9Helium§r in an §3Electric Blast Furnace§r, you can create an §6Engraved Crystal Chip§r.\n\nThis is a material needed for §6Crystal Circuits§r.",
-          "globalshare:1": 0,
+          "frame:8": "GATE",
           "icon:10": {
             "Count:3": 1,
             "Damage:2": 703,
@@ -13820,15 +13596,7 @@
           "ismain:1": 1,
           "lockedprogress:1": 1,
           "name:8": "§2Engraved Crystal Chip§r",
-          "partysinglereward:1": 0,
-          "questlogic:8": "AND",
-          "repeat_relative:1": 1,
-          "repeattime:3": -1,
-          "simultaneous:1": 0,
-          "snd_complete:8": "minecraft:entity.player.levelup",
-          "snd_update:8": "minecraft:entity.player.levelup",
-          "tasklogic:8": "AND",
-          "visibility:8": "ALWAYS"
+          "partysinglereward:1": 0
         }
       },
       "questID:3": 289,
@@ -15084,9 +14852,8 @@
       ],
       "properties:10": {
         "betterquesting:10": {
-          "autoclaim:1": 0,
           "desc:8": "§2The Naphtha route for Epoxy has been removed. You can only make Epoxy using the BPA route.§r\n\nBPA can be produced using petrochemistry distillation products, or via distilling §9Charcoal Byproducts§r from your §3Pyrolyse Oven§r into useful components. Alternatively, you can get §9Phenol§r from §6Coal§r pyrolysis. §9Fermented Biomass§r is also useful to distill as it provides many useful products.\n\n§2Using the Large Chemical Reactor, you can skip two steps in the Epoxy production line.§r",
-          "globalshare:1": 0,
+          "frame:8": "GATE",
           "icon:10": {
             "Count:3": 1,
             "id:8": "forge:bucketfilled",
@@ -15098,15 +14865,7 @@
           "ismain:1": 1,
           "lockedprogress:1": 1,
           "name:8": "§2Epoxy Production§r",
-          "partysinglereward:1": 0,
-          "questlogic:8": "AND",
-          "repeat_relative:1": 1,
-          "repeattime:3": -1,
-          "simultaneous:1": 0,
-          "snd_complete:8": "minecraft:entity.player.levelup",
-          "snd_update:8": "minecraft:entity.player.levelup",
-          "tasklogic:8": "AND",
-          "visibility:8": "ALWAYS"
+          "partysinglereward:1": 0
         }
       },
       "questID:3": 318,
@@ -15308,9 +15067,8 @@
       ],
       "properties:10": {
         "betterquesting:10": {
-          "autoclaim:1": 0,
           "desc:8": "§6Naquadah§r is the sixth coil material available, increasing your EBF\u0027s operating temperature to 7200K so it can process more advanced materials.\n\n§2You cannot skip a coil material anymore.§r",
-          "globalshare:1": 0,
+          "frame:8": "GATE",
           "icon:10": {
             "Count:3": 1,
             "Damage:2": 5,
@@ -15365,15 +15123,7 @@
           "ismain:1": 1,
           "lockedprogress:1": 1,
           "name:8": "§2Europium Ingot§r",
-          "partysinglereward:1": 0,
-          "questlogic:8": "AND",
-          "repeat_relative:1": 1,
-          "repeattime:3": -1,
-          "simultaneous:1": 0,
-          "snd_complete:8": "minecraft:entity.player.levelup",
-          "snd_update:8": "minecraft:entity.player.levelup",
-          "tasklogic:8": "AND",
-          "visibility:8": "ALWAYS"
+          "partysinglereward:1": 0
         }
       },
       "questID:3": 325,
@@ -15432,9 +15182,8 @@
       ],
       "properties:10": {
         "betterquesting:10": {
-          "autoclaim:1": 0,
           "desc:8": "Just ignore the protesters outside your base.\n\nEach craft in an §3LuV Chemical Reactor§r takes five minutes, so it\u0027s probably a good idea to have more than one machine running this recipe. At least you get §2128 from a single craft.§r",
-          "globalshare:1": 0,
+          "frame:8": "GATE",
           "icon:10": {
             "Count:3": 1,
             "Damage:2": 709,
@@ -15443,15 +15192,7 @@
           "ismain:1": 1,
           "lockedprogress:1": 1,
           "name:8": "§2Stem Cells§r",
-          "partysinglereward:1": 0,
-          "questlogic:8": "AND",
-          "repeat_relative:1": 1,
-          "repeattime:3": -1,
-          "simultaneous:1": 0,
-          "snd_complete:8": "minecraft:entity.player.levelup",
-          "snd_update:8": "minecraft:entity.player.levelup",
-          "tasklogic:8": "AND",
-          "visibility:8": "ALWAYS"
+          "partysinglereward:1": 0
         }
       },
       "questID:3": 327,
@@ -15688,15 +15429,7 @@
           "ismain:1": 1,
           "lockedprogress:1": 1,
           "name:8": "§2The Fourth And Final Tier Six Circuits§r",
-          "partysinglereward:1": 0,
-          "questlogic:8": "AND",
-          "repeat_relative:1": 1,
-          "repeattime:3": -1,
-          "simultaneous:1": 0,
-          "snd_complete:8": "minecraft:entity.player.levelup",
-          "snd_update:8": "minecraft:entity.player.levelup",
-          "tasklogic:8": "AND",
-          "visibility:8": "ALWAYS"
+          "partysinglereward:1": 0
         }
       },
       "questID:3": 332,
@@ -15733,9 +15466,8 @@
       ],
       "properties:10": {
         "betterquesting:10": {
-          "autoclaim:1": 0,
           "desc:8": "§6Wetware Processors§r are made in §2the ZPM+ Circuit Assembler still.§r",
-          "globalshare:1": 0,
+          "frame:8": "GATE",
           "icon:10": {
             "Count:3": 1,
             "Damage:2": 645,
@@ -15744,15 +15476,7 @@
           "ismain:1": 1,
           "lockedprogress:1": 1,
           "name:8": "§2The Third and Final Tier Seven Circuits§r",
-          "partysinglereward:1": 0,
-          "questlogic:8": "AND",
-          "repeat_relative:1": 1,
-          "repeattime:3": -1,
-          "simultaneous:1": 0,
-          "snd_complete:8": "minecraft:entity.player.levelup",
-          "snd_update:8": "minecraft:entity.player.levelup",
-          "tasklogic:8": "AND",
-          "visibility:8": "ALWAYS"
+          "partysinglereward:1": 0
         }
       },
       "questID:3": 333,
@@ -17887,9 +17611,8 @@
       ],
       "properties:10": {
         "betterquesting:10": {
-          "autoclaim:1": 0,
           "desc:8": "ASSEMBLE... TOO!\n\nYeah you get to craft §6Nether Stars§r. Cool huh?\n\nOver the course of the pack, Nether Stars are going to be needed in quantities that far exceed a reasonable player\u0027s ability to farm Withers. §eCraft them, don\u0027t bother trying to farm them.§r",
-          "globalshare:1": 0,
+          "frame:8": "GATE",
           "icon:10": {
             "Count:3": 1,
             "id:8": "minecraft:nether_star"
@@ -18303,9 +18026,7 @@
       ],
       "properties:10": {
         "betterquesting:10": {
-          "autoclaim:1": 0,
           "desc:8": "§3Anvils§r can be used to repair almost all §bGregTech tools§r!\n\nYou might want to get yourself an anvil instead of breaking and crafting new tools every time. Anvils spawn abundantly in §bLost Cities§r buildings, so go and snatch one!\n\nPlease note that in §5Nomifactory CEu§r, XP scales linearly.\n\nThis means that every XP level §arequires the same amount of XP §e(25 XP)§r, and that higher XP levels §ado not require more XP§r.\n\nPut a damaged tool inside and put some material it\u0027s made of. For example, you\u0027ll need to put §6Wrought Iron Ingots§r to repair tools made of §6Wrought Iron§r. The only tools unable to be repaired are the mortar and the plunger.\n\nAlso, you can now repair your free §6Mining Hammers§r with some §6Diamonds§r!",
-          "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
             "id:8": "minecraft:anvil"
@@ -18355,20 +18076,8 @@
             "Damage:2": 301,
             "id:8": "gregtech:meta_item_1"
           },
-          "ignoresview:1": 0,
-          "ismain:1": 0,
-          "issilent:1": 0,
-          "lockedprogress:1": 0,
           "name:8": "§2Machine Covers§r",
-          "partysinglereward:1": 0,
-          "questlogic:8": "AND",
-          "repeat_relative:1": 1,
-          "repeattime:3": -1,
-          "simultaneous:1": 0,
-          "snd_complete:8": "minecraft:entity.player.levelup",
-          "snd_update:8": "minecraft:entity.player.levelup",
-          "tasklogic:8": "AND",
-          "visibility:8": "ALWAYS"
+          "partysinglereward:1": 0
         }
       },
       "questID:3": 402,
@@ -18486,9 +18195,7 @@
       ],
       "properties:10": {
         "betterquesting:10": {
-          "autoclaim:1": 0,
           "desc:8": "This modpack has §aCrafting Calculators§r. It has a steep learning curve, but once you manage to learn how to use it, it\u0027s going to be your trusty companion in calculating recipe costs.\n\nCraft yourself one and hit the book button in the top-left corner for a quick overview of how it works.\n\n§2The GTCEu Terminal also has an in-built equivalent to the Crafting Calculator, which you may use instead if you prefer.§r",
-          "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
             "id:8": "jecalculation:item_calculator"
@@ -18879,15 +18586,7 @@
           "ismain:1": 1,
           "lockedprogress:1": 1,
           "name:8": "§2LV Extractor§r",
-          "partysinglereward:1": 0,
-          "questlogic:8": "AND",
-          "repeat_relative:1": 1,
-          "repeattime:3": -1,
-          "simultaneous:1": 0,
-          "snd_complete:8": "minecraft:entity.player.levelup",
-          "snd_update:8": "minecraft:entity.player.levelup",
-          "tasklogic:8": "AND",
-          "visibility:8": "ALWAYS"
+          "partysinglereward:1": 0
         }
       },
       "questID:3": 413,
@@ -20684,9 +20383,8 @@
       ],
       "properties:10": {
         "betterquesting:10": {
-          "autoclaim:1": 0,
           "desc:8": "§2Most plates are made in the Bending Machine instead of here. (Technically this was the case in CE, but this modpack transferred its recipes to the Compressor.)§r\n\nHowever, this machine will still see use for compressing §eNuggets§r into §eIngots§r, §eIngots§r into §eBlocks§r, §eGem Dusts§r into §ePlates§r (such as §6Certus Quartz§r), as well as various other useful recipes.",
-          "globalshare:1": 0,
+          "frame:8": "GATE",
           "icon:10": {
             "Count:3": 1,
             "Damage:2": 230,
@@ -20695,15 +20393,7 @@
           "ismain:1": 1,
           "lockedprogress:1": 1,
           "name:8": "§2LV Compressor§r",
-          "partysinglereward:1": 0,
-          "questlogic:8": "AND",
-          "repeat_relative:1": 1,
-          "repeattime:3": -1,
-          "simultaneous:1": 0,
-          "snd_complete:8": "minecraft:entity.player.levelup",
-          "snd_update:8": "minecraft:entity.player.levelup",
-          "tasklogic:8": "AND",
-          "visibility:8": "ALWAYS"
+          "partysinglereward:1": 0
         }
       },
       "questID:3": 489,
@@ -21000,9 +20690,7 @@
       ],
       "properties:10": {
         "betterquesting:10": {
-          "autoclaim:1": 0,
           "desc:8": "§oThis quest completes with any wood-type drawer, or a Framed Drawer and a Framing Table.\n\n§bStorage Drawers§r provide a huge amount of storage for a single item type. Use them for things you have a lot of, such as stone, dirt and ores.\n\nBreaking Drawers will not drop the items, instead, the items will stay in the drawer item. Place drawers in a §6Crafting Grid§r to clear contents. Note that §eDrawer Upgrades§r will not be cleared!\n\nIf the wood-type appearances aren\u0027t your style, the §3Framing Table§r is useful for making custom drawers out of §6Framed Drawers§r, and up to three additional items which define how the resulting drawer will look. Please note that due to a glitch, items can\u0027t be put into non-framed §6Framed Drawers§r.\n\nIn addition, the §aHand Framing Tool§r has been implemented, allowing you to decorate your framed drawers in world, and convert default drawers into Framed Drawers in-world, with the cost of some sticks.\n\nIn fact, once you consume the blocks you would like to decorate your framed drawers into, no more of those blocks will be consumed, decorating your drawers for free!\n\nSee the uses of the framing tool in §eJEI§r and the §eJEI Information Page§r of the Hand Framing Tool for more information.\n\nFurthermore, you can do special stuff with your drawers, with §6Keys§r! Search §e@StorageDrawers Keys§r in §bJEI§r to see them! You can do things from \u0027locking\u0027 the drawer, meaning only that item can enter the drawer, show how many items are in the drawer, and even remove the display of items!\n\n§cPlease note that excessive use of the Quantify Key may lead to lag.§r",
-          "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
             "id:8": "storagedrawers:framingtable"
@@ -21107,9 +20795,7 @@
       ],
       "properties:10": {
         "betterquesting:10": {
-          "autoclaim:1": 0,
           "desc:8": "When making circuits, you\u0027ll need either molten §9Tin§r, or molten §9Soldering Alloy§r. §2Soldering Alloy is made in the Mixer with 6 parts Tin Dust, 3 parts Lead Dust and 1 part Antimony Dust.§r You then process it in an §3Extractor§r for the usual 144mB of fluid per unit.\n\nThe §2Circuit Assembler§r will only consume half as much Soldering Alloy as it would have consumed molten Tin per craft (72mB vs 144mB), so it\u0027s very efficient to use this stuff, however, it is probably not worth it, due to the lack of antimony, whilst tin is infinite from DME, available later. However, you\u0027ll still need §9Soldering Alloy§r much later on for §3Assembly Lines§r.\n\n§2Antimony can be directly smelted from Stibnite Ore, allowing you to skip ore processing for this.§r",
-          "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
             "id:8": "forge:bucketfilled",
@@ -21120,15 +20806,7 @@
           },
           "lockedprogress:1": 1,
           "name:8": "§2Soldering Alloy§r",
-          "partysinglereward:1": 0,
-          "questlogic:8": "AND",
-          "repeat_relative:1": 1,
-          "repeattime:3": -1,
-          "simultaneous:1": 0,
-          "snd_complete:8": "minecraft:entity.player.levelup",
-          "snd_update:8": "minecraft:entity.player.levelup",
-          "tasklogic:8": "AND",
-          "visibility:8": "ALWAYS"
+          "partysinglereward:1": 0
         }
       },
       "questID:3": 498,
@@ -21188,9 +20866,8 @@
       ],
       "properties:10": {
         "betterquesting:10": {
-          "autoclaim:1": 0,
           "desc:8": "With your new §2Epoxy Circuit Boards§r, §6Nano CPUs§r, and some standard components, you can make the final type of Tier Three Circuit: the §6Nanocircuit§r.\n\nAs the best form of Tier Three circuit, these should be automated and stockpiled. As with the Final Tier Two circuits, the §6Advanced System-on-Chip§r variant recipes won\u0027t be available for a while.",
-          "globalshare:1": 0,
+          "frame:8": "GATE",
           "icon:10": {
             "Count:3": 1,
             "Damage:2": 632,
@@ -21199,15 +20876,7 @@
           "ismain:1": 1,
           "lockedprogress:1": 1,
           "name:8": "§2The Third And Final Tier Three Circuits§r",
-          "partysinglereward:1": 0,
-          "questlogic:8": "AND",
-          "repeat_relative:1": 1,
-          "repeattime:3": -1,
-          "simultaneous:1": 0,
-          "snd_complete:8": "minecraft:entity.player.levelup",
-          "snd_update:8": "minecraft:entity.player.levelup",
-          "tasklogic:8": "AND",
-          "visibility:8": "ALWAYS"
+          "partysinglereward:1": 0
         }
       },
       "questID:3": 500,
@@ -21299,9 +20968,8 @@
       ],
       "properties:10": {
         "betterquesting:10": {
-          "autoclaim:1": 0,
           "desc:8": "§6Capacitors§r are devices that store electrical energy, which is useful for circuits.\n\nNot to be confused with §bEnderIO§r\u0027s capacitors, which store redstone flux.",
-          "globalshare:1": 0,
+          "frame:8": "GATE",
           "icon:10": {
             "Count:3": 1,
             "Damage:2": 520,
@@ -21390,9 +21058,8 @@
       ],
       "properties:10": {
         "betterquesting:10": {
-          "autoclaim:1": 0,
           "desc:8": "§oThis quest accepts any Brewery from LV to IV.§r\n\nYou can turn §6Plant Balls§r and other various §6sugary crops§r into §9Biomass§r with a §3Brewery§r. Biomass is the first step towards making Plastic in the form of §9Polyethylene§r.\n\nThe Brewery is a very very slow machine, but it requires almost no power. Building §2many Breweries§r is necessary to brew enough Biomass for plastics. §2An alternative and more resource efficient way of making biomass is with a Pyrolyse Oven, Water, and Bio Chaff.§r",
-          "globalshare:1": 0,
+          "frame:8": "GATE",
           "icon:10": {
             "Count:3": 1,
             "Damage:2": 155,
@@ -21401,15 +21068,7 @@
           "ismain:1": 1,
           "lockedprogress:1": 1,
           "name:8": "§2Brewery§r",
-          "partysinglereward:1": 0,
-          "questlogic:8": "AND",
-          "repeat_relative:1": 1,
-          "repeattime:3": -1,
-          "simultaneous:1": 0,
-          "snd_complete:8": "minecraft:entity.player.levelup",
-          "snd_update:8": "minecraft:entity.player.levelup",
-          "tasklogic:8": "AND",
-          "visibility:8": "ALWAYS"
+          "partysinglereward:1": 0
         }
       },
       "questID:3": 504,
@@ -22228,9 +21887,8 @@
       ],
       "properties:10": {
         "betterquesting:10": {
-          "autoclaim:1": 0,
           "desc:8": "Upgrading to the §6Nano Supercomputer§r requires some standard circuit components, but also some §6Lumium Wire§r and §2Fine Tungstensteel Wire.§r",
-          "globalshare:1": 0,
+          "frame:8": "GATE",
           "icon:10": {
             "Count:3": 1,
             "Damage:2": 634,
@@ -22239,15 +21897,7 @@
           "ismain:1": 1,
           "lockedprogress:1": 1,
           "name:8": "§2The Second Tier Five Circuits§r",
-          "partysinglereward:1": 0,
-          "questlogic:8": "AND",
-          "repeat_relative:1": 1,
-          "repeattime:3": -1,
-          "simultaneous:1": 0,
-          "snd_complete:8": "minecraft:entity.player.levelup",
-          "snd_update:8": "minecraft:entity.player.levelup",
-          "tasklogic:8": "AND",
-          "visibility:8": "ALWAYS"
+          "partysinglereward:1": 0
         }
       },
       "questID:3": 523,
@@ -22293,15 +21943,7 @@
           "ismain:1": 1,
           "lockedprogress:1": 1,
           "name:8": "§2The First Tier Six Circuits§r",
-          "partysinglereward:1": 0,
-          "questlogic:8": "AND",
-          "repeat_relative:1": 1,
-          "repeattime:3": -1,
-          "simultaneous:1": 0,
-          "snd_complete:8": "minecraft:entity.player.levelup",
-          "snd_update:8": "minecraft:entity.player.levelup",
-          "tasklogic:8": "AND",
-          "visibility:8": "ALWAYS"
+          "partysinglereward:1": 0
         }
       },
       "questID:3": 524,
@@ -22347,15 +21989,7 @@
           "ismain:1": 1,
           "lockedprogress:1": 1,
           "name:8": "§2The Second Tier Four Circuits§r",
-          "partysinglereward:1": 0,
-          "questlogic:8": "AND",
-          "repeat_relative:1": 1,
-          "repeattime:3": -1,
-          "simultaneous:1": 0,
-          "snd_complete:8": "minecraft:entity.player.levelup",
-          "snd_update:8": "minecraft:entity.player.levelup",
-          "tasklogic:8": "AND",
-          "visibility:8": "ALWAYS"
+          "partysinglereward:1": 0
         }
       },
       "questID:3": 525,
@@ -22403,15 +22037,7 @@
           "ismain:1": 1,
           "lockedprogress:1": 1,
           "name:8": "§2EV Circuit Assembling Machine§r",
-          "partysinglereward:1": 0,
-          "questlogic:8": "AND",
-          "repeat_relative:1": 1,
-          "repeattime:3": -1,
-          "simultaneous:1": 0,
-          "snd_complete:8": "minecraft:entity.player.levelup",
-          "snd_update:8": "minecraft:entity.player.levelup",
-          "tasklogic:8": "AND",
-          "visibility:8": "ALWAYS"
+          "partysinglereward:1": 0
         }
       },
       "questID:3": 526,
@@ -22464,15 +22090,7 @@
           "ismain:1": 1,
           "lockedprogress:1": 1,
           "name:8": "§2Lumium§r",
-          "partysinglereward:1": 0,
-          "questlogic:8": "AND",
-          "repeat_relative:1": 1,
-          "repeattime:3": -1,
-          "simultaneous:1": 0,
-          "snd_complete:8": "minecraft:entity.player.levelup",
-          "snd_update:8": "minecraft:entity.player.levelup",
-          "tasklogic:8": "AND",
-          "visibility:8": "ALWAYS"
+          "partysinglereward:1": 0
         }
       },
       "questID:3": 527,
@@ -22561,15 +22179,7 @@
           "ismain:1": 1,
           "lockedprogress:1": 1,
           "name:8": "§2IV Circuit Assembling Machine§r",
-          "partysinglereward:1": 0,
-          "questlogic:8": "AND",
-          "repeat_relative:1": 1,
-          "repeattime:3": -1,
-          "simultaneous:1": 0,
-          "snd_complete:8": "minecraft:entity.player.levelup",
-          "snd_update:8": "minecraft:entity.player.levelup",
-          "tasklogic:8": "AND",
-          "visibility:8": "ALWAYS"
+          "partysinglereward:1": 0
         }
       },
       "questID:3": 529,
@@ -22606,9 +22216,7 @@
       ],
       "properties:10": {
         "betterquesting:10": {
-          "autoclaim:1": 0,
           "desc:8": "With all of the components made, it\u0027s time to craft an §2Electronic Circuit§r.\n\nThis is where your §3Crafting Station§r setups will really shine! With the patterns encoded into a Crafting Stations (well, really over §omany§r Crafting Stations), you\u0027ll be able to §ebatch craft circuits quickly§r.\n\nYou\u0027ll be making a LOT of circuits, so take advantage of the improved crafting efficiency.",
-          "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
             "Damage:2": 621,
@@ -22668,15 +22276,7 @@
           "ismain:1": 1,
           "lockedprogress:1": 1,
           "name:8": "§2The First Tier Seven Circuits§r",
-          "partysinglereward:1": 0,
-          "questlogic:8": "AND",
-          "repeat_relative:1": 1,
-          "repeattime:3": -1,
-          "simultaneous:1": 0,
-          "snd_complete:8": "minecraft:entity.player.levelup",
-          "snd_update:8": "minecraft:entity.player.levelup",
-          "tasklogic:8": "AND",
-          "visibility:8": "ALWAYS"
+          "partysinglereward:1": 0
         }
       },
       "questID:3": 531,
@@ -22822,15 +22422,7 @@
           "ismain:1": 1,
           "lockedprogress:1": 1,
           "name:8": "§2The Second Tier Seven Circuits§r",
-          "partysinglereward:1": 0,
-          "questlogic:8": "AND",
-          "repeat_relative:1": 1,
-          "repeattime:3": -1,
-          "simultaneous:1": 0,
-          "snd_complete:8": "minecraft:entity.player.levelup",
-          "snd_update:8": "minecraft:entity.player.levelup",
-          "tasklogic:8": "AND",
-          "visibility:8": "ALWAYS"
+          "partysinglereward:1": 0
         }
       },
       "questID:3": 534,
@@ -22878,15 +22470,7 @@
           "ismain:1": 1,
           "lockedprogress:1": 1,
           "name:8": "§2The First Tier Eight Circuits§r",
-          "partysinglereward:1": 0,
-          "questlogic:8": "AND",
-          "repeat_relative:1": 1,
-          "repeattime:3": -1,
-          "simultaneous:1": 0,
-          "snd_complete:8": "minecraft:entity.player.levelup",
-          "snd_update:8": "minecraft:entity.player.levelup",
-          "tasklogic:8": "AND",
-          "visibility:8": "ALWAYS"
+          "partysinglereward:1": 0
         }
       },
       "questID:3": 535,
@@ -22932,15 +22516,7 @@
           "ismain:1": 1,
           "lockedprogress:1": 1,
           "name:8": "§2ZPM Machine Hulls§r",
-          "partysinglereward:1": 0,
-          "questlogic:8": "AND",
-          "repeat_relative:1": 1,
-          "repeattime:3": -1,
-          "simultaneous:1": 0,
-          "snd_complete:8": "minecraft:entity.player.levelup",
-          "snd_update:8": "minecraft:entity.player.levelup",
-          "tasklogic:8": "AND",
-          "visibility:8": "ALWAYS"
+          "partysinglereward:1": 0
         }
       },
       "questID:3": 536,
@@ -23535,9 +23111,7 @@
       ],
       "properties:10": {
         "betterquesting:10": {
-          "autoclaim:1": 0,
           "desc:8": "§2Fluid Rigs will harvest fluids from underground fluid veins. Note that the fluid veins are simply simulated and don\u0027t exist in the world.§r\n\nShift-right-click while holding the §3Prospector\u0027s Scanner§r to set it to fluid mode, then right click it in order to see the type and amount of fluid underground and to check the depletion state of the vein. The first number represents the base amount of fluid extracted per second. You can also check the §eFluid Vein Information JEI§r page for information on where they spawn.\n\nIn the §eOverworld§r, it can harvest: §9Oil, Light Oil, Heavy Oil, Raw Oil, Natural Gas\nSalt Water§r (only in Ocean biomes)\n\nIn the §eNether§r: §eLava, Natural Gas§r\n\nOn the §eMoon§r: §9Deuterium, Helium-3§r\n\nIn the §eVoid§r: §9Raw Oil§r\n\nAs Fluid Rigs work, they will deplete the vein under them, reducing their yields. When a vein is depleted, it still yields a small amount of its fluid. The first tier of Fluid Rig takes §d100,000 operations§r to deplete a vein. Higher tier Fluid Rigs harvest fluids far faster and deplete veins slower.\n\nNote that regular oil veins and raw oil veins in the §eOverworld§r have §aequivalent§r depleted yield to the raw oil veins in the §eVoid§r: 40 regular oil or 80 raw oil, respectively.",
-          "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
             "id:8": "forge:bucketfilled",
@@ -23546,20 +23120,8 @@
               "FluidName:8": "oil"
             }
           },
-          "ignoresview:1": 0,
-          "ismain:1": 0,
-          "issilent:1": 0,
-          "lockedprogress:1": 0,
           "name:8": "§2Fluid Rig§r",
-          "partysinglereward:1": 0,
-          "questlogic:8": "AND",
-          "repeat_relative:1": 1,
-          "repeattime:3": -1,
-          "simultaneous:1": 0,
-          "snd_complete:8": "minecraft:entity.player.levelup",
-          "snd_update:8": "minecraft:entity.player.levelup",
-          "tasklogic:8": "AND",
-          "visibility:8": "ALWAYS"
+          "partysinglereward:1": 0
         }
       },
       "questID:3": 549,
@@ -23886,24 +23448,14 @@
       ],
       "properties:10": {
         "betterquesting:10": {
-          "autoclaim:1": 0,
           "desc:8": "Now that you have a §3Wiremill§r and a §2Bending Machine§r, you can consider starting to do §eBounties§r. The §6Bounty Board§r has a global inventory containing quests to turn in specific items in exchange for §dNomicoins§r. These quests have a fairly short duration, so make sure to §estockpile the items§r that come up on them or else they\u0027ll §cexpire before you can complete them§r.\n\nWith renewable §dNomicoins§r, you should feel free to spend the ones you have on whatever you need. §aSpend your coins!§r",
-          "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
             "id:8": "bountiful:bountyboarditem"
           },
           "lockedprogress:1": 1,
           "name:8": "§2Bounties For Nomicoins!§r",
-          "partysinglereward:1": 0,
-          "questlogic:8": "AND",
-          "repeat_relative:1": 1,
-          "repeattime:3": -1,
-          "simultaneous:1": 0,
-          "snd_complete:8": "minecraft:entity.player.levelup",
-          "snd_update:8": "minecraft:entity.player.levelup",
-          "tasklogic:8": "AND",
-          "visibility:8": "ALWAYS"
+          "partysinglereward:1": 0
         }
       },
       "questID:3": 556,
@@ -24000,9 +23552,7 @@
       ],
       "properties:10": {
         "betterquesting:10": {
-          "autoclaim:1": 0,
           "desc:8": "The §aAuxiliary Transmission Coil§r is an augment that will work in all types of dynamos. It will consume fuel faster to produce a correspondingly higher RF per tick.\n\nEach augment increases both base power production and fuel consumption by 100%, additively (so the second is 200%, third is 300%, etc.).\n\nConsider the tradeoffs however, as you could just make another dynamo, and you miss out on §aFuel Catalyzer§r augments that make fuels burn longer for more total RF generated. The Auxiliary Transmission Coil will put additional stress your fuel production infrastructure.\n\nIf that\u0027s an acceptable tradeoff, then Auxiliary Transmission Coils are a cheap and effective way to boost your power production.",
-          "globalshare:1": 0,
           "icon:10": {
             "Count:3": 2,
             "Damage:2": 512,
@@ -24504,15 +24054,7 @@
           },
           "lockedprogress:1": 1,
           "name:8": "§2Blast Furnaces Galore§r",
-          "partysinglereward:1": 0,
-          "questlogic:8": "AND",
-          "repeat_relative:1": 1,
-          "repeattime:3": -1,
-          "simultaneous:1": 0,
-          "snd_complete:8": "minecraft:entity.player.levelup",
-          "snd_update:8": "minecraft:entity.player.levelup",
-          "tasklogic:8": "AND",
-          "visibility:8": "ALWAYS"
+          "partysinglereward:1": 0
         }
       },
       "questID:3": 580,
@@ -24712,15 +24254,7 @@
           },
           "lockedprogress:1": 1,
           "name:8": "§2Rhodium Plated Lumium-Palladium§r",
-          "partysinglereward:1": 0,
-          "questlogic:8": "AND",
-          "repeat_relative:1": 1,
-          "repeattime:3": -1,
-          "simultaneous:1": 0,
-          "snd_complete:8": "minecraft:entity.player.levelup",
-          "snd_update:8": "minecraft:entity.player.levelup",
-          "tasklogic:8": "AND",
-          "visibility:8": "ALWAYS"
+          "partysinglereward:1": 0
         }
       },
       "questID:3": 585,
@@ -25718,9 +25252,7 @@
       ],
       "properties:10": {
         "betterquesting:10": {
-          "autoclaim:1": 0,
           "desc:8": "Provides more augment slots to machines and dynamos.\n\nDynamos operate at §a250% of base power and fuel burn rate§r.\n\nTanks hold §a450 buckets§r.\n\nMachines operate at §a250% of base speed.§r",
-          "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
             "Damage:2": 1,
@@ -25765,9 +25297,7 @@
       ],
       "properties:10": {
         "betterquesting:10": {
-          "autoclaim:1": 0,
           "desc:8": "§6Phantomfaces§r are powerful blocks added by §bActually Additions§r. They work by connecting to an inventory.\n\nIn order to do this, grab a §6Phantom Connector§r and shift-right click the inventory which you want to connect to, and then shift-right clicking on the §6Phantomface§r. You should see a message saying that it has been successfully connected. Keep in mind that these have a range, so don\u0027t put your inventories too far away.\n\nNow, whenever an item goes into that inventory, it will go into the §6Phantomface§r. This also works the other way around.\n\n§6Phantomfaces§r can also be crafted into other variants, such as §6Phantom Breakers§r and §6Phantom Placers§r. These work just like the §6Phantomface§r, but with a slight variation. For example, §6Phantom Breakers§r would put the item they broke into the inventory it is connected to.\n\nPhantomface-based setups can be §chard to troubleshoot§r, so consider using AE2 if possible.",
-          "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
             "id:8": "actuallyadditions:block_phantomface"
@@ -26104,15 +25634,7 @@
           },
           "lockedprogress:1": 1,
           "name:8": "§2Element 006: Carbon§r",
-          "partysinglereward:1": 0,
-          "questlogic:8": "AND",
-          "repeat_relative:1": 1,
-          "repeattime:3": -1,
-          "simultaneous:1": 0,
-          "snd_complete:8": "minecraft:entity.player.levelup",
-          "snd_update:8": "minecraft:entity.player.levelup",
-          "tasklogic:8": "AND",
-          "visibility:8": "ALWAYS"
+          "partysinglereward:1": 0
         }
       },
       "questID:3": 618,
@@ -28118,15 +27640,7 @@
           },
           "lockedprogress:1": 1,
           "name:8": "§2Element 095: Americium§r",
-          "partysinglereward:1": 0,
-          "questlogic:8": "AND",
-          "repeat_relative:1": 1,
-          "repeattime:3": -1,
-          "simultaneous:1": 0,
-          "snd_complete:8": "minecraft:entity.player.levelup",
-          "snd_update:8": "minecraft:entity.player.levelup",
-          "tasklogic:8": "AND",
-          "visibility:8": "ALWAYS"
+          "partysinglereward:1": 0
         }
       },
       "questID:3": 664,
@@ -28425,15 +27939,7 @@
           "ismain:1": 1,
           "lockedprogress:1": 1,
           "name:8": "§2Thorium Fission§r",
-          "partysinglereward:1": 0,
-          "questlogic:8": "AND",
-          "repeat_relative:1": 1,
-          "repeattime:3": -1,
-          "simultaneous:1": 0,
-          "snd_complete:8": "minecraft:entity.player.levelup",
-          "snd_update:8": "minecraft:entity.player.levelup",
-          "tasklogic:8": "AND",
-          "visibility:8": "ALWAYS"
+          "partysinglereward:1": 0
         }
       },
       "questID:3": 671,
@@ -28478,9 +27984,7 @@
       ],
       "properties:10": {
         "betterquesting:10": {
-          "autoclaim:1": 0,
           "desc:8": "Climbing the ladder of fissile materials will require some specific raw materials and machinery.\n\n§2Uraninite is the base resource you will need, which comes from Uraninite and Pitchblende Ore. You will need to react it with Fluorine and Hydrofluoric Acid in a Chemical Reactor to form Uranium Hexafluoride.\n\nThe Uranium Hexafluoride must then be separated into Depleted and Enriched Uranium Hexafluoride in a Centrifuge. The Depleted UF₆ will grant Uranium-238, while the Enriched UF₆ will grant Uranium-235.\n\nYou may find Red Granite as a viable source of Uranium-238 if you are able to process it in large enough volumes to offset the low base chance.§r",
-          "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
             "Damage:2": 116,
@@ -28488,15 +27992,7 @@
           },
           "lockedprogress:1": 1,
           "name:8": "§2Uranium Fuel Infrastructure§r",
-          "partysinglereward:1": 0,
-          "questlogic:8": "AND",
-          "repeat_relative:1": 1,
-          "repeattime:3": -1,
-          "simultaneous:1": 0,
-          "snd_complete:8": "minecraft:entity.player.levelup",
-          "snd_update:8": "minecraft:entity.player.levelup",
-          "tasklogic:8": "AND",
-          "visibility:8": "ALWAYS"
+          "partysinglereward:1": 0
         }
       },
       "questID:3": 672,
@@ -28913,9 +28409,8 @@
       ],
       "properties:10": {
         "betterquesting:10": {
-          "autoclaim:1": 0,
           "desc:8": "The §aImplosion Compressor§r is like an autoclave that uses explosions instead of water.\n\nIt is the only way to turn some gem dusts into gemstones. However, for some gemstones, like §6Apatite§r, it is much more efficient to use an §3Autoclave§r with §9Distilled Water§r.\n\nIt will also be vital for processing §5Motes of Omnium§r.\n\nIn addition to the controller and casings, you will need one §eLV or better §6Item Input Bus§r, §6Item Output Bus§r, and §6Energy Input Hatch§r.\n\n§2If desired, you may upgrade this directly to an Electric Implosion Compressor, which has no improvements over the base multi for now.§r",
-          "globalshare:1": 0,
+          "frame:8": "GATE",
           "icon:10": {
             "Count:3": 1,
             "Damage:2": 1003,
@@ -28924,15 +28419,7 @@
           "ismain:1": 1,
           "lockedprogress:1": 1,
           "name:8": "§2Implosion Compressor§r",
-          "partysinglereward:1": 0,
-          "questlogic:8": "AND",
-          "repeat_relative:1": 1,
-          "repeattime:3": -1,
-          "simultaneous:1": 0,
-          "snd_complete:8": "minecraft:entity.player.levelup",
-          "snd_update:8": "minecraft:entity.player.levelup",
-          "tasklogic:8": "AND",
-          "visibility:8": "ALWAYS"
+          "partysinglereward:1": 0
         }
       },
       "questID:3": 681,
@@ -28969,9 +28456,8 @@
       ],
       "properties:10": {
         "betterquesting:10": {
-          "autoclaim:1": 0,
           "desc:8": "A §3Simulation Chamber§r from §bDeep Mob Evolution§r (§bDME§r) allows you to farm mobs in a totally environmentally (and server) friendly way!\n\nSimulated mobs can even be used to provide you with many of the basic resources you\u0027ll need (such as §6iron, gold, tin, copper, diamonds§r and many more!), through pristine matter.\n\nSetting up DME automation during the early game is §avery important§r as it gives you access to infinite quantities of many resources!\n\nDME changes machines, making them no longer sided, so you can input and output from any side, as well as allowing them to be controlled by redstone.\n\nConsider reading the §bDeep Mob Evolution§r book for more info.\n\nYes, you can also use it for generating power... §owith Diamonds.§r",
-          "globalshare:1": 0,
+          "frame:8": "GATE",
           "icon:10": {
             "Count:3": 1,
             "id:8": "deepmoblearning:simulation_chamber"
@@ -29233,9 +28719,7 @@
       ],
       "properties:10": {
         "betterquesting:10": {
-          "autoclaim:1": 0,
           "desc:8": "Feeding a §3Steam Dynamo§r with water by hand is a pretty silly idea.\n\nAn §6Infinite Water Source§r will take care of that for you, albeit slowly.\n\n§2GTCEu has a Primitive Water Pump, which can do it faster. However, it requires Treated Wood, which requires Creosote from a Coke Oven.§r",
-          "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
             "id:8": "nuclearcraft:water_source"
@@ -30831,9 +30315,7 @@
       ],
       "properties:10": {
         "betterquesting:10": {
-          "autoclaim:1": 0,
           "desc:8": "§eUSE JEI!!!\n\n§bJEI§r stands for §bJust Enough Items§r. It\u0027s the list of all items that you see every time you open your inventory. It\u0027s the better(tm) recipe book that shows you all available items and recipes in the modpack.\n\nTo see it in action, pull up a quest that requires an item of some sort and just click the item!\n\nIf you want to know how to craft an item, just hover your mouse over it and press §6R§r. JEI will list all available recipes.\n\nIf you instead want to know what recipes use an item, hover over it and press §6U§r.\n\nHover over an item and press §6A§r to bookmark it. To remove a bookmarked item from the list, press A on the bookmark.\n\nOne of the remarkable features of JEI is that it\u0027s also capable of helping you with recipes. Right-click a crafting table, look up the recipe you need and press the §a[+]§r button: if you have all required items for the recipe, this will put them all into the crafting table for you.\n\n§2A new mod has been added: JEI Utilities.§r\nThis mod stores your 20 most recently seen recipes, and you can use the middle mouse button to move bookmarks around. There are some other features, but these features are probably the most notable and useful.",
-          "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
             "id:8": "minecraft:book"
@@ -30867,15 +30349,7 @@
           "ismain:1": 1,
           "lockedprogress:1": 1,
           "name:8": "§2Multi-Layer Fiber-Reinforced Epoxy Substrate§r",
-          "partysinglereward:1": 0,
-          "questlogic:8": "AND",
-          "repeat_relative:1": 1,
-          "repeattime:3": -1,
-          "simultaneous:1": 0,
-          "snd_complete:8": "minecraft:entity.player.levelup",
-          "snd_update:8": "minecraft:entity.player.levelup",
-          "tasklogic:8": "AND",
-          "visibility:8": "ALWAYS"
+          "partysinglereward:1": 0
         }
       },
       "questID:3": 744,
@@ -31141,18 +30615,8 @@
             "id:8": "gregtech:machine"
           },
           "ismain:1": 1,
-          "issilent:1": 0,
-          "lockedprogress:1": 0,
           "name:8": "§2Fusion Reactor MK2§r",
-          "partysinglereward:1": 0,
-          "questlogic:8": "AND",
-          "repeat_relative:1": 1,
-          "repeattime:3": -1,
-          "simultaneous:1": 0,
-          "snd_complete:8": "minecraft:entity.player.levelup",
-          "snd_update:8": "minecraft:entity.player.levelup",
-          "tasklogic:8": "AND",
-          "visibility:8": "ALWAYS"
+          "partysinglereward:1": 0
         }
       },
       "questID:3": 749,
@@ -31213,15 +30677,7 @@
           "ismain:1": 1,
           "lockedprogress:1": 1,
           "name:8": "§2Enderium Ingot§r",
-          "partysinglereward:1": 0,
-          "questlogic:8": "AND",
-          "repeat_relative:1": 1,
-          "repeattime:3": -1,
-          "simultaneous:1": 0,
-          "snd_complete:8": "minecraft:entity.player.levelup",
-          "snd_update:8": "minecraft:entity.player.levelup",
-          "tasklogic:8": "AND",
-          "visibility:8": "ALWAYS"
+          "partysinglereward:1": 0
         }
       },
       "questID:3": 750,
@@ -31811,9 +31267,8 @@
       ],
       "properties:10": {
         "betterquesting:10": {
-          "autoclaim:1": 0,
           "desc:8": "§6Dislocator Pedestals§r are a very simple way of inter-dimensional transport.\n\nHold a §6Dislocator§r in your hand and §6sneak-right click§r to bind it to your position. Now, place it inside a Pedestal so you can travel to the bound spot anytime you want.\n\nBefore going to the Moon, you\u0027ll need §etwo Dislocators§r and §etwo Pedestals§r.\n\nBind one Dislocator to a location in the Overworld, then take it with you to the Moon and put it down on a Pedestal.\n\nBind the other Dislocator to a location on the Moon, then use the first Pedestal to return home. Place the second Dislocator on the second Pedestal, then you can warp between the two locations at will. Neat!\n\n§aTip: Dislocators don\u0027t lose durability on use when placed in a Pedestal!§r",
-          "globalshare:1": 0,
+          "frame:8": "GATE",
           "icon:10": {
             "Count:3": 1,
             "id:8": "draconicevolution:dislocator"
@@ -32313,15 +31768,7 @@
           },
           "lockedprogress:1": 1,
           "name:8": "§2Power Storage on a Massive Level§r",
-          "partysinglereward:1": 0,
-          "questlogic:8": "AND",
-          "repeat_relative:1": 1,
-          "repeattime:3": -1,
-          "simultaneous:1": 0,
-          "snd_complete:8": "minecraft:entity.player.levelup",
-          "snd_update:8": "minecraft:entity.player.levelup",
-          "tasklogic:8": "AND",
-          "visibility:8": "ALWAYS"
+          "partysinglereward:1": 0
         }
       },
       "questID:3": 778,
@@ -32574,19 +32021,7 @@
             "Damage:2": 711,
             "id:8": "gregtech:meta_item_1"
           },
-          "ignoresview:1": 0,
-          "ismain:1": 0,
-          "issilent:1": 0,
-          "lockedprogress:1": 0,
-          "name:8": "§2Large Turbines§r",
-          "questlogic:8": "AND",
-          "repeat_relative:1": 1,
-          "repeattime:3": -1,
-          "simultaneous:1": 0,
-          "snd_complete:8": "minecraft:entity.player.levelup",
-          "snd_update:8": "minecraft:entity.player.levelup",
-          "tasklogic:8": "AND",
-          "visibility:8": "ALWAYS"
+          "name:8": "§2Large Turbines§r"
         }
       },
       "questID:3": 783,
@@ -32660,14 +32095,7 @@
           "ismain:1": 1,
           "lockedprogress:1": 1,
           "name:8": "§2New Cable Coverings§r",
-          "questlogic:8": "AND",
-          "repeat_relative:1": 1,
-          "repeattime:3": -1,
-          "simultaneous:1": 0,
-          "snd_complete:8": "minecraft:entity.player.levelup",
-          "snd_update:8": "minecraft:entity.player.levelup",
-          "tasklogic:8": "OR",
-          "visibility:8": "ALWAYS"
+          "tasklogic:8": "OR"
         }
       },
       "questID:3": 785,
@@ -33325,9 +32753,7 @@
       ],
       "properties:10": {
         "betterquesting:10": {
-          "autoclaim:1": 0,
           "desc:8": "The §3Pyrolyse Oven§r can make more interesting products than just §9Phenol§r.\n\n§9Charcoal Byproducts§r breaks down into various wood products, such as §9Wood Tar§r, §9Wood Gas§r, and §9Wood Vinegar§r, each of which can be further broken down into various useful chemical compounds, such as §9Toluene§r, §9Methanol§r, etc.\n\nHowever, to take full advantage of decomposing these wood products, a §3Distillation Tower§r is required, so that all possible outputs can be obtained. You will need more §eDistillation Tower Slices§r than requested in the Distillation Tower quest, so be prepared to spend some more §6Stainless Steel§r.",
-          "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
             "id:8": "forge:bucketfilled",
@@ -33385,26 +32811,15 @@
       ],
       "properties:10": {
         "betterquesting:10": {
-          "autoclaim:1": 0,
           "desc:8": "§6Fusion Coils§r are §2no longer EBF coil materials, but they are used in the next Fusion Reactors.§r",
-          "globalshare:1": 0,
+          "frame:8": "GATE",
           "icon:10": {
             "Count:3": 1,
             "Damage:2": 1,
             "id:8": "gregtech:fusion_casing"
           },
           "ismain:1": 1,
-          "issilent:1": 0,
-          "lockedprogress:1": 0,
-          "name:8": "§2Fusion Coils§r",
-          "questlogic:8": "AND",
-          "repeat_relative:1": 1,
-          "repeattime:3": -1,
-          "simultaneous:1": 0,
-          "snd_complete:8": "minecraft:entity.player.levelup",
-          "snd_update:8": "minecraft:entity.player.levelup",
-          "tasklogic:8": "AND",
-          "visibility:8": "ALWAYS"
+          "name:8": "§2Fusion Coils§r"
         }
       },
       "questID:3": 802,
@@ -33600,19 +33015,7 @@
               "FluidName:8": "allyl_chloride"
             }
           },
-          "ignoresview:1": 0,
-          "ismain:1": 0,
-          "issilent:1": 0,
-          "lockedprogress:1": 0,
-          "name:8": "§2Allyl Chloride§r",
-          "questlogic:8": "AND",
-          "repeat_relative:1": 1,
-          "repeattime:3": -1,
-          "simultaneous:1": 0,
-          "snd_complete:8": "minecraft:entity.player.levelup",
-          "snd_update:8": "minecraft:entity.player.levelup",
-          "tasklogic:8": "AND",
-          "visibility:8": "ALWAYS"
+          "name:8": "§2Allyl Chloride§r"
         }
       },
       "questID:3": 806,
@@ -33703,19 +33106,7 @@
             "Damage:2": 32108,
             "id:8": "gregtech:machine"
           },
-          "ignoresview:1": 0,
-          "ismain:1": 0,
-          "issilent:1": 0,
-          "lockedprogress:1": 0,
-          "name:8": "§2Simulation Supercomputer§r",
-          "questlogic:8": "AND",
-          "repeat_relative:1": 1,
-          "repeattime:3": -1,
-          "simultaneous:1": 0,
-          "snd_complete:8": "minecraft:entity.player.levelup",
-          "snd_update:8": "minecraft:entity.player.levelup",
-          "tasklogic:8": "AND",
-          "visibility:8": "ALWAYS"
+          "name:8": "§2Simulation Supercomputer§r"
         }
       },
       "questID:3": 809,
@@ -33910,26 +33301,13 @@
       ],
       "properties:10": {
         "betterquesting:10": {
-          "autoclaim:1": 0,
           "desc:8": "§2Check out the new Material Tree tab!§r\n\nThis tab can be accessed in §bJEI§r, when finding the §ausages or recipes§r of §aany form§r of a §bGregTech§r material!\n\nIt will show you nearly all the different forms of a §bGregTech§r material (§ePlates, Rods, Screws, Dusts...§r) on a single page, as well as showing what can be turned into what. You can then click on those to see their recipes.",
-          "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
             "Damage:2": 2,
             "id:8": "gregtech:meta_ingot"
           },
-          "ignoresview:1": 0,
-          "ismain:1": 0,
-          "issilent:1": 0,
-          "lockedprogress:1": 0,
           "name:8": "§2Material Tree§r",
-          "questlogic:8": "AND",
-          "repeat_relative:1": 1,
-          "repeattime:3": -1,
-          "simultaneous:1": 0,
-          "snd_complete:8": "minecraft:entity.player.levelup",
-          "snd_update:8": "minecraft:entity.player.levelup",
-          "tasklogic:8": "AND",
           "visibility:8": "CHAIN"
         }
       },
@@ -34013,26 +33391,15 @@
       ],
       "properties:10": {
         "betterquesting:10": {
-          "autoclaim:1": 0,
           "desc:8": "The §3Bending Machine§r improves the yield of a great deal of items. Most notably, you can use it to get one §6Plate§r from a single ingot, instead of having to spend two ingots for a single plate.\n\nAs with the §3Wiremill§r, this requires a §6Programmed Circuit§r to tell it what to make. For plates, this is §econfiguration 1§r. Refer to §eJEI§r for which configuration to use for your recipe.\n\nOther materials it can produce include:\n- 4 §6Foils§r from a Plate\n- §6Double Plates§r from two Plates\n- §6Dense Plates§r from nine Plates\n- §6Small Springs§r from one Rod\n- §6Springs§r from one Long Rod.\n\nIf you played the CE version of §dNomifactory§r, note that the functions of the §3Compressor§r (for making Plates) and §3Cluster Mill§r are merged into this machine.",
-          "globalshare:1": 0,
+          "frame:8": "GATE",
           "icon:10": {
             "Count:3": 1,
             "Damage:2": 140,
             "id:8": "gregtech:machine"
           },
           "ismain:1": 1,
-          "issilent:1": 0,
-          "lockedprogress:1": 0,
-          "name:8": "§2LV Bending Machine§r",
-          "questlogic:8": "AND",
-          "repeat_relative:1": 1,
-          "repeattime:3": -1,
-          "simultaneous:1": 0,
-          "snd_complete:8": "minecraft:entity.player.levelup",
-          "snd_update:8": "minecraft:entity.player.levelup",
-          "tasklogic:8": "AND",
-          "visibility:8": "ALWAYS"
+          "name:8": "§2LV Bending Machine§r"
         }
       },
       "questID:3": 815,
@@ -34077,17 +33444,7 @@
             "id:8": "gregtech:machine"
           },
           "ismain:1": 1,
-          "issilent:1": 0,
-          "lockedprogress:1": 0,
-          "name:8": "§2LV Circuit Assembler§r",
-          "questlogic:8": "AND",
-          "repeat_relative:1": 1,
-          "repeattime:3": -1,
-          "simultaneous:1": 0,
-          "snd_complete:8": "minecraft:entity.player.levelup",
-          "snd_update:8": "minecraft:entity.player.levelup",
-          "tasklogic:8": "AND",
-          "visibility:8": "ALWAYS"
+          "name:8": "§2LV Circuit Assembler§r"
         }
       },
       "questID:3": 816,
@@ -34129,19 +33486,7 @@
             "Damage:2": 1025,
             "id:8": "gregtech:machine"
           },
-          "ignoresview:1": 0,
-          "ismain:1": 0,
-          "issilent:1": 0,
-          "lockedprogress:1": 0,
-          "name:8": "§2Steam Grinder§r",
-          "questlogic:8": "AND",
-          "repeat_relative:1": 1,
-          "repeattime:3": -1,
-          "simultaneous:1": 0,
-          "snd_complete:8": "minecraft:entity.player.levelup",
-          "snd_update:8": "minecraft:entity.player.levelup",
-          "tasklogic:8": "AND",
-          "visibility:8": "ALWAYS"
+          "name:8": "§2Steam Grinder§r"
         }
       },
       "questID:3": 817,
@@ -34267,19 +33612,7 @@
               "MaxCharge:4": 2147483647
             }
           },
-          "ignoresview:1": 0,
-          "ismain:1": 0,
-          "issilent:1": 0,
-          "lockedprogress:1": 0,
-          "name:8": "§2GregTech Electric Tools§r",
-          "questlogic:8": "AND",
-          "repeat_relative:1": 1,
-          "repeattime:3": -1,
-          "simultaneous:1": 0,
-          "snd_complete:8": "minecraft:entity.player.levelup",
-          "snd_update:8": "minecraft:entity.player.levelup",
-          "tasklogic:8": "AND",
-          "visibility:8": "ALWAYS"
+          "name:8": "§2GregTech Electric Tools§r"
         }
       },
       "questID:3": 819,
@@ -34327,17 +33660,7 @@
             "id:8": "gregtech:meta_item_1"
           },
           "ismain:1": 1,
-          "issilent:1": 0,
-          "lockedprogress:1": 0,
-          "name:8": "§2Diodes§r",
-          "questlogic:8": "AND",
-          "repeat_relative:1": 1,
-          "repeattime:3": -1,
-          "simultaneous:1": 0,
-          "snd_complete:8": "minecraft:entity.player.levelup",
-          "snd_update:8": "minecraft:entity.player.levelup",
-          "tasklogic:8": "AND",
-          "visibility:8": "ALWAYS"
+          "name:8": "§2Diodes§r"
         }
       },
       "questID:3": 820,
@@ -34376,9 +33699,8 @@
       ],
       "properties:10": {
         "betterquesting:10": {
-          "autoclaim:1": 0,
           "desc:8": "§2Sodium Persulfate and Iron III Chloride§r are used to make cheaper §9Good Circuit Boards§r, as it cuts the Silver amount by a factor of four. They are also §drequired§r to make §9Plastic Circuit Boards§r, and circuit boards afterwards.\n\nMaking §aSodium Persulfate§r with §6Salt§r will yield §aHydrochloric Acid§r as a coproduct, which you may re-use to make §aIron III Chloride§r. This should the best approach right now, but the decision is entirely yours. With more automation later in the game, Iron III Chloride will be the cheaper and more straight forward path.\n\nSodium Persulfate can also be used in §9Ore Processing§r in the §3Chemical Bath§r, to get various bonus outputs you would not normally obtain. It is completely optional, but pretty rewarding.",
-          "globalshare:1": 0,
+          "frame:8": "GATE",
           "icon:10": {
             "Count:3": 1,
             "id:8": "forge:bucketfilled",
@@ -34388,17 +33710,8 @@
             }
           },
           "ismain:1": 1,
-          "issilent:1": 0,
-          "lockedprogress:1": 0,
           "name:8": "§2Sodium Persulfate and Iron III Chloride§r",
-          "questlogic:8": "AND",
-          "repeat_relative:1": 1,
-          "repeattime:3": -1,
-          "simultaneous:1": 0,
-          "snd_complete:8": "minecraft:entity.player.levelup",
-          "snd_update:8": "minecraft:entity.player.levelup",
-          "tasklogic:8": "OR",
-          "visibility:8": "ALWAYS"
+          "tasklogic:8": "OR"
         }
       },
       "questID:3": 821,
@@ -34445,27 +33758,13 @@
       ],
       "properties:10": {
         "betterquesting:10": {
-          "autoclaim:1": 0,
           "desc:8": "§2Phenolic Substrates need to be turned into Circuit Boards with Silver before being usable in Circuit production.\n\nSodium Persulfate and Iron III Chloride are troublesome to get right now, but using them in making Circuit Boards will reduce the amount of Silver required by 4 times.§r",
-          "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
             "Damage:2": 402,
             "id:8": "gregtech:meta_item_1"
           },
-          "ignoresview:1": 0,
-          "ismain:1": 0,
-          "issilent:1": 0,
-          "lockedprogress:1": 0,
-          "name:8": "§2Good Circuit Boards§r",
-          "questlogic:8": "AND",
-          "repeat_relative:1": 1,
-          "repeattime:3": -1,
-          "simultaneous:1": 0,
-          "snd_complete:8": "minecraft:entity.player.levelup",
-          "snd_update:8": "minecraft:entity.player.levelup",
-          "tasklogic:8": "AND",
-          "visibility:8": "ALWAYS"
+          "name:8": "§2Good Circuit Boards§r"
         }
       },
       "questID:3": 822,
@@ -34501,26 +33800,15 @@
       ],
       "properties:10": {
         "betterquesting:10": {
-          "autoclaim:1": 0,
           "desc:8": "§2This quest accepts an LV or MV Sifter.\n\nThe Sifter gets you Flawless and Exquisite Gems from Crushed Purified Gem Ores. Overall it results in a higher yield. Higher tiers of Sifter increase the yield further.\n\nYou will need small quantities of Flawless Emeralds for MV Emitter and Sensor components.§r",
-          "globalshare:1": 0,
+          "frame:8": "GATE",
           "icon:10": {
             "Count:3": 1,
             "Damage:2": 575,
             "id:8": "gregtech:machine"
           },
           "ismain:1": 1,
-          "issilent:1": 0,
-          "lockedprogress:1": 0,
-          "name:8": "§2Sifter§r",
-          "questlogic:8": "AND",
-          "repeat_relative:1": 1,
-          "repeattime:3": -1,
-          "simultaneous:1": 0,
-          "snd_complete:8": "minecraft:entity.player.levelup",
-          "snd_update:8": "minecraft:entity.player.levelup",
-          "tasklogic:8": "AND",
-          "visibility:8": "ALWAYS"
+          "name:8": "§2Sifter§r"
         }
       },
       "questID:3": 823,
@@ -34604,9 +33892,8 @@
       ],
       "properties:10": {
         "betterquesting:10": {
-          "autoclaim:1": 0,
           "desc:8": "§2Polytetrafluoroethylene (PTFE, or Teflon) is a polymer made from Carbon and Fluorine.\n\nThis polymer is most importantly used to make Large Chemical Reactors. It\u0027s also required for IV and LuV Machine Hulls, and can be substituted in some cases for higher yields.§r",
-          "globalshare:1": 0,
+          "frame:8": "GATE",
           "icon:10": {
             "Count:3": 1,
             "id:8": "forge:bucketfilled",
@@ -34616,17 +33903,7 @@
             }
           },
           "ismain:1": 1,
-          "issilent:1": 0,
-          "lockedprogress:1": 0,
-          "name:8": "§2Polytetrafluoroethylene§r",
-          "questlogic:8": "AND",
-          "repeat_relative:1": 1,
-          "repeattime:3": -1,
-          "simultaneous:1": 0,
-          "snd_complete:8": "minecraft:entity.player.levelup",
-          "snd_update:8": "minecraft:entity.player.levelup",
-          "tasklogic:8": "AND",
-          "visibility:8": "ALWAYS"
+          "name:8": "§2Polytetrafluoroethylene§r"
         }
       },
       "questID:3": 825,
@@ -34670,17 +33947,7 @@
             "id:8": "gregtech:machine"
           },
           "ismain:1": 1,
-          "issilent:1": 0,
-          "lockedprogress:1": 0,
-          "name:8": "§2Large Chemical Reactor§r",
-          "questlogic:8": "AND",
-          "repeat_relative:1": 1,
-          "repeattime:3": -1,
-          "simultaneous:1": 0,
-          "snd_complete:8": "minecraft:entity.player.levelup",
-          "snd_update:8": "minecraft:entity.player.levelup",
-          "tasklogic:8": "AND",
-          "visibility:8": "ALWAYS"
+          "name:8": "§2Large Chemical Reactor§r"
         }
       },
       "questID:3": 826,
@@ -34808,17 +34075,7 @@
             }
           },
           "ismain:1": 1,
-          "issilent:1": 0,
-          "lockedprogress:1": 0,
-          "name:8": "§2Polybenzimidazole (PBI)§r",
-          "questlogic:8": "AND",
-          "repeat_relative:1": 1,
-          "repeattime:3": -1,
-          "simultaneous:1": 0,
-          "snd_complete:8": "minecraft:entity.player.levelup",
-          "snd_update:8": "minecraft:entity.player.levelup",
-          "tasklogic:8": "AND",
-          "visibility:8": "ALWAYS"
+          "name:8": "§2Polybenzimidazole (PBI)§r"
         }
       },
       "questID:3": 828,
@@ -34897,9 +34154,7 @@
       ],
       "properties:10": {
         "betterquesting:10": {
-          "autoclaim:1": 0,
           "desc:8": "§2The next tier of Assembling Machine. This one can make quite a few nice things - check the surrounding quests.§r",
-          "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
             "Damage:2": 112,
@@ -35130,27 +34385,14 @@
       ],
       "properties:10": {
         "betterquesting:10": {
-          "autoclaim:1": 0,
           "desc:8": "§2The Oil Cracking Unit gives you higher yields from cracking organic substances.\n\nNew in GTCEu, many organic substances offer the option of being Severely or Lightly cracked, as well as Hydro or Steam cracked, with each one granting different ratios of distillates.§r",
-          "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
             "Damage:2": 1009,
             "id:8": "gregtech:machine"
           },
-          "ignoresview:1": 0,
-          "ismain:1": 0,
-          "issilent:1": 0,
-          "lockedprogress:1": 0,
           "name:8": "§2Oil Cracking Unit§r",
-          "questlogic:8": "OR",
-          "repeat_relative:1": 1,
-          "repeattime:3": -1,
-          "simultaneous:1": 0,
-          "snd_complete:8": "minecraft:entity.player.levelup",
-          "snd_update:8": "minecraft:entity.player.levelup",
-          "tasklogic:8": "AND",
-          "visibility:8": "ALWAYS"
+          "questlogic:8": "OR"
         }
       },
       "questID:3": 835,
@@ -35187,26 +34429,15 @@
       ],
       "properties:10": {
         "betterquesting:10": {
-          "autoclaim:1": 0,
           "desc:8": "§2In GTCEu, higher-tier blends of dusts require higher-tier Mixers to mix. The MV Mixer is required for making Vanadiumsteel and Stainless Steel.\n\nThere will not be more mixer quests above this one. Remember this when making higher-tier dust blends.§r",
-          "globalshare:1": 0,
+          "frame:8": "GATE",
           "icon:10": {
             "Count:3": 1,
             "Damage:2": 471,
             "id:8": "gregtech:machine"
           },
           "ismain:1": 1,
-          "issilent:1": 0,
-          "lockedprogress:1": 0,
-          "name:8": "§2MV Mixer§r",
-          "questlogic:8": "AND",
-          "repeat_relative:1": 1,
-          "repeattime:3": -1,
-          "simultaneous:1": 0,
-          "snd_complete:8": "minecraft:entity.player.levelup",
-          "snd_update:8": "minecraft:entity.player.levelup",
-          "tasklogic:8": "AND",
-          "visibility:8": "ALWAYS"
+          "name:8": "§2MV Mixer§r"
         }
       },
       "questID:3": 836,
@@ -35251,17 +34482,7 @@
             "id:8": "gregtech:meta_ingot"
           },
           "ismain:1": 1,
-          "issilent:1": 0,
-          "lockedprogress:1": 0,
-          "name:8": "§2Vanadiumsteel§r",
-          "questlogic:8": "AND",
-          "repeat_relative:1": 1,
-          "repeattime:3": -1,
-          "simultaneous:1": 0,
-          "snd_complete:8": "minecraft:entity.player.levelup",
-          "snd_update:8": "minecraft:entity.player.levelup",
-          "tasklogic:8": "AND",
-          "visibility:8": "ALWAYS"
+          "name:8": "§2Vanadiumsteel§r"
         }
       },
       "questID:3": 837,
@@ -35298,27 +34519,14 @@
       ],
       "properties:10": {
         "betterquesting:10": {
-          "autoclaim:1": 0,
           "desc:8": "§2Systems on Chip can be engraved with HV power and Phosphorus Boules. This unlocks the ultimate tier one circuit recipe in the EV Circuit Assembler.\n\nThe ultimate tier two circuit recipe requires an IV Circuit Assembler.§r",
-          "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
             "Damage:2": 597,
             "id:8": "gregtech:meta_item_1"
           },
-          "ignoresview:1": 0,
-          "ismain:1": 0,
-          "issilent:1": 0,
-          "lockedprogress:1": 0,
           "name:8": "§2Systems on Chip§r",
-          "questlogic:8": "AND",
-          "repeat_relative:1": 1,
-          "repeattime:3": -1,
-          "simultaneous:1": 0,
-          "snd_complete:8": "minecraft:entity.player.levelup",
-          "snd_update:8": "minecraft:entity.player.levelup",
-          "tasklogic:8": "OR",
-          "visibility:8": "ALWAYS"
+          "tasklogic:8": "OR"
         }
       },
       "questID:3": 838,
@@ -35374,17 +34582,8 @@
             "id:8": "gregtech:meta_item_1"
           },
           "ismain:1": 1,
-          "issilent:1": 0,
-          "lockedprogress:1": 0,
           "name:8": "§2Crystal Growing§r",
-          "questlogic:8": "OR",
-          "repeat_relative:1": 1,
-          "repeattime:3": -1,
-          "simultaneous:1": 0,
-          "snd_complete:8": "minecraft:entity.player.levelup",
-          "snd_update:8": "minecraft:entity.player.levelup",
-          "tasklogic:8": "AND",
-          "visibility:8": "ALWAYS"
+          "questlogic:8": "OR"
         }
       },
       "questID:3": 839,
@@ -35433,19 +34632,7 @@
             "Damage:2": 1031,
             "id:8": "gregtech:machine"
           },
-          "ignoresview:1": 0,
-          "ismain:1": 0,
-          "issilent:1": 0,
-          "lockedprogress:1": 0,
-          "name:8": "§2Advanced Processing Array§r",
-          "questlogic:8": "AND",
-          "repeat_relative:1": 1,
-          "repeattime:3": -1,
-          "simultaneous:1": 0,
-          "snd_complete:8": "minecraft:entity.player.levelup",
-          "snd_update:8": "minecraft:entity.player.levelup",
-          "tasklogic:8": "AND",
-          "visibility:8": "ALWAYS"
+          "name:8": "§2Advanced Processing Array§r"
         }
       },
       "questID:3": 840,
@@ -35526,26 +34713,15 @@
       ],
       "properties:10": {
         "betterquesting:10": {
-          "autoclaim:1": 0,
           "desc:8": "§2Use the Stem Cells and more advanced materials to build a Neuro Processing Unit. This is used in the first Wetware Circuit.§r",
-          "globalshare:1": 0,
+          "frame:8": "GATE",
           "icon:10": {
             "Count:3": 1,
             "Damage:2": 708,
             "id:8": "gregtech:meta_item_1"
           },
           "ismain:1": 1,
-          "issilent:1": 0,
-          "lockedprogress:1": 0,
-          "name:8": "§2Neuro Processing Unit§r",
-          "questlogic:8": "AND",
-          "repeat_relative:1": 1,
-          "repeattime:3": -1,
-          "simultaneous:1": 0,
-          "snd_complete:8": "minecraft:entity.player.levelup",
-          "snd_update:8": "minecraft:entity.player.levelup",
-          "tasklogic:8": "AND",
-          "visibility:8": "ALWAYS"
+          "name:8": "§2Neuro Processing Unit§r"
         }
       },
       "questID:3": 842,
@@ -35657,17 +34833,7 @@
             "id:8": "gregtech:wire_coil"
           },
           "ismain:1": 1,
-          "issilent:1": 0,
-          "lockedprogress:1": 0,
-          "name:8": "§2Trinium Coils§r",
-          "questlogic:8": "AND",
-          "repeat_relative:1": 1,
-          "repeattime:3": -1,
-          "simultaneous:1": 0,
-          "snd_complete:8": "minecraft:entity.player.levelup",
-          "snd_update:8": "minecraft:entity.player.levelup",
-          "tasklogic:8": "AND",
-          "visibility:8": "ALWAYS"
+          "name:8": "§2Trinium Coils§r"
         }
       },
       "questID:3": 844,
@@ -35712,17 +34878,7 @@
             "id:8": "gregtech:meta_ingot"
           },
           "ismain:1": 1,
-          "issilent:1": 0,
-          "lockedprogress:1": 0,
-          "name:8": "§2Enriched Naquadah§r",
-          "questlogic:8": "AND",
-          "repeat_relative:1": 1,
-          "repeattime:3": -1,
-          "simultaneous:1": 0,
-          "snd_complete:8": "minecraft:entity.player.levelup",
-          "snd_update:8": "minecraft:entity.player.levelup",
-          "tasklogic:8": "AND",
-          "visibility:8": "ALWAYS"
+          "name:8": "§2Enriched Naquadah§r"
         }
       },
       "questID:3": 845,
@@ -35891,27 +35047,14 @@
       ],
       "properties:10": {
         "betterquesting:10": {
-          "autoclaim:1": 0,
           "desc:8": "The §6IV Assembling Machine§r is required for §2Advanced SMD components§r.\n\nConsider upgrading to a §6Large Assembling Factory§r, which is easier to upgrade and can accept Parallel Control Hatches. The §6Large Assembing Factory §ccannot be recipe tier overclocked§r, as it only accepts one Energy hatch. You will need to craft higher tier standard Assembling Machines for some higher tier items.",
-          "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
             "Damage:2": 114,
             "id:8": "gregtech:machine"
           },
-          "ignoresview:1": 0,
-          "ismain:1": 0,
-          "issilent:1": 0,
-          "lockedprogress:1": 0,
           "name:8": "§2IV Assembling Machine§r",
-          "questlogic:8": "AND",
-          "repeat_relative:1": 1,
-          "repeattime:3": -1,
-          "simultaneous:1": 0,
-          "snd_complete:8": "minecraft:entity.player.levelup",
-          "snd_update:8": "minecraft:entity.player.levelup",
-          "tasklogic:8": "OR",
-          "visibility:8": "ALWAYS"
+          "tasklogic:8": "OR"
         }
       },
       "questID:3": 849,
@@ -35969,17 +35112,7 @@
             "id:8": "gregtech:meta_item_1"
           },
           "ismain:1": 1,
-          "issilent:1": 0,
-          "lockedprogress:1": 0,
-          "name:8": "§2Advanced SMD Components§r",
-          "questlogic:8": "AND",
-          "repeat_relative:1": 1,
-          "repeattime:3": -1,
-          "simultaneous:1": 0,
-          "snd_complete:8": "minecraft:entity.player.levelup",
-          "snd_update:8": "minecraft:entity.player.levelup",
-          "tasklogic:8": "AND",
-          "visibility:8": "ALWAYS"
+          "name:8": "§2Advanced SMD Components§r"
         }
       },
       "questID:3": 850,
@@ -36087,17 +35220,8 @@
             "id:8": "gregtech:meta_ingot"
           },
           "ismain:1": 1,
-          "issilent:1": 0,
-          "lockedprogress:1": 0,
           "name:8": "§2Americium Ingot§r",
-          "questlogic:8": "OR",
-          "repeat_relative:1": 1,
-          "repeattime:3": -1,
-          "simultaneous:1": 0,
-          "snd_complete:8": "minecraft:entity.player.levelup",
-          "snd_update:8": "minecraft:entity.player.levelup",
-          "tasklogic:8": "AND",
-          "visibility:8": "ALWAYS"
+          "questlogic:8": "OR"
         }
       },
       "questID:3": 852,
@@ -36140,19 +35264,7 @@
             "Damage:2": 310,
             "id:8": "gregtech:meta_ingot"
           },
-          "ignoresview:1": 0,
-          "ismain:1": 0,
-          "issilent:1": 0,
-          "lockedprogress:1": 0,
-          "name:8": "§2Advanced LuV Alloys§r",
-          "questlogic:8": "AND",
-          "repeat_relative:1": 1,
-          "repeattime:3": -1,
-          "simultaneous:1": 0,
-          "snd_complete:8": "minecraft:entity.player.levelup",
-          "snd_update:8": "minecraft:entity.player.levelup",
-          "tasklogic:8": "AND",
-          "visibility:8": "ALWAYS"
+          "name:8": "§2Advanced LuV Alloys§r"
         }
       },
       "questID:3": 853,
@@ -36213,27 +35325,13 @@
       ],
       "properties:10": {
         "betterquesting:10": {
-          "autoclaim:1": 0,
           "desc:8": "§2Tritanium Coils are the final coil material. At 10800K, it\u0027s capable of smelting every material.§r",
-          "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
             "Damage:2": 7,
             "id:8": "gregtech:wire_coil"
           },
-          "ignoresview:1": 0,
-          "ismain:1": 0,
-          "issilent:1": 0,
-          "lockedprogress:1": 0,
-          "name:8": "§2Tritanium Coils§r",
-          "questlogic:8": "AND",
-          "repeat_relative:1": 1,
-          "repeattime:3": -1,
-          "simultaneous:1": 0,
-          "snd_complete:8": "minecraft:entity.player.levelup",
-          "snd_update:8": "minecraft:entity.player.levelup",
-          "tasklogic:8": "AND",
-          "visibility:8": "ALWAYS"
+          "name:8": "§2Tritanium Coils§r"
         }
       },
       "questID:3": 854,
@@ -36275,19 +35373,7 @@
             "Damage:2": 364,
             "id:8": "gregtech:meta_item_1"
           },
-          "ignoresview:1": 0,
-          "ismain:1": 0,
-          "issilent:1": 0,
-          "lockedprogress:1": 0,
-          "name:8": "§2Neutronium Boules§r",
-          "questlogic:8": "AND",
-          "repeat_relative:1": 1,
-          "repeattime:3": -1,
-          "simultaneous:1": 0,
-          "snd_complete:8": "minecraft:entity.player.levelup",
-          "snd_update:8": "minecraft:entity.player.levelup",
-          "tasklogic:8": "AND",
-          "visibility:8": "ALWAYS"
+          "name:8": "§2Neutronium Boules§r"
         }
       },
       "questID:3": 855,
@@ -36323,27 +35409,14 @@
       ],
       "properties:10": {
         "betterquesting:10": {
-          "autoclaim:1": 0,
           "desc:8": "§2For making Wetware Circuits more easily. You need UV-tier power to make them that way.§r",
-          "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
             "Damage:2": 574,
             "id:8": "gregtech:meta_item_1"
           },
-          "ignoresview:1": 0,
-          "ismain:1": 0,
-          "issilent:1": 0,
-          "lockedprogress:1": 0,
           "name:8": "§2Highly Advanced SoCs§r",
-          "questlogic:8": "AND",
-          "repeat_relative:1": 1,
-          "repeattime:3": -1,
-          "simultaneous:1": 0,
-          "snd_complete:8": "minecraft:entity.player.levelup",
-          "snd_update:8": "minecraft:entity.player.levelup",
-          "tasklogic:8": "OR",
-          "visibility:8": "ALWAYS"
+          "tasklogic:8": "OR"
         }
       },
       "questID:3": 856,
@@ -36390,27 +35463,13 @@
       ],
       "properties:10": {
         "betterquesting:10": {
-          "autoclaim:1": 0,
           "desc:8": "§2Used in building the Alloy Blast Smelter.\n\n§6Tantalum§r is obtained from §6Tantalite Ore§r, or in small quantities from centrifuging §eLava§r.\n\n§6Molybdenum§r is obtained from §6Molybdenum, Molybdenite, Powellite, and Wulfenite ores§r. They spawn together in the §eNether§r rarely, or some of them come from §3Tier One§r and §3Five Micro Miners§r.\n\n§2Remember, you need an appropriately tiered Mixer (HV for HSLA Steel, and EV for the others).§r",
-          "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
             "Damage:2": 3008,
             "id:8": "gregtech:meta_ingot"
           },
-          "ignoresview:1": 0,
-          "ismain:1": 0,
-          "issilent:1": 0,
-          "lockedprogress:1": 0,
-          "name:8": "§2Advanced Alloys§r",
-          "questlogic:8": "AND",
-          "repeat_relative:1": 1,
-          "repeattime:3": -1,
-          "simultaneous:1": 0,
-          "snd_complete:8": "minecraft:entity.player.levelup",
-          "snd_update:8": "minecraft:entity.player.levelup",
-          "tasklogic:8": "AND",
-          "visibility:8": "ALWAYS"
+          "name:8": "§2Advanced Alloys§r"
         }
       },
       "questID:3": 857,
@@ -36525,17 +35584,7 @@
             "id:8": "gregtech:machine"
           },
           "ismain:1": 1,
-          "issilent:1": 0,
-          "lockedprogress:1": 0,
-          "name:8": "§2Gregicality Multiblocks§r",
-          "questlogic:8": "AND",
-          "repeat_relative:1": 1,
-          "repeattime:3": -1,
-          "simultaneous:1": 0,
-          "snd_complete:8": "minecraft:entity.player.levelup",
-          "snd_update:8": "minecraft:entity.player.levelup",
-          "tasklogic:8": "AND",
-          "visibility:8": "ALWAYS"
+          "name:8": "§2Gregicality Multiblocks§r"
         }
       },
       "questID:3": 859,
@@ -36601,19 +35650,7 @@
             "Damage:2": 2025,
             "id:8": "gregtech:machine"
           },
-          "ignoresview:1": 0,
-          "ismain:1": 0,
-          "issilent:1": 0,
-          "lockedprogress:1": 0,
-          "name:8": "§2Upgraded EBF and Freezer§r",
-          "questlogic:8": "AND",
-          "repeat_relative:1": 1,
-          "repeattime:3": -1,
-          "simultaneous:1": 0,
-          "snd_complete:8": "minecraft:entity.player.levelup",
-          "snd_update:8": "minecraft:entity.player.levelup",
-          "tasklogic:8": "AND",
-          "visibility:8": "ALWAYS"
+          "name:8": "§2Upgraded EBF and Freezer§r"
         }
       },
       "questID:3": 861,
@@ -36654,27 +35691,13 @@
       ],
       "properties:10": {
         "betterquesting:10": {
-          "autoclaim:1": 0,
           "desc:8": "§2This element is now required in Omnium.§r",
-          "globalshare:1": 0,
           "icon:10": {
             "Count:3": 64,
             "Damage:2": 71,
             "id:8": "gregtech:meta_ingot"
           },
-          "ignoresview:1": 0,
-          "ismain:1": 0,
-          "issilent:1": 0,
-          "lockedprogress:1": 0,
-          "name:8": "§2Element 041: Niobium§r",
-          "questlogic:8": "AND",
-          "repeat_relative:1": 1,
-          "repeattime:3": -1,
-          "simultaneous:1": 0,
-          "snd_complete:8": "minecraft:entity.player.levelup",
-          "snd_update:8": "minecraft:entity.player.levelup",
-          "tasklogic:8": "AND",
-          "visibility:8": "ALWAYS"
+          "name:8": "§2Element 041: Niobium§r"
         }
       },
       "questID:3": 862,
@@ -36710,27 +35733,13 @@
       ],
       "properties:10": {
         "betterquesting:10": {
-          "autoclaim:1": 0,
           "desc:8": "§2This element is now required in Omnium.§r",
-          "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
             "Damage:2": 64,
             "id:8": "gregtech:meta_ingot"
           },
-          "ignoresview:1": 0,
-          "ismain:1": 0,
-          "issilent:1": 0,
-          "lockedprogress:1": 0,
-          "name:8": "§2Element 042: Molybdenum§r",
-          "questlogic:8": "AND",
-          "repeat_relative:1": 1,
-          "repeattime:3": -1,
-          "simultaneous:1": 0,
-          "snd_complete:8": "minecraft:entity.player.levelup",
-          "snd_update:8": "minecraft:entity.player.levelup",
-          "tasklogic:8": "AND",
-          "visibility:8": "ALWAYS"
+          "name:8": "§2Element 042: Molybdenum§r"
         }
       },
       "questID:3": 863,
@@ -36766,27 +35775,13 @@
       ],
       "properties:10": {
         "betterquesting:10": {
-          "autoclaim:1": 0,
           "desc:8": "§2This element is now required in Omnium.§r",
-          "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
             "Damage:2": 93,
             "id:8": "gregtech:meta_ingot"
           },
-          "ignoresview:1": 0,
-          "ismain:1": 0,
-          "issilent:1": 0,
-          "lockedprogress:1": 0,
-          "name:8": "§2Element 044: Ruthenium§r",
-          "questlogic:8": "AND",
-          "repeat_relative:1": 1,
-          "repeattime:3": -1,
-          "simultaneous:1": 0,
-          "snd_complete:8": "minecraft:entity.player.levelup",
-          "snd_update:8": "minecraft:entity.player.levelup",
-          "tasklogic:8": "AND",
-          "visibility:8": "ALWAYS"
+          "name:8": "§2Element 044: Ruthenium§r"
         }
       },
       "questID:3": 864,
@@ -36822,27 +35817,13 @@
       ],
       "properties:10": {
         "betterquesting:10": {
-          "autoclaim:1": 0,
           "desc:8": "§2This element is now required in Omnium.§r",
-          "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
             "Damage:2": 90,
             "id:8": "gregtech:meta_ingot"
           },
-          "ignoresview:1": 0,
-          "ismain:1": 0,
-          "issilent:1": 0,
-          "lockedprogress:1": 0,
-          "name:8": "§2Element 045: Rhodium§r",
-          "questlogic:8": "AND",
-          "repeat_relative:1": 1,
-          "repeattime:3": -1,
-          "simultaneous:1": 0,
-          "snd_complete:8": "minecraft:entity.player.levelup",
-          "snd_update:8": "minecraft:entity.player.levelup",
-          "tasklogic:8": "AND",
-          "visibility:8": "ALWAYS"
+          "name:8": "§2Element 045: Rhodium§r"
         }
       },
       "questID:3": 865,
@@ -36878,27 +35859,13 @@
       ],
       "properties:10": {
         "betterquesting:10": {
-          "autoclaim:1": 0,
           "desc:8": "§2This element is now required in Omnium.§r",
-          "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
             "Damage:2": 19,
             "id:8": "gregtech:meta_dust"
           },
-          "ignoresview:1": 0,
-          "ismain:1": 0,
-          "issilent:1": 0,
-          "lockedprogress:1": 0,
-          "name:8": "§2Element 048: Cadmium§r",
-          "questlogic:8": "AND",
-          "repeat_relative:1": 1,
-          "repeattime:3": -1,
-          "simultaneous:1": 0,
-          "snd_complete:8": "minecraft:entity.player.levelup",
-          "snd_update:8": "minecraft:entity.player.levelup",
-          "tasklogic:8": "AND",
-          "visibility:8": "ALWAYS"
+          "name:8": "§2Element 048: Cadmium§r"
         }
       },
       "questID:3": 866,
@@ -36934,27 +35901,13 @@
       ],
       "properties:10": {
         "betterquesting:10": {
-          "autoclaim:1": 0,
           "desc:8": "§2This element is now required in Omnium.§r",
-          "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
             "Damage:2": 15,
             "id:8": "gregtech:meta_dust"
           },
-          "ignoresview:1": 0,
-          "ismain:1": 0,
-          "issilent:1": 0,
-          "lockedprogress:1": 0,
-          "name:8": "§2Element 055: Caesium§r",
-          "questlogic:8": "AND",
-          "repeat_relative:1": 1,
-          "repeattime:3": -1,
-          "simultaneous:1": 0,
-          "snd_complete:8": "minecraft:entity.player.levelup",
-          "snd_update:8": "minecraft:entity.player.levelup",
-          "tasklogic:8": "AND",
-          "visibility:8": "ALWAYS"
+          "name:8": "§2Element 055: Caesium§r"
         }
       },
       "questID:3": 867,
@@ -36990,27 +35943,13 @@
       ],
       "properties:10": {
         "betterquesting:10": {
-          "autoclaim:1": 0,
           "desc:8": "§2This element is now required in Omnium.§r",
-          "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
             "Damage:2": 8,
             "id:8": "gregtech:meta_dust"
           },
-          "ignoresview:1": 0,
-          "ismain:1": 0,
-          "issilent:1": 0,
-          "lockedprogress:1": 0,
-          "name:8": "§2Element 056: Barium§r",
-          "questlogic:8": "AND",
-          "repeat_relative:1": 1,
-          "repeattime:3": -1,
-          "simultaneous:1": 0,
-          "snd_complete:8": "minecraft:entity.player.levelup",
-          "snd_update:8": "minecraft:entity.player.levelup",
-          "tasklogic:8": "AND",
-          "visibility:8": "ALWAYS"
+          "name:8": "§2Element 056: Barium§r"
         }
       },
       "questID:3": 868,
@@ -37046,27 +35985,13 @@
       ],
       "properties:10": {
         "betterquesting:10": {
-          "autoclaim:1": 0,
           "desc:8": "§2This element is now required in Omnium.§r",
-          "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
             "Damage:2": 20,
             "id:8": "gregtech:meta_dust"
           },
-          "ignoresview:1": 0,
-          "ismain:1": 0,
-          "issilent:1": 0,
-          "lockedprogress:1": 0,
-          "name:8": "§2Element 058: Cerium§r",
-          "questlogic:8": "AND",
-          "repeat_relative:1": 1,
-          "repeattime:3": -1,
-          "simultaneous:1": 0,
-          "snd_complete:8": "minecraft:entity.player.levelup",
-          "snd_update:8": "minecraft:entity.player.levelup",
-          "tasklogic:8": "AND",
-          "visibility:8": "ALWAYS"
+          "name:8": "§2Element 058: Cerium§r"
         }
       },
       "questID:3": 869,
@@ -37102,27 +36027,13 @@
       ],
       "properties:10": {
         "betterquesting:10": {
-          "autoclaim:1": 0,
           "desc:8": "§2This element is now required in Omnium.§r",
-          "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
             "Damage:2": 66,
             "id:8": "gregtech:meta_ingot"
           },
-          "ignoresview:1": 0,
-          "ismain:1": 0,
-          "issilent:1": 0,
-          "lockedprogress:1": 0,
-          "name:8": "§2Element 060: Neodymium§r",
-          "questlogic:8": "AND",
-          "repeat_relative:1": 1,
-          "repeattime:3": -1,
-          "simultaneous:1": 0,
-          "snd_complete:8": "minecraft:entity.player.levelup",
-          "snd_update:8": "minecraft:entity.player.levelup",
-          "tasklogic:8": "AND",
-          "visibility:8": "ALWAYS"
+          "name:8": "§2Element 060: Neodymium§r"
         }
       },
       "questID:3": 870,
@@ -37158,27 +36069,13 @@
       ],
       "properties:10": {
         "betterquesting:10": {
-          "autoclaim:1": 0,
           "desc:8": "§2This element is now required in Omnium.§r",
-          "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
             "Damage:2": 95,
             "id:8": "gregtech:meta_ingot"
           },
-          "ignoresview:1": 0,
-          "ismain:1": 0,
-          "issilent:1": 0,
-          "lockedprogress:1": 0,
-          "name:8": "§2Element 062: Samarium§r",
-          "questlogic:8": "AND",
-          "repeat_relative:1": 1,
-          "repeattime:3": -1,
-          "simultaneous:1": 0,
-          "snd_complete:8": "minecraft:entity.player.levelup",
-          "snd_update:8": "minecraft:entity.player.levelup",
-          "tasklogic:8": "AND",
-          "visibility:8": "ALWAYS"
+          "name:8": "§2Element 062: Samarium§r"
         }
       },
       "questID:3": 871,
@@ -37214,27 +36111,13 @@
       ],
       "properties:10": {
         "betterquesting:10": {
-          "autoclaim:1": 0,
           "desc:8": "§2This element is now required in Omnium.§r",
-          "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
             "Damage:2": 33,
             "id:8": "gregtech:meta_ingot"
           },
-          "ignoresview:1": 0,
-          "ismain:1": 0,
-          "issilent:1": 0,
-          "lockedprogress:1": 0,
-          "name:8": "§2Element 063: Europium§r",
-          "questlogic:8": "AND",
-          "repeat_relative:1": 1,
-          "repeattime:3": -1,
-          "simultaneous:1": 0,
-          "snd_complete:8": "minecraft:entity.player.levelup",
-          "snd_update:8": "minecraft:entity.player.levelup",
-          "tasklogic:8": "AND",
-          "visibility:8": "ALWAYS"
+          "name:8": "§2Element 063: Europium§r"
         }
       },
       "questID:3": 872,
@@ -37270,27 +36153,13 @@
       ],
       "properties:10": {
         "betterquesting:10": {
-          "autoclaim:1": 0,
           "desc:8": "§2This element is now required in Omnium.§r",
-          "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
             "Damage:2": 58,
             "id:8": "gregtech:meta_ingot"
           },
-          "ignoresview:1": 0,
-          "ismain:1": 0,
-          "issilent:1": 0,
-          "lockedprogress:1": 0,
-          "name:8": "§2Element 071: Lutetium§r",
-          "questlogic:8": "AND",
-          "repeat_relative:1": 1,
-          "repeattime:3": -1,
-          "simultaneous:1": 0,
-          "snd_complete:8": "minecraft:entity.player.levelup",
-          "snd_update:8": "minecraft:entity.player.levelup",
-          "tasklogic:8": "AND",
-          "visibility:8": "ALWAYS"
+          "name:8": "§2Element 071: Lutetium§r"
         }
       },
       "questID:3": 873,
@@ -37326,27 +36195,13 @@
       ],
       "properties:10": {
         "betterquesting:10": {
-          "autoclaim:1": 0,
           "desc:8": "§2This element is now required in Omnium.§r",
-          "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
             "Damage:2": 104,
             "id:8": "gregtech:meta_ingot"
           },
-          "ignoresview:1": 0,
-          "ismain:1": 0,
-          "issilent:1": 0,
-          "lockedprogress:1": 0,
-          "name:8": "§2Element 073: Tantalum§r",
-          "questlogic:8": "AND",
-          "repeat_relative:1": 1,
-          "repeattime:3": -1,
-          "simultaneous:1": 0,
-          "snd_complete:8": "minecraft:entity.player.levelup",
-          "snd_update:8": "minecraft:entity.player.levelup",
-          "tasklogic:8": "AND",
-          "visibility:8": "ALWAYS"
+          "name:8": "§2Element 073: Tantalum§r"
         }
       },
       "questID:3": 874,
@@ -37382,27 +36237,13 @@
       ],
       "properties:10": {
         "betterquesting:10": {
-          "autoclaim:1": 0,
           "desc:8": "§2This element is now required in Omnium. (It wasn\u0027t before!)§r",
-          "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
             "Damage:2": 55,
             "id:8": "gregtech:meta_ingot"
           },
-          "ignoresview:1": 0,
-          "ismain:1": 0,
-          "issilent:1": 0,
-          "lockedprogress:1": 0,
-          "name:8": "§2Element 082: Lead§r",
-          "questlogic:8": "AND",
-          "repeat_relative:1": 1,
-          "repeattime:3": -1,
-          "simultaneous:1": 0,
-          "snd_complete:8": "minecraft:entity.player.levelup",
-          "snd_update:8": "minecraft:entity.player.levelup",
-          "tasklogic:8": "AND",
-          "visibility:8": "ALWAYS"
+          "name:8": "§2Element 082: Lead§r"
         }
       },
       "questID:3": 875,
@@ -37564,27 +36405,13 @@
       ],
       "properties:10": {
         "betterquesting:10": {
-          "autoclaim:1": 0,
           "desc:8": "§2This element is now required in Omnium.§r",
-          "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
             "Damage:2": 124,
             "id:8": "gregtech:meta_ingot"
           },
-          "ignoresview:1": 0,
-          "ismain:1": 0,
-          "issilent:1": 0,
-          "lockedprogress:1": 0,
-          "name:8": "§2Element 174: Naquadah§r",
-          "questlogic:8": "AND",
-          "repeat_relative:1": 1,
-          "repeattime:3": -1,
-          "simultaneous:1": 0,
-          "snd_complete:8": "minecraft:entity.player.levelup",
-          "snd_update:8": "minecraft:entity.player.levelup",
-          "tasklogic:8": "AND",
-          "visibility:8": "ALWAYS"
+          "name:8": "§2Element 174: Naquadah§r"
         }
       },
       "questID:3": 879,
@@ -37626,19 +36453,7 @@
             "Damage:2": 1650,
             "id:8": "gregtech:machine"
           },
-          "ignoresview:1": 0,
-          "ismain:1": 0,
-          "issilent:1": 0,
-          "lockedprogress:1": 0,
-          "name:8": "§2Infinite GT EU Emitter§r",
-          "questlogic:8": "AND",
-          "repeat_relative:1": 1,
-          "repeattime:3": -1,
-          "simultaneous:1": 0,
-          "snd_complete:8": "minecraft:entity.player.levelup",
-          "snd_update:8": "minecraft:entity.player.levelup",
-          "tasklogic:8": "AND",
-          "visibility:8": "ALWAYS"
+          "name:8": "§2Infinite GT EU Emitter§r"
         }
       },
       "questID:3": 880,
@@ -37662,27 +36477,14 @@
       ],
       "properties:10": {
         "betterquesting:10": {
-          "autoclaim:1": 0,
           "desc:8": "§2Thin Polyphenylene Sulfide Sheets are required for wrapping LuV+ cables.§r",
-          "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
             "Damage:2": 1008,
             "id:8": "gregtech:meta_foil"
           },
-          "ignoresview:1": 0,
-          "ismain:1": 0,
-          "issilent:1": 0,
-          "lockedprogress:1": 0,
           "name:8": "§2Polyphenylene Sulfide§r",
-          "questlogic:8": "AND",
-          "repeat_relative:1": 1,
-          "repeattime:3": -1,
-          "simultaneous:1": 0,
-          "snd_complete:8": "minecraft:entity.player.levelup",
-          "snd_update:8": "minecraft:entity.player.levelup",
-          "tasklogic:8": "OR",
-          "visibility:8": "ALWAYS"
+          "tasklogic:8": "OR"
         }
       },
       "questID:3": 881,
@@ -37738,27 +36540,13 @@
       ],
       "properties:10": {
         "betterquesting:10": {
-          "autoclaim:1": 0,
           "desc:8": "§2This element is now required in Omnium.§r",
-          "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
             "Damage:2": 27,
             "id:8": "gregtech:meta_ingot"
           },
-          "ignoresview:1": 0,
-          "ismain:1": 0,
-          "issilent:1": 0,
-          "lockedprogress:1": 0,
-          "name:8": "§2Element 110: Darmstadtium§r",
-          "questlogic:8": "AND",
-          "repeat_relative:1": 1,
-          "repeattime:3": -1,
-          "simultaneous:1": 0,
-          "snd_complete:8": "minecraft:entity.player.levelup",
-          "snd_update:8": "minecraft:entity.player.levelup",
-          "tasklogic:8": "AND",
-          "visibility:8": "ALWAYS"
+          "name:8": "§2Element 110: Darmstadtium§r"
         }
       },
       "questID:3": 883,
@@ -37794,27 +36582,13 @@
       ],
       "properties:10": {
         "betterquesting:10": {
-          "autoclaim:1": 0,
           "desc:8": "§2This element is now required in Omnium.§r",
-          "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
             "Damage:2": 1,
             "id:8": "nomilabs:meta_ingot"
           },
-          "ignoresview:1": 0,
-          "ismain:1": 0,
-          "issilent:1": 0,
-          "lockedprogress:1": 0,
-          "name:8": "§2Element 149: Draconium§r",
-          "questlogic:8": "AND",
-          "repeat_relative:1": 1,
-          "repeattime:3": -1,
-          "simultaneous:1": 0,
-          "snd_complete:8": "minecraft:entity.player.levelup",
-          "snd_update:8": "minecraft:entity.player.levelup",
-          "tasklogic:8": "AND",
-          "visibility:8": "ALWAYS"
+          "name:8": "§2Element 149: Draconium§r"
         }
       },
       "questID:3": 884,
@@ -37850,26 +36624,15 @@
       ],
       "properties:10": {
         "betterquesting:10": {
-          "autoclaim:1": 0,
           "desc:8": "§2Do you remember Darmstadtium tools in CE? Well you can make their material now!\n\nIt is formed by fusing Arsenic and Ruthenium, and is the main material for UV machines.§r",
-          "globalshare:1": 0,
+          "frame:8": "GATE",
           "icon:10": {
             "Count:3": 1,
             "Damage:2": 27,
             "id:8": "gregtech:meta_ingot"
           },
           "ismain:1": 1,
-          "issilent:1": 0,
-          "lockedprogress:1": 0,
-          "name:8": "§2Darmstadtium§r",
-          "questlogic:8": "AND",
-          "repeat_relative:1": 1,
-          "repeattime:3": -1,
-          "simultaneous:1": 0,
-          "snd_complete:8": "minecraft:entity.player.levelup",
-          "snd_update:8": "minecraft:entity.player.levelup",
-          "tasklogic:8": "AND",
-          "visibility:8": "ALWAYS"
+          "name:8": "§2Darmstadtium§r"
         }
       },
       "questID:3": 885,
@@ -37905,27 +36668,13 @@
       ],
       "properties:10": {
         "betterquesting:10": {
-          "autoclaim:1": 0,
           "desc:8": "§2The Portable Scanner, or Tricorder, is GTCEu\u0027s debug tool.§r It shows you a block\u0027s details, the details of the energy network, its current status and contents, and its impact on performance.\n\nUsing this anywhere will also display a percentage of fluid remaining in the fluid vein, for the §3Fluid Rigs§r.",
-          "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
             "Damage:2": 470,
             "id:8": "gregtech:meta_item_1"
           },
-          "ignoresview:1": 0,
-          "ismain:1": 0,
-          "issilent:1": 0,
-          "lockedprogress:1": 0,
-          "name:8": "§2Debug Scanner§r",
-          "questlogic:8": "AND",
-          "repeat_relative:1": 1,
-          "repeattime:3": -1,
-          "simultaneous:1": 0,
-          "snd_complete:8": "minecraft:entity.player.levelup",
-          "snd_update:8": "minecraft:entity.player.levelup",
-          "tasklogic:8": "AND",
-          "visibility:8": "ALWAYS"
+          "name:8": "§2Debug Scanner§r"
         }
       },
       "questID:3": 886,
@@ -37989,9 +36738,8 @@
       ],
       "properties:10": {
         "betterquesting:10": {
-          "autoclaim:1": 0,
           "desc:8": "§2Gasoline is a powerful combustion fuel, generating 1600 EU per mB of fluid. It can also be substituted for Cetane-Boosted Diesel in Draconium production.\n\nGasoline is made of:\n- 16 parts Naphtha\n- 2 parts Refinery Gas\n- 1 part Toluene\n- 1 part Methanol\n- 1 part Acetone\n\nTo get the most out of this, run it in an Extreme Combustion Engine with Liquid Oxygen.§r",
-          "globalshare:1": 0,
+          "frame:8": "GATE",
           "icon:10": {
             "Count:3": 1,
             "id:8": "forge:bucketfilled",
@@ -38001,17 +36749,7 @@
             }
           },
           "ismain:1": 1,
-          "issilent:1": 0,
-          "lockedprogress:1": 0,
-          "name:8": "§2Gasoline§r",
-          "questlogic:8": "AND",
-          "repeat_relative:1": 1,
-          "repeattime:3": -1,
-          "simultaneous:1": 0,
-          "snd_complete:8": "minecraft:entity.player.levelup",
-          "snd_update:8": "minecraft:entity.player.levelup",
-          "tasklogic:8": "AND",
-          "visibility:8": "ALWAYS"
+          "name:8": "§2Gasoline§r"
         }
       },
       "questID:3": 888,
@@ -38069,27 +36807,13 @@
       ],
       "properties:10": {
         "betterquesting:10": {
-          "autoclaim:1": 0,
           "desc:8": "§dGregTech Power§r can be tricky to handle. Luckily, there are several tools you can use to tackle some of the problems.\n\n- §aDiode§r: A block which accepts energy on 5 sides, and outputs it on a single side. Its main purpose is to limit Amperage flow through it - adjust it by right-clicking it with a Soft Hammer, §2and to transport power into Cleanrooms.§r Not to be confused with the Diodes used as crafting components.\n\n- §aTransformer§r: A block which changes between 4A of a lower voltage and 1A of a voltage one tier higher.\n\n- §2Adjustable Transformer§r: Similar to the Transformer, but can be configured to transform up to 64A Low \u003c-\u003e 16A High.\n\n- §aBattery Buffer§r: A block which can hold GregTech Batteries. Each battery accepts up to 2A and can provide up to 1A. §2They have been reworked in CEu to not be as terrible to use.§r",
-          "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
             "Damage:2": 1272,
             "id:8": "gregtech:machine"
           },
-          "ignoresview:1": 0,
-          "ismain:1": 0,
-          "issilent:1": 0,
-          "lockedprogress:1": 0,
-          "name:8": "§2GT Power Management§r",
-          "questlogic:8": "AND",
-          "repeat_relative:1": 1,
-          "repeattime:3": -1,
-          "simultaneous:1": 0,
-          "snd_complete:8": "minecraft:entity.player.levelup",
-          "snd_update:8": "minecraft:entity.player.levelup",
-          "tasklogic:8": "AND",
-          "visibility:8": "ALWAYS"
+          "name:8": "§2GT Power Management§r"
         }
       },
       "questID:3": 890,
@@ -38106,28 +36830,14 @@
       ],
       "properties:10": {
         "betterquesting:10": {
-          "autoclaim:1": 0,
           "desc:8": "§oThis quest accepts any Chemical Dye.\n\n§6Chemical Dyes§r are made with 1 unit of dye, 2 Salt and Sulfuric Acid. Each yields 4 dyes when solidified, so you can create an §einfinite loop of dyes§r with only 1 initial dye item.\n\nYou can do many things with them, from making materials for your base, such as in creating §bXTones Blocks§r, to dying §6Glass Lenses§r for §eLaser Engraving§r.\n\nYou may also wish to make a §6Spray Can§r and fill it with Chemical Dye. This allows you to paint basically all §bGT tile entities§r.",
-          "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
             "Damage:2": 422,
             "id:8": "gregtech:meta_item_1"
           },
-          "ignoresview:1": 0,
-          "ismain:1": 0,
-          "issilent:1": 0,
-          "lockedprogress:1": 0,
           "name:8": "§2Chemical Dyes§r",
-          "partysinglereward:1": 0,
-          "questlogic:8": "AND",
-          "repeat_relative:1": 1,
-          "repeattime:3": -1,
-          "simultaneous:1": 0,
-          "snd_complete:8": "minecraft:entity.player.levelup",
-          "snd_update:8": "minecraft:entity.player.levelup",
-          "tasklogic:8": "AND",
-          "visibility:8": "ALWAYS"
+          "partysinglereward:1": 0
         }
       },
       "questID:3": 891,
@@ -38164,9 +36874,7 @@
       ],
       "properties:10": {
         "betterquesting:10": {
-          "autoclaim:1": 0,
           "desc:8": "§2The Large Ore Drilling Plants mine ores from under them in a large radius. They require Drilling Fluid to operate.\n\nThey automatically macerate the ores, yielding 3 times more crushed ore than a normal Macerator, plus the normal amount of byproduct.§r",
-          "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
             "Damage:2": 1026,
@@ -38174,15 +36882,7 @@
           },
           "lockedprogress:1": 1,
           "name:8": "§2Large Miners§r",
-          "partysinglereward:1": 0,
-          "questlogic:8": "AND",
-          "repeat_relative:1": 1,
-          "repeattime:3": -1,
-          "simultaneous:1": 0,
-          "snd_complete:8": "minecraft:entity.player.levelup",
-          "snd_update:8": "minecraft:entity.player.levelup",
-          "tasklogic:8": "AND",
-          "visibility:8": "ALWAYS"
+          "partysinglereward:1": 0
         }
       },
       "questID:3": 892,
@@ -38234,19 +36934,7 @@
             "Damage:2": 1654,
             "id:8": "gregtech:machine"
           },
-          "ignoresview:1": 0,
-          "ismain:1": 0,
-          "issilent:1": 0,
-          "lockedprogress:1": 0,
-          "name:8": "§2Maintenance and Muffler Mechanics§r",
-          "questlogic:8": "AND",
-          "repeat_relative:1": 1,
-          "repeattime:3": -1,
-          "simultaneous:1": 0,
-          "snd_complete:8": "minecraft:entity.player.levelup",
-          "snd_update:8": "minecraft:entity.player.levelup",
-          "tasklogic:8": "AND",
-          "visibility:8": "ALWAYS"
+          "name:8": "§2Maintenance and Muffler Mechanics§r"
         }
       },
       "questID:3": 893,
@@ -38271,17 +36959,7 @@
             "id:8": "gregtech:machine"
           },
           "ismain:1": 1,
-          "issilent:1": 0,
-          "lockedprogress:1": 0,
-          "name:8": "§2MV Assembling Machine§r",
-          "questlogic:8": "AND",
-          "repeat_relative:1": 1,
-          "repeattime:3": -1,
-          "simultaneous:1": 0,
-          "snd_complete:8": "minecraft:entity.player.levelup",
-          "snd_update:8": "minecraft:entity.player.levelup",
-          "tasklogic:8": "AND",
-          "visibility:8": "ALWAYS"
+          "name:8": "§2MV Assembling Machine§r"
         }
       },
       "questID:3": 894,
@@ -38326,17 +37004,7 @@
             "id:8": "gregtech:machine"
           },
           "ismain:1": 1,
-          "issilent:1": 0,
-          "lockedprogress:1": 0,
-          "name:8": "§2MV Energy Hatches§r",
-          "questlogic:8": "AND",
-          "repeat_relative:1": 1,
-          "repeattime:3": -1,
-          "simultaneous:1": 0,
-          "snd_complete:8": "minecraft:entity.player.levelup",
-          "snd_update:8": "minecraft:entity.player.levelup",
-          "tasklogic:8": "AND",
-          "visibility:8": "ALWAYS"
+          "name:8": "§2MV Energy Hatches§r"
         }
       },
       "questID:3": 895,
@@ -38497,9 +37165,7 @@
       ],
       "properties:10": {
         "betterquesting:10": {
-          "autoclaim:1": 0,
           "desc:8": "§2Hydrofluoric Acid is a dangerous acid made by mixing Hydrogen and Fluorine. It is used in the production of Polytetrafluoroethylene, and in Uranium and Naquadah processing.\n\nFluorine is best obtained from Topaz or Bastnasite Ore processing from their Micro Miner missions, and from processing renewable Black Granite.§r",
-          "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
             "id:8": "forge:bucketfilled",
@@ -38508,19 +37174,7 @@
               "FluidName:8": "hydrofluoric_acid"
             }
           },
-          "ignoresview:1": 0,
-          "ismain:1": 0,
-          "issilent:1": 0,
-          "lockedprogress:1": 0,
-          "name:8": "§2Hydrofluoric Acid§r",
-          "questlogic:8": "AND",
-          "repeat_relative:1": 1,
-          "repeattime:3": -1,
-          "simultaneous:1": 0,
-          "snd_complete:8": "minecraft:entity.player.levelup",
-          "snd_update:8": "minecraft:entity.player.levelup",
-          "tasklogic:8": "AND",
-          "visibility:8": "ALWAYS"
+          "name:8": "§2Hydrofluoric Acid§r"
         }
       },
       "questID:3": 899,
@@ -38557,9 +37211,7 @@
       ],
       "properties:10": {
         "betterquesting:10": {
-          "autoclaim:1": 0,
           "desc:8": "§2High-Octane Gasoline is the most powerful combustion fuel, generating 3200 EU per mB of fuel. It can also be used in Draconium production, using 75% less fuel than Cetane-Boosted Diesel or normal Gasoline. The trade-off is the very complex processing lines you must set up for it.\n\nTo refine Gasoline to High-Octane Gasoline, you will need:\n- 20 parts Gasoline\n- 2 parts Octane\n- 2 parts Nitrous Oxide\n- 1 part Toluene\n- 1 part Ethyl Tert-Butyl Ether\n\nTo get the most out of this, run it in an Extreme Combustion Engine with Liquid Oxygen.§r",
-          "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
             "id:8": "forge:bucketfilled",
@@ -38568,19 +37220,7 @@
               "FluidName:8": "gasoline_premium"
             }
           },
-          "ignoresview:1": 0,
-          "ismain:1": 0,
-          "issilent:1": 0,
-          "lockedprogress:1": 0,
-          "name:8": "§2High-Octane Gasoline§r",
-          "questlogic:8": "AND",
-          "repeat_relative:1": 1,
-          "repeattime:3": -1,
-          "simultaneous:1": 0,
-          "snd_complete:8": "minecraft:entity.player.levelup",
-          "snd_update:8": "minecraft:entity.player.levelup",
-          "tasklogic:8": "AND",
-          "visibility:8": "ALWAYS"
+          "name:8": "§2High-Octane Gasoline§r"
         }
       },
       "questID:3": 900,
@@ -38646,18 +37286,7 @@
               }
             }
           },
-          "ignoresview:1": 0,
-          "ismain:1": 0,
-          "issilent:1": 0,
-          "lockedprogress:1": 0,
           "name:8": "§2Terminal§r",
-          "questlogic:8": "AND",
-          "repeat_relative:1": 1,
-          "repeattime:3": -1,
-          "simultaneous:1": 0,
-          "snd_complete:8": "minecraft:entity.player.levelup",
-          "snd_update:8": "minecraft:entity.player.levelup",
-          "tasklogic:8": "AND",
           "visibility:8": "UNLOCKED"
         }
       },
@@ -38750,17 +37379,7 @@
             "id:8": "gregtech:wire_coil"
           },
           "ismain:1": 1,
-          "issilent:1": 0,
-          "lockedprogress:1": 0,
-          "name:8": "§2Cupronickel Coils§r",
-          "questlogic:8": "AND",
-          "repeat_relative:1": 1,
-          "repeattime:3": -1,
-          "simultaneous:1": 0,
-          "snd_complete:8": "minecraft:entity.player.levelup",
-          "snd_update:8": "minecraft:entity.player.levelup",
-          "tasklogic:8": "AND",
-          "visibility:8": "ALWAYS"
+          "name:8": "§2Cupronickel Coils§r"
         }
       },
       "questID:3": 903,
@@ -38796,9 +37415,8 @@
       ],
       "properties:10": {
         "betterquesting:10": {
-          "autoclaim:1": 0,
           "desc:8": "§2Bacterial Sludge will be used in the Crystal and Wetware processes.\n\nPlant matter in Plant Ball can be broken down to Bio Chaff, and broken down to Bacteria. Then, combine it with your Biomass to get Bacterial Sludge.\n\nYou will also get a bit back from growing Stem Cells later.§r",
-          "globalshare:1": 0,
+          "frame:8": "GATE",
           "icon:10": {
             "Count:3": 1,
             "id:8": "forge:bucketfilled",
@@ -38808,17 +37426,7 @@
             }
           },
           "ismain:1": 1,
-          "issilent:1": 0,
-          "lockedprogress:1": 0,
-          "name:8": "§2Bacterial Sludge§r",
-          "questlogic:8": "AND",
-          "repeat_relative:1": 1,
-          "repeattime:3": -1,
-          "simultaneous:1": 0,
-          "snd_complete:8": "minecraft:entity.player.levelup",
-          "snd_update:8": "minecraft:entity.player.levelup",
-          "tasklogic:8": "AND",
-          "visibility:8": "ALWAYS"
+          "name:8": "§2Bacterial Sludge§r"
         }
       },
       "questID:3": 904,
@@ -38854,9 +37462,7 @@
       ],
       "properties:10": {
         "betterquesting:10": {
-          "autoclaim:1": 0,
           "desc:8": "§2Use Uranium-238 or more efficiently, Uranium-235 to enrich Bacterial Sludge, and distill it to Mutagen. You can also use Naquadria to double your Enriched Bacterial Sludge yield.\n\nMutagen is used in Growth Medium production.§r",
-          "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
             "id:8": "forge:bucketfilled",
@@ -38865,19 +37471,7 @@
               "FluidName:8": "mutagen"
             }
           },
-          "ignoresview:1": 0,
-          "ismain:1": 0,
-          "issilent:1": 0,
-          "lockedprogress:1": 0,
-          "name:8": "§2Mutagen§r",
-          "questlogic:8": "AND",
-          "repeat_relative:1": 1,
-          "repeattime:3": -1,
-          "simultaneous:1": 0,
-          "snd_complete:8": "minecraft:entity.player.levelup",
-          "snd_update:8": "minecraft:entity.player.levelup",
-          "tasklogic:8": "AND",
-          "visibility:8": "ALWAYS"
+          "name:8": "§2Mutagen§r"
         }
       },
       "questID:3": 905,
@@ -38913,27 +37507,13 @@
       ],
       "properties:10": {
         "betterquesting:10": {
-          "autoclaim:1": 0,
           "desc:8": "§2Multiblock version of the Circuit Assembler. Can accept Parallel Control Hatches, and allows tiering it up more easily.\n\nNote that like the Large Assembling Machine, the Large Circuit Assembler §ccannot use more than one Energy Hatch§2, preventing it from recipe tier overclocking.§r",
-          "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
             "Damage:2": 2028,
             "id:8": "gregtech:machine"
           },
-          "ignoresview:1": 0,
-          "ismain:1": 0,
-          "issilent:1": 0,
-          "lockedprogress:1": 0,
-          "name:8": "§2Large Circuit Assembler§r",
-          "questlogic:8": "AND",
-          "repeat_relative:1": 1,
-          "repeattime:3": -1,
-          "simultaneous:1": 0,
-          "snd_complete:8": "minecraft:entity.player.levelup",
-          "snd_update:8": "minecraft:entity.player.levelup",
-          "tasklogic:8": "AND",
-          "visibility:8": "ALWAYS"
+          "name:8": "§2Large Circuit Assembler§r"
         }
       },
       "questID:3": 906,
@@ -39034,18 +37614,7 @@
             "Damage:2": 1000,
             "id:8": "gregtech:machine"
           },
-          "ignoresview:1": 0,
-          "ismain:1": 0,
-          "issilent:1": 0,
-          "lockedprogress:1": 0,
           "name:8": "§2Primitive Steelworks§r",
-          "questlogic:8": "AND",
-          "repeat_relative:1": 1,
-          "repeattime:3": -1,
-          "simultaneous:1": 0,
-          "snd_complete:8": "minecraft:entity.player.levelup",
-          "snd_update:8": "minecraft:entity.player.levelup",
-          "tasklogic:8": "AND",
           "visibility:8": "UNLOCKED"
         }
       },
@@ -39093,26 +37662,15 @@
       ],
       "properties:10": {
         "betterquesting:10": {
-          "autoclaim:1": 0,
           "desc:8": "§2Rhodium Plated Lumium-Palladium is a mixture of Rhodium, Lumium and Palladium. It forms the basis of LuV Machine Hulls.§r",
-          "globalshare:1": 0,
+          "frame:8": "GATE",
           "icon:10": {
             "Count:3": 1,
             "Damage:2": 2062,
             "id:8": "gregtech:meta_ingot"
           },
           "ismain:1": 1,
-          "issilent:1": 0,
-          "lockedprogress:1": 0,
-          "name:8": "§2Rhodium Plated Lumium-Palladium§r",
-          "questlogic:8": "AND",
-          "repeat_relative:1": 1,
-          "repeattime:3": -1,
-          "simultaneous:1": 0,
-          "snd_complete:8": "minecraft:entity.player.levelup",
-          "snd_update:8": "minecraft:entity.player.levelup",
-          "tasklogic:8": "AND",
-          "visibility:8": "ALWAYS"
+          "name:8": "§2Rhodium Plated Lumium-Palladium§r"
         }
       },
       "questID:3": 910,
@@ -39148,9 +37706,7 @@
       ],
       "properties:10": {
         "betterquesting:10": {
-          "autoclaim:1": 0,
           "desc:8": "The §6Battery Buffer§r is a machine which can hold §6Batteries§r for energy storage. Each Battery accepts up to 2 amps and outputs up to 1 amp.\n\nYou can also charge §6Electric tools§r in them.\n\n§cRF batteries such as Flux Capacitors cannot be drained by Battery Buffers!§r",
-          "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
             "Damage:2": 1316,
@@ -39257,17 +37813,7 @@
             "id:8": "gregtech:cleanroom_casing"
           },
           "ismain:1": 1,
-          "issilent:1": 0,
-          "lockedprogress:1": 0,
-          "name:8": "§2Cleaner Room§r",
-          "questlogic:8": "AND",
-          "repeat_relative:1": 1,
-          "repeattime:3": -1,
-          "simultaneous:1": 0,
-          "snd_complete:8": "minecraft:entity.player.levelup",
-          "snd_update:8": "minecraft:entity.player.levelup",
-          "tasklogic:8": "AND",
-          "visibility:8": "ALWAYS"
+          "name:8": "§2Cleaner Room§r"
         }
       },
       "questID:3": 914,
@@ -39578,9 +38124,8 @@
       ],
       "properties:10": {
         "betterquesting:10": {
-          "autoclaim:1": 0,
           "desc:8": "§oThis quest completes via checkbox or upon achieving Resonant Clathrate.\n\nThis step requires a Alloy Smelter at voltage §lLV §oor higher.§r\n\nThe final step. Combine §6Pulsating Dust§r and §6Resonant Clathrate§r to make §6Pulsating Polymer Clay§r.\n\nTake note that a §3Chemical Reactor§r making §6Resonant Clathrate§r will supply 1 §3Alloy Smelter§r of the same tier, and that one §bMV §3Alloy Smelter§r making §6Pulsating Polymer Clay§r supports 10.03 §3Simulation Chambers§r, with each higher tier doubling the amount of §3Simulation Chambers§r it supports.\n\n\n\nYou might have noticed that all quests in this line complete automatically via §6Resonant Clathrate§r instead of §6Pulsating Polymer Clay§r. This is the case as it follows the §oResonant Clathrate§r quest in §oSimulating Mobs§r, and you will probably make §6Pulsating Polymer Clay§r via §6Uraninite§r before making a passive setup via §6Resonant Clathrate§r.",
-          "globalshare:1": 0,
+          "frame:8": "GATE",
           "icon:10": {
             "Count:3": 1,
             "id:8": "deepmoblearning:polymer_clay"
@@ -39618,9 +38163,7 @@
       ],
       "properties:10": {
         "betterquesting:10": {
-          "autoclaim:1": 0,
           "desc:8": "§oThis quest completes via checkbox or upon achieving Resonant Clathrate.\n\nThis step requires a Chemical Reactor at voltage §lLV §oor higher.§r\n\nCombine your §6Dust§r and some §6Water§r to make §6Clay§r.\n\n\n\nYou might have noticed that all quests in this line complete automatically via §6Resonant Clathrate§r instead of §6Pulsating Polymer Clay§r. This is the case as it follows the §oResonant Clathrate§r quest in §oSimulating Mobs§r, and you will probably make §6Pulsating Polymer Clay§r via §6Uraninite§r before making a passive setup via §6Resonant Clathrate§r.",
-          "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
             "id:8": "minecraft:clay"
@@ -39658,9 +38201,8 @@
       ],
       "properties:10": {
         "betterquesting:10": {
-          "autoclaim:1": 0,
           "desc:8": "§oThis quest completes via checkbox or upon achieving Resonant Clathrate.\n\nThis step requires a Chemical Reactor at voltage §lMV §oor higher.§r\n\nCombine your §6Quartz§r and §6Resonant Ender§r to make §6Resonant Clathrate§r. One §3Electrolyzer§r making §6Quartz§r supports one §3Chemical Reactor§r of the same tier.\n\n\n\nYou might have noticed that all quests in this line complete automatically via §6Resonant Clathrate§r instead of §6Pulsating Polymer Clay§r. This is the case as it follows the §oResonant Clathrate§r quest in §oSimulating Mobs§r, and you will probably make §6Pulsating Polymer Clay§r via §6Uraninite§r before making a passive setup via §6Resonant Clathrate§r.",
-          "globalshare:1": 0,
+          "frame:8": "GATE",
           "icon:10": {
             "Count:3": 1,
             "Damage:2": 895,
@@ -39699,9 +38241,7 @@
       ],
       "properties:10": {
         "betterquesting:10": {
-          "autoclaim:1": 0,
           "desc:8": "§oThis quest completes via checkbox or upon achieving Resonant Clathrate.\n\nThis step requires a Forge Hammer at voltage §lLV §oor higher.§r\n\nBreak up your §6Sand§r into §6Dust§r.\n\n\n\nYou might have noticed that all quests in this line complete automatically via §6Resonant Clathrate§r instead of §6Pulsating Polymer Clay§r. This is the case as it follows the §oResonant Clathrate§r quest in §oSimulating Mobs§r, and you will probably make §6Pulsating Polymer Clay§r via §6Uraninite§r before making a passive setup via §6Resonant Clathrate§r.",
-          "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
             "id:8": "nomilabs:block_dust"
@@ -39738,9 +38278,7 @@
       ],
       "properties:10": {
         "betterquesting:10": {
-          "autoclaim:1": 0,
           "desc:8": "§oThis quest completes via checkbox or upon achieving Resonant Clathrate.\n\nThis step requires a Forge Hammer at voltage §lLV §oor higher.§r\n\nBreak up your §6Gravel§r into §6Sand§r.\n\n\n\nYou might have noticed that all quests in this line complete automatically via §6Resonant Clathrate§r instead of §6Pulsating Polymer Clay§r. This is the case as it follows the §oResonant Clathrate§r quest in §oSimulating Mobs§r, and you will probably make §6Pulsating Polymer Clay§r via §6Uraninite§r before making a passive setup via §6Resonant Clathrate§r.",
-          "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
             "id:8": "minecraft:sand"
@@ -39777,9 +38315,7 @@
       ],
       "properties:10": {
         "betterquesting:10": {
-          "autoclaim:1": 0,
           "desc:8": "§oThis quest completes via checkbox or upon achieving Resonant Clathrate.\n\nThis step requires a Forge Hammer at voltage §lLV §oor higher.§r\n\nBreak up your §6Cobblestone§r into §6Gravel§r.\n\n\n\nYou might have noticed that all quests in this line complete automatically via §6Resonant Clathrate§r instead of §6Pulsating Polymer Clay§r. This is the case as it follows the §oResonant Clathrate§r quest in §oSimulating Mobs§r, and you will probably make §6Pulsating Polymer Clay§r via §6Uraninite§r before making a passive setup via §6Resonant Clathrate§r.",
-          "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
             "id:8": "minecraft:gravel"
@@ -39844,9 +38380,7 @@
     "931:10": {
       "properties:10": {
         "betterquesting:10": {
-          "autoclaim:1": 0,
           "desc:8": "§oThis quest completes via checkbox or upon achieving Resonant Clathrate.§r\n\nThe best source of §6Cobblestone§r is §bNuclearCraft §6Cobblestone Generator§r. If the first one isn\u0027t enough, you can always upgrade and make more of them.\n\n\n\nYou might have noticed that all quests in this line complete automatically via §6Resonant Clathrate§r instead of §6Pulsating Polymer Clay§r. This is the case as it follows the §oResonant Clathrate§r quest in §oSimulating Mobs§r, and you will probably make §6Pulsating Polymer Clay§r via §6Uraninite§r before making a passive setup via §6Resonant Clathrate§r.",
-          "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
             "id:8": "minecraft:cobblestone"
@@ -39882,9 +38416,7 @@
       ],
       "properties:10": {
         "betterquesting:10": {
-          "autoclaim:1": 0,
           "desc:8": "§oThis quest completes via checkbox or upon achieving Resonant Clathrate.\n\nThis step requires a Furnace or an upgraded Furnace, a Electric Furnace at voltage §lLV §oor higher, or an Arc Furnace at voltage §lLV §oor higher.§r\n\nSmelt your §6Sand§r into §6Glass§r. If you\u0027re using a §3Electric Furnace§r to smelt it, it\u0027s more efficient to use the upgraded §3Furnaces§r, such as §3Iron Furnaces§r. You can fuel them with §6Sugar Cane§r. The §3Arc Furnace§r doubles your glass though. Later, once you unlock them, §3Multi Smelters§r will be the best for this.\n\n\n\nYou might have noticed that all quests in this line complete automatically via §6Resonant Clathrate§r instead of §6Pulsating Polymer Clay§r. This is the case as it follows the §oResonant Clathrate§r quest in §oSimulating Mobs§r, and you will probably make §6Pulsating Polymer Clay§r via §6Uraninite§r before making a passive setup via §6Resonant Clathrate§r.",
-          "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
             "id:8": "minecraft:glass"
@@ -39921,9 +38453,7 @@
       ],
       "properties:10": {
         "betterquesting:10": {
-          "autoclaim:1": 0,
           "desc:8": "§oThis quest completes via checkbox or upon achieving Resonant Clathrate.\n\nThis step requires a Electrolyser at voltage §lLV §oor higher.§r\n\nBreak up your §6Sand§r into §6Quartz§r. An §3Arc Furnace§r making §6Glass§r supports 2.5 §3Electrolysers§r of the same tier.\n\n\n\nYou might have noticed that all quests in this line complete automatically via §6Resonant Clathrate§r instead of §6Pulsating Polymer Clay§r. This is the case as it follows the §oResonant Clathrate§r quest in §oSimulating Mobs§r, and you will probably make §6Pulsating Polymer Clay§r via §6Uraninite§r before making a passive setup via §6Resonant Clathrate§r.",
-          "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
             "id:8": "minecraft:quartz"
@@ -39960,9 +38490,7 @@
       ],
       "properties:10": {
         "betterquesting:10": {
-          "autoclaim:1": 0,
           "desc:8": "§oThis quest completes via checkbox or upon achieving Resonant Clathrate.\n\nThis step requires an Extractor of tier §lLV §oor higher.§r\n\nMelt your §6Ender Pearls§r into §6Resonant Ender§r.\n\n\n\nYou might have noticed that all quests in this line complete automatically via §6Resonant Clathrate§r instead of §6Pulsating Polymer Clay§r. This is the case as it follows the §oResonant Clathrate§r quest in §oSimulating Mobs§r, and you will probably make §6Pulsating Polymer Clay§r via §6Uraninite§r before making a passive setup via §6Resonant Clathrate§r.",
-          "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
             "id:8": "forge:bucketfilled",
@@ -40035,9 +38563,7 @@
       ],
       "properties:10": {
         "betterquesting:10": {
-          "autoclaim:1": 0,
           "desc:8": "§oThis quest completes via checkbox or upon achieving Resonant Clathrate.\n\nThis step requires a Furnace or an upgraded Furnace, or a Electric Furnace at voltage §lLV §oor higher.§r\n\nSmelt your §6Resonant Clathrate§r into §6Pulsating Dust§r. If you\u0027re using a §3Furnace§r to smelt it, it\u0027s more efficient to use the upgraded §3Furnaces§r, such as §3Iron Furnaces§r. You can fuel them with §6Sugar Cane§r. You might want to keep it as a §3Electric Furnace§r, depending on your circumstance.\n\n\n\nYou might have noticed that all quests in this line complete automatically via §6Resonant Clathrate§r instead of §6Pulsating Polymer Clay§r. This is the case as it follows the §oResonant Clathrate§r quest in §oSimulating Mobs§r, and you will probably make §6Pulsating Polymer Clay§r via §6Uraninite§r before making a passive setup via §6Resonant Clathrate§r.",
-          "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
             "id:8": "nomilabs:pulsatingdust"
@@ -40070,9 +38596,8 @@
     "937:10": {
       "properties:10": {
         "betterquesting:10": {
-          "autoclaim:1": 0,
           "desc:8": "§oThis quest completes via checkbox or upon achieving Cobblestone.§r\n\nThe best source of §6Cobblestone§r is §bNuclearCraft §6Cobblestone Generator§r. If the first one isn\u0027t enough, you can always upgrade and make more of them. This is the starting point of your §eCobbleworks§r. Also a cheap building block.\n\n\n\nYou might have noticed that all quests in this line complete automatically via the main resource achieved by that step. This is as this §eCobbleworks§r chain is extremely versatile, and each resource may be important in or not, depending on your situation.",
-          "globalshare:1": 0,
+          "frame:8": "GATE",
           "icon:10": {
             "Count:3": 1,
             "id:8": "minecraft:cobblestone"
@@ -40107,9 +38632,7 @@
       ],
       "properties:10": {
         "betterquesting:10": {
-          "autoclaim:1": 0,
           "desc:8": "§oThis quest completes via checkbox or upon achieving Gravel.\n\nThis step requires a Forge Hammer at voltage §lLV §oor higher.§r\n\nBreak up your §6Cobblestone§r into §6Gravel§r. Pretty much just another step of the §eCobbleworks§r, although it is used in §6Conduit Binders§r.\n\n\n\nYou might have noticed that all quests in this line complete automatically via the main resource achieved by that step. This is as this §eCobbleworks§r chain is extremely versatile, and each resource may be important or not, depending on your situation.",
-          "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
             "id:8": "minecraft:gravel"
@@ -40143,9 +38666,7 @@
       ],
       "properties:10": {
         "betterquesting:10": {
-          "autoclaim:1": 0,
           "desc:8": "§oThis quest completes via checkbox or upon achieving Sand.\n\nThis step requires a Forge Hammer at voltage §lLV §oor higher.§r\n\nBreak up your §6Gravel§r into §6Sand§r. Pretty much just another step of the §eCobbleworks§r, although it is used in §6Conduit Binders§r.\n\n\n\nYou might have noticed that all quests in this line complete automatically via the main resource achieved by that step. This is as this §eCobbleworks§r chain is extremely versatile, and each resource may be important or not, depending on your situation.",
-          "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
             "id:8": "minecraft:sand"
@@ -40179,9 +38700,7 @@
       ],
       "properties:10": {
         "betterquesting:10": {
-          "autoclaim:1": 0,
           "desc:8": "§oThis quest completes via checkbox or upon achieving Dust.\n\nThis step requires a Forge Hammer at voltage §lLV §oor higher.§r\n\nBreak up your §6Sand§r into §6Dust§r. Used for nothing, apart from turning into §6Clay§r and §6Netherrack§r.\n\n\n\nYou might have noticed that all quests in this line complete automatically via the main resource achieved by that step. This is as this §eCobbleworks§r chain is extremely versatile, and each resource may be important or not, depending on your situation.",
-          "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
             "id:8": "nomilabs:block_dust"
@@ -40216,9 +38735,7 @@
       ],
       "properties:10": {
         "betterquesting:10": {
-          "autoclaim:1": 0,
           "desc:8": "§oThis quest completes via checkbox or upon achieving Clay.\n\nThis step requires a Chemical Reactor at voltage §lLV §oor higher.§r\n\nCombine your §6Dust§r and some §6Water§r to make §6Clay§r. Turns into many useful resources.\n\n\n\nYou might have noticed that all quests in this line complete automatically via the main resource achieved by that step. This is as this §eCobbleworks§r chain is extremely versatile, and each resource may be important or not, depending on your situation.",
-          "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
             "id:8": "minecraft:clay"
@@ -40283,9 +38800,8 @@
     "943:10": {
       "properties:10": {
         "betterquesting:10": {
-          "autoclaim:1": 0,
           "desc:8": "§oThis quest completes via checkbox or upon achieving Lava.\n\n§6Lava§r can be achieved in three main ways. The first is using a §3Chemical Reactor§r to turn §6Magma Blocks§r into §6Lava§r. The second is using §bActually Additions §6Lava Factories§r. These are quite slow. The final notable way is using a §bGregTech §6Fluid Drill§r in the Nether above a §6Lava§r vein.\n\nIn this case, you\u0027ll need §6Lava§r for §6Netherrack§r. You won\u0027t need much, although §6Lava§r can also be centrifuged for useful resources, and will be used heavily in the End Game for §6Lava Infused Crystals§r.\n\n\n\nYou might have noticed that all quests in this line complete automatically via the main resource achieved by that step. This is as this §eCobbleworks§r chain is extremely versatile, and each resource may be important or not, depending on your situation.",
-          "globalshare:1": 0,
+          "frame:8": "GATE",
           "icon:10": {
             "Count:3": 1,
             "id:8": "minecraft:lava_bucket"
@@ -40322,9 +38838,7 @@
       ],
       "properties:10": {
         "betterquesting:10": {
-          "autoclaim:1": 0,
           "desc:8": "§oThis quest completes via checkbox or upon achieving Netherrack.\n\nThis step requires a Chemical Reactor at voltage §lLV §oor higher.§r\n\nCombine your §6Dust§r and §6Lava§r into §6Netherrack§r. Pretty much used for nothing, apart from your first §6Hellish Matter§r and §6Netherrack Dust§r. No need to passive this.\n\n\n\nYou might have noticed that all quests in this line complete automatically via the main resource achieved by that step. This is as this §eCobbleworks§r chain is extremely versatile, and each resource may be important or not, depending on your situation.",
-          "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
             "id:8": "minecraft:netherrack"
@@ -40358,9 +38872,7 @@
       ],
       "properties:10": {
         "betterquesting:10": {
-          "autoclaim:1": 0,
           "desc:8": "§oThis quest completes via checkbox or upon achieving Netherrack Dust.\n\nThis step requires a Macerator at voltage §lLV §oor higher.§r\n\nCrush your §6Netherrack§r into §6Netherrack Dust§r. Used for nothing apart from §6Nether Cakes§r. No need to passive this.\n\n\n\nYou might have noticed that all quests in this line complete automatically via the main resource achieved by that step. This is as this §eCobbleworks§r chain is extremely versatile, and each resource may be important or not, depending on your situation.",
-          "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
             "Damage:2": 1604,
@@ -40396,9 +38908,7 @@
       ],
       "properties:10": {
         "betterquesting:10": {
-          "autoclaim:1": 0,
           "desc:8": "§oThis quest completes via checkbox or upon achieving Clay Balls.§r\n\nCraft your §6Clay§r to make §6Clay Balls§r. You can also use §3Compacting Drawers§r. Used for §6Conduit Binders§r.\n\n\n\nYou might have noticed that all quests in this line complete automatically via the main resource achieved by that step. This is as this §eCobbleworks§r chain is extremely versatile, and each resource may be important or not, depending on your situation.",
-          "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
             "id:8": "minecraft:clay_ball"
@@ -40432,9 +38942,7 @@
       ],
       "properties:10": {
         "betterquesting:10": {
-          "autoclaim:1": 0,
           "desc:8": "§oThis quest completes via checkbox or upon achieving Clay Dust.\n\nThis step requires a Macerator at voltage §lLV §oor higher.§r\n\nCrush your §6Clay§r to make §6Clay Dust§r. Turns into many useful resources.\n\n\n\nYou might have noticed that all quests in this line complete automatically via the main resource achieved by that step. This is as this §eCobbleworks§r chain is extremely versatile, and each resource may be important or not, depending on your situation.",
-          "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
             "Damage:2": 2063,
@@ -40470,9 +38978,7 @@
       ],
       "properties:10": {
         "betterquesting:10": {
-          "autoclaim:1": 0,
           "desc:8": "§oThis quest completes via checkbox or upon achieving Sodium, Silicon, Lithium and Aluminium.\n\nThis step requires a Electrolyser at voltage §lLV §oor higher.§r\n\nSplit your §6Clay Dust§r to make §6Sodium Dust§r, §6Silicon Dust§r, §6Lithium Dust§r, and §6Aluminium Dust§r. This is extremely important to passive, as you will need a lot of these resources, and this is the best way to get them.\n\n\n\nYou might have noticed that all quests in this line complete automatically via the main resource achieved by that step. This is as this §eCobbleworks§r chain is extremely versatile, and each resource may be important or not, depending on your situation.",
-          "globalshare:1": 0,
           "icon:10": {
             "Count:3": 0,
             "Damage:2": 101,
@@ -40523,9 +39029,7 @@
       ],
       "properties:10": {
         "betterquesting:10": {
-          "autoclaim:1": 0,
           "desc:8": "§oThis quest completes via checkbox or upon achieving Stone.\n\nThis step requires a Furnace or an upgraded Furnace, or a Electric Furnace at voltage §lLV §oor higher.§r\n\nMainly used for decorative blocks. Still part of §eCobbleworks§r I guess.\n\n\n\nYou might have noticed that all quests in this line complete automatically via the main resource achieved by that step. This is as this §eCobbleworks§r chain is extremely versatile, and each resource may be important or not, depending on your situation.",
-          "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
             "id:8": "minecraft:stone"
@@ -40559,9 +39063,7 @@
       ],
       "properties:10": {
         "betterquesting:10": {
-          "autoclaim:1": 0,
           "desc:8": "§oThis quest completes via checkbox or upon achieving Glass.\n\nThis step requires a Furnace or an upgraded Furnace, a Electric Furnace at voltage §lLV §oor higher, or an Arc Furnace at voltage §lLV §oor higher.§r\n\nSmelt your §6Sand§r into §6Glass§r. If you\u0027re using a §3Electric Furnace§r to smelt it, it\u0027s more efficient to use the upgraded §3Furnaces§r, such as §3Iron Furnaces§r. You can fuel them with §6Sugar Cane§r. The §3Arc Furnace§r doubles your glass though. Later, once you unlock them, §3Multi Smelters§r will be the best for this.\n\n\n\nYou might have noticed that all quests in this line complete automatically via the main resource achieved by that step. This is as this §eCobbleworks§r chain is extremely versatile, and each resource may be important or not, depending on your situation.",
-          "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
             "id:8": "minecraft:glass"
@@ -40595,9 +39097,7 @@
       ],
       "properties:10": {
         "betterquesting:10": {
-          "autoclaim:1": 0,
           "desc:8": "§oThis quest completes via checkbox or achieving Quartz.\n\nThis step requires a Electrolyser at voltage §lLV §oor higher.§r\n\nBreak up your §6Sand§r into §6Quartz§r. An §3Arc Furnace§r making §6Glass§r supports 2.5 §3Electrolysers§r of the same tier. You will need a lot of §6Quartz§r, so its crucial that you passive this.\n\n\n\nYou might have noticed that all quests in this line complete automatically via the main resource achieved by that step. This is as this §eCobbleworks§r chain is extremely versatile, and each resource may be important or not, depending on your situation.",
-          "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
             "id:8": "minecraft:quartz"
@@ -40633,9 +39133,7 @@
       ],
       "properties:10": {
         "betterquesting:10": {
-          "autoclaim:1": 0,
           "desc:8": "§2This is new to CEu! Before, you could only distill Liquid Air.\n\n§9Ender Air§r, collected from a §3Gas Collector§r, can be sent into the §3Vacuum Freezer§r to turn it into §9Liquid Ender Air§r.\n\n§9Liquid Ender Air§r can be sent into a §2Distillation Tower§r to break it down into its components.\n\n§2Liquid Air and Liquid Nether Air give different useful components too.§r",
-          "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
             "id:8": "forge:bucketfilled",
@@ -40644,19 +39142,7 @@
               "FluidName:8": "liquid_ender_air"
             }
           },
-          "ignoresview:1": 0,
-          "ismain:1": 0,
-          "issilent:1": 0,
-          "lockedprogress:1": 0,
-          "name:8": "§2Distilling Liquid Ender Air§r",
-          "questlogic:8": "AND",
-          "repeat_relative:1": 1,
-          "repeattime:3": -1,
-          "simultaneous:1": 0,
-          "snd_complete:8": "minecraft:entity.player.levelup",
-          "snd_update:8": "minecraft:entity.player.levelup",
-          "tasklogic:8": "AND",
-          "visibility:8": "ALWAYS"
+          "name:8": "§2Distilling Liquid Ender Air§r"
         }
       },
       "questID:3": 952,
@@ -40694,9 +39180,8 @@
       ],
       "properties:10": {
         "betterquesting:10": {
-          "autoclaim:1": 0,
           "desc:8": "§2This is new to CEu! Before, you could only distil Liquid Air.\n\n§9Nether Air§r, collected from §3Gas Collectors§r, can be sent into the §3Vacuum Freezer§r to turn it into §9Liquid Nether Air§r.\n\n§9Liquid Nether Air§r can be sent into a §2Distillation Tower§r to break it down into its components.\n\n§2Liquid Air and Liquid Ender Air give different useful components too.§r",
-          "globalshare:1": 0,
+          "frame:8": "GATE",
           "icon:10": {
             "Count:3": 1,
             "id:8": "forge:bucketfilled",
@@ -40706,17 +39191,7 @@
             }
           },
           "ismain:1": 1,
-          "issilent:1": 0,
-          "lockedprogress:1": 0,
-          "name:8": "§2Distilling Liquid Nether Air§r",
-          "questlogic:8": "AND",
-          "repeat_relative:1": 1,
-          "repeattime:3": -1,
-          "simultaneous:1": 0,
-          "snd_complete:8": "minecraft:entity.player.levelup",
-          "snd_update:8": "minecraft:entity.player.levelup",
-          "tasklogic:8": "AND",
-          "visibility:8": "ALWAYS"
+          "name:8": "§2Distilling Liquid Nether Air§r"
         }
       },
       "questID:3": 953,
@@ -40815,9 +39290,7 @@
       ],
       "properties:10": {
         "betterquesting:10": {
-          "autoclaim:1": 0,
           "desc:8": "§oThis quest completes via checkbox or upon achieving Glass Dust.\n\nThis step requires a Macerator at voltage §lLV §oor higher.§r\n\nCrush your §6Glass§r into §6Glass Dust§r. Used for nothing, apart from §6Silicon Dioxide Dust§r.\n\n\n\nYou might have noticed that all quests in this line complete automatically via the main resource achieved by that step. This is as this §eCobbleworks§r chain is extremely versatile, and each resource may be important or not, depending on your situation.",
-          "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
             "Damage:2": 2000,
@@ -40853,9 +39326,7 @@
       ],
       "properties:10": {
         "betterquesting:10": {
-          "autoclaim:1": 0,
           "desc:8": "§oThis quest completes via checkbox or upon achieving Silicon Dioxide Dust.\n\nThis step requires a Centrifuge at voltage §lLV §oor higher.§r\n\nSeperate your §6Glass Dust§r into §6Silicon Dioxide Dust§r. Can be electrolyzed into useful resources.\n\n\n\nYou might have noticed that all quests in this line complete automatically via the main resource achieved by that step. This is as this §eCobbleworks§r chain is extremely versatile, and each resource may be important or not, depending on your situation.",
-          "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
             "Damage:2": 356,
@@ -40891,9 +39362,7 @@
       ],
       "properties:10": {
         "betterquesting:10": {
-          "autoclaim:1": 0,
           "desc:8": "§oThis quest completes via checkbox or upon achieving Quartz Sand.\n\nThis step requires a Macerator at voltage §lLV §oor higher.§r\n\nCrush your §6Sand§r into §6Quartz Sand§r. Can be centrifuged into useful resources.\n\n\n\nYou might have noticed that all quests in this line complete automatically via the main resource achieved by that step. This is as this §eCobbleworks§r chain is extremely versatile, and each resource may be important or not, depending on your situation.",
-          "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
             "Damage:2": 2023,
@@ -40929,9 +39398,7 @@
       ],
       "properties:10": {
         "betterquesting:10": {
-          "autoclaim:1": 0,
           "desc:8": "§oThis quest completes via checkbox or upon achieving Sand.\n\nThis step requires a Centrifuge at voltage §lLV §oor higher.§r\n\nSeperate your §6Quartz Sand§r into §6Quartzite Dust§r and §6Certus Quartz Dust§r. This is a good renewable source of §6Certus Quartz§r, which you need for §bApplied Energistics 2§r.\n\n\n\nYou might have noticed that all quests in this line complete automatically via the main resource achieved by that step. This is as this §eCobbleworks§r chain is extremely versatile, and each resource may be important or not, depending on your situation.",
-          "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
             "Damage:2": 340,
@@ -40972,9 +39439,7 @@
       ],
       "properties:10": {
         "betterquesting:10": {
-          "autoclaim:1": 0,
           "desc:8": "§oThis quest completes via checkbox or upon achieving Oxygen.\n\nThis step requires a Electrolyser at voltage §lLV §oor higher.§r\n\nSplit your §6Silicon Dioxide Dust§r into §6Silicon Dust and Oxygen§r. This is the best source of Early Game §6Oxygen§r, although distilling §6Liquid Air§r may be better later, depending on your situation.\n\n\n\nYou might have noticed that all quests in this line complete automatically via the main resource achieved by that step. This is as this §eCobbleworks§r chain is extremely versatile, and each resource may be important or not, depending on your situation.",
-          "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
             "Damage:2": 99,
@@ -41010,9 +39475,7 @@
       ],
       "properties:10": {
         "betterquesting:10": {
-          "autoclaim:1": 0,
           "desc:8": "Around this point, you will need large quantities of §6Hydrogen§r and §6Oxygen§r.\n\nThe first way that comes to mind is electrolyzing §9Water§r, but that is §cextremely slow and inefficient§r..\n\nInstead, the best way of making early game §6Oxygen§r is through §6Silicon Dioxide§r. This dust can easily be obtained through processing §6Cobblestone§r, and is fast and efficient.\n\n§6Hydrogen§r is a bit trickier, but you can put §6Methane§r in an §bElectrolyzer§r. §6Methane§r can be obtained from §6Biological Materials§r, §6Pyrolyse Byproducts§r, or later, via §6Petrochemistry§r. There are many other sources as well, including various ores like §6Limonite§r. Check JEI!\n\nIn §6HV§r, you can react §6Methane§r with §6Water§r in a §bChemical Reactor§r for fast and efficient Hydrogen.\n\nIt is worth setting up automation for these early! Even if you stockpile some simply through electrolyzing Water, it is worth it!",
-          "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
             "id:8": "forge:bucketfilled",
@@ -41061,9 +39524,7 @@
       ],
       "properties:10": {
         "betterquesting:10": {
-          "autoclaim:1": 0,
           "desc:8": "§oThis quest completes via checkbox or achieving Obsidian.\n\nThis step requires a Fluid Solidifier at voltage §lLV §oor higher, or a Rock Breaker at voltage §lHV §oor higher.§r\n\nCool down your §6Lava§r into §6Obsidian§r. You\u0027ll need a lot of this, so it\u0027s probably wise to use §3Rock Breakers§r once you hit §6HV§r, as they don\u0027t consume anything to produce §6Obsidian§r.\n\n\n\nYou might have noticed that all quests in this line complete automatically via the main resource achieved by that step. This is as this §eCobbleworks§r chain is extremely versatile, and each resource may be important or not, depending on your situation.",
-          "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
             "id:8": "minecraft:obsidian"
@@ -41097,9 +39558,7 @@
       ],
       "properties:10": {
         "betterquesting:10": {
-          "autoclaim:1": 0,
           "desc:8": "§oThis quest completes via checkbox or upon achieving Obsidian Dust.\n\nThis step requires a Macerator at voltage §lLV §oor higher.§r\n\nCrush your §6Obsidian§r into §6Obsidian Dust§r. You\u0027ll need a lot of this for §6Petrotheum Dust§r.\n\n\nYou might have noticed that all quests in this line complete automatically via the main resource achieved by that step. This is as this §eCobbleworks§r chain is extremely versatile, and each resource may be important or not, depending on your situation.",
-          "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
             "Damage:2": 297,
@@ -41169,9 +39628,7 @@
       ],
       "properties:10": {
         "betterquesting:10": {
-          "autoclaim:1": 0,
           "desc:8": "§oThis quest completes via checkbox or upon achieving Saltpeter.\n\nThis step requires a Macerator at voltage §lLV §oor higher.§r\n\nBreak up your §6Sandstone§r into §6Saltpeter§r. This is probably the best way to get §6Saltpeter§r, which you\u0027ll need a lot for §6Aerotheum Dust§r. You can also get §6Saltpeter§r from §bDeep Mob Evolution§r.\n\nYou can also electrolyse it for §6Potassium§r, although it isn\u0027t recommended because of how easily you can get §6Potassium§r, such as from §6Black Granite §3Processing§r, and how much §6Saltpeter§r it costs.\n\n\n\nYou might have noticed that all quests in this line complete automatically via the main resource achieved by that step. This is as this §eCobbleworks§r chain is extremely versatile, and each resource may be important or not, depending on your situation.",
-          "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
             "Damage:2": 313,
@@ -41267,9 +39724,7 @@
       ],
       "properties:10": {
         "betterquesting:10": {
-          "autoclaim:1": 0,
           "desc:8": "§oThis quest completes via checkbox or upon achieving Flint.\n\nThis step requires a Sifter at voltage §lLV §oor higher.§r\n\nSearch your §6Gravel§r for §6Flint§r. The only main thing you\u0027ll need this for is §6Storage Downgrades§r.\n\n\n\nYou might have noticed that all quests in this line complete automatically via the main resource achieved by that step. This is as this §eCobbleworks§r chain is extremely versatile, and each resource may be important or not, depending on your situation.",
-          "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
             "id:8": "minecraft:flint"
