@@ -225,11 +225,6 @@
       "sides": ["client"]
     },
     {
-      "projectID": 244559,
-      "fileID": 2830252,
-      "required": true
-    },
-    {
       "projectID": 634242,
       "fileID": 5591161,
       "required": true
@@ -467,11 +462,6 @@
     {
       "projectID": 302113,
       "fileID": 2847346,
-      "required": true
-    },
-    {
-      "projectID": 304024,
-      "fileID": 2830114,
       "required": true
     },
     {
