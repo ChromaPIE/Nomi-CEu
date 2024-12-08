@@ -1,26 +1,24 @@
 import com.nomiceu.nomilabs.util.LabsModeHelper
 import gregtech.common.metatileentities.MetaTileEntities
 import net.minecraft.item.ItemStack
+import net.minecraftforge.fluids.FluidUtil
 
 import static com.nomiceu.nomilabs.groovy.GroovyHelpers.JEIHelpers.*
 import static gregtech.api.GTValues.*
 
+// General Item/Category Removals. Some may be in other scripts.
+
 /* Item Removals */
 
 // AR
-mods.jei.ingredient.removeAndHide(item('advancedrocketry:crystal:*')) // Random Crystal Blocks
+mods.jei.ingredient.hide(item('advancedrocketry:crystal:*')) // Random Crystal Blocks
 
 // Armor Plus
-mods.jei.ingredient.removeAndHide(item('armorplus:block_melting_obsidian')) // Null Texture Item
-
-// Thermal
-removeAndHideItemIgnoreNBT(item('thermalexpansion:machine', 13)) // Arcane Ensorcellator
-removeAndHideItemIgnoreNBT(item('thermalexpansion:device', 9)) // Decoctive Diffuser
-removeAndHideItemIgnoreNBT(item('thermalexpansion:device', 8)) // Insightful Condenser
+mods.jei.ingredient.hide(item('armorplus:block_melting_obsidian')) // Null Texture Item
 
 // Nomi Labs
 if (LabsModeHelper.expert) {
-	mods.jei.ingredient.removeAndHide(item('nomilabs:impossiblerealmdata'))
+	mods.jei.ingredient.hide(item('nomilabs:impossiblerealmdata'))
 }
 
 // GregTech
@@ -28,7 +26,6 @@ if (LabsModeHelper.expert) {
 for (var tier : [MV, HV, EV, IV, LuV, ZPM, UV]) {
 	mods.jei.ingredient.removeAndHide(MetaTileEntities.MUFFLER_HATCH[tier].getStackForm())
 }
-
 
 // Better Questing
 List<ItemStack> lootBoxes = [
@@ -42,13 +39,20 @@ List<ItemStack> lootBoxes = [
 	item('bq_standard:loot_chest', 103),
 	item('bq_standard:loot_chest', 104),
 ]
-lootBoxes.forEach { removeAndHideItemIgnoreNBT(it) }
+lootBoxes.forEach { hideItemIgnoreNBT(it) }
 
-mods.jei.ingredient.removeAndHide(item('betterquesting:placeholder'))
-mods.jei.ingredient.removeAndHide(fluid('betterquesting.placeholder'))
+mods.jei.ingredient.hide(item('betterquesting:placeholder'))
+mods.jei.ingredient.hide(fluid('betterquesting.placeholder'))
 
 // Modded Buckets
 hideItemIgnoreNBT(item('forge:bucketfilled'))
+
+// Add back Creosote Bucket, has usages in recipes and furnace
+mods.jei.ingredient.add(FluidUtil.getFilledBucket(fluid('creosote') * 1000))
+
+// Add back Concrete Bucket, used in Firebricks
+if (LabsModeHelper.expert)
+	mods.jei.ingredient.add(FluidUtil.getFilledBucket(fluid('concrete') * 1000))
 
 /* Remove Categories (Appear Randomly after /gs reload) */
 // Avatitia
