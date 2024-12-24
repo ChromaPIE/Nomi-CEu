@@ -1887,7 +1887,7 @@
       ],
       "properties:10": {
         "betterquesting:10": {
-          "desc:8": "This alloy is made from §2mixing 2 Gold Dust, 1 Redstone, and 1 Glowstone Dust§r and putting it in a mixer, then your new §3Electric Blast Furnace (EBF)§r.\n\nThrow §2the prepared dust into the input bus§r and in twenty seconds your §6Energetic Alloy Ingot§r will be in the output bus.\n\nYou might want to consider getting some §9Nitrogen§r, which speeds up EBF recipes. See the \"Basic Air Collection\" quest to start your journey. For this recipe, it reduces the duration to 13.7 seconds.\n\n§2In EV, you can build an Alloy Blast Smelter, which doubles the yield.§r",
+          "desc:8": "将§22份金粉、1份红石粉和1份荧石粉§r放入搅拌机，然后把得到的混合粉末扔进§3电力高炉（EBF）§r的§2输入总线§r，等上二十秒，即可获得§6充能合金锭§r。\n\n如果嫌炉子烧得太慢，可以参看“基础气体收集”任务，了解§9氮气§r的获取方法并使用它来加快电力高炉的处理速度。对于充能合金，氮气的参与可使其耗时降至13.7秒。\n\n§2在EV阶段，你可以搭建合金冶炼炉，获得双倍的合金产出。§r",
           "frame:8": "GATE",
           "icon:10": {
             "Count:3": 1,
@@ -1896,7 +1896,7 @@
           },
           "ismain:1": 1,
           "lockedprogress:1": 1,
-          "name:8": "§2Energetic Alloy§r",
+          "name:8": "§2充能合金§r",
           "partysinglereward:1": 0
         }
       },
@@ -5723,7 +5723,7 @@
       ],
       "properties:10": {
         "betterquesting:10": {
-          "desc:8": "§6Red Coal§r is an important ingredient for §6Black Steel Dust§r.\n\nCareful with making an AE2 pattern with this one; due to the way §bExtra Utilities§r item generation works, you\u0027ll have to craft a piece of Red Coal to put into relevant §aPatterns§r manually.",
+          "desc:8": "§6红煤§r是§6黑钢粉§r的重要原料。\n\n§b更多实用设备§r模组制造出的物品“异于常人”，因此将其编入AE2样板时需要格外注意。为了避免意料之外的物品数据影响自动合成，你需要手动造出一块红煤并用它来编写§a样板§r，来确保网络能正常检测机器实际产出的物品。",
           "frame:8": "GATE",
           "icon:10": {
             "Count:3": 1,
@@ -5732,7 +5732,7 @@
           },
           "ismain:1": 1,
           "lockedprogress:1": 1,
-          "name:8": "Red Coal",
+          "name:8": "红煤",
           "partysinglereward:1": 0
         }
       },
@@ -5771,7 +5771,7 @@
       ],
       "properties:10": {
         "betterquesting:10": {
-          "desc:8": "§6Black Steel§r will be used to make various items from §bExtended Crafting§r. It will also be the basis of other Steel types later on.\n\nAt first, you will have to create §6Black Bronze Dust§r on the way to §6Black Steel Dust§r. By making an §6HV Mixer§r, you can skip this step with a shortcut recipe.",
+          "desc:8": "在§b合成拓展§r中许多物品的配方里都能找到§6黑钢§r的身影。此外，其他“钢”类合金中也有它的一份。\n\n§6黑钢粉§r的合成材料中还包括一种叫§6黑青铜§r的混合合金粉，但§6HV搅拌机§r可以让它的原料合并参与黑钢粉的制作，从而直接跳过一个步骤。",
           "frame:8": "GATE",
           "icon:10": {
             "Count:3": 1,
@@ -5780,7 +5780,7 @@
           },
           "ismain:1": 1,
           "lockedprogress:1": 1,
-          "name:8": "Black Steel",
+          "name:8": "黑钢",
           "partysinglereward:1": 0
         }
       },
@@ -6692,7 +6692,7 @@
       ],
       "properties:10": {
         "betterquesting:10": {
-          "desc:8": "With §2Rhodium Plated Lumium-Palladium§r, §6Niobium-Titanium§r, §2and Polyphenylene Sulfide§r, you can now make hulls for Ludicrous Voltage (LuV) §bGregTech§r machines.",
+          "desc:8": "§2镀铑流明-钯§r、§6铌钛合金§r§2和聚苯硫醚§r共同构成了剧差压（Ludicrous Voltage，LuV）等级的§b格雷科技§r机器。",
           "frame:8": "GATE",
           "icon:10": {
             "Count:3": 1,
@@ -6701,7 +6701,7 @@
           },
           "ismain:1": 1,
           "lockedprogress:1": 1,
-          "name:8": "§2LuV Machine Hulls§r",
+          "name:8": "§2LuV机身§r",
           "partysinglereward:1": 0
         }
       },
@@ -7361,7 +7361,7 @@
       ],
       "properties:10": {
         "betterquesting:10": {
-          "desc:8": "手握3级电路，我们可以开始§3蒸馏塔§r的搭建任务了。这台多方块机器是制造§6环氧树脂§r等高级塑料，以及开始石油化工流程的先决条件。\n\n蒸馏塔的机器结构十分灵活，§62格至13格高§r（可承载12种流体输出）的结构统统视为有效。最底层上方的每一层加高结构均可加装一个输出仓，也就能使机器额外输出一种流体。§c若可用的输出仓数量小于配方输出的流体种类个数，配方处理不受影响，但超出的部分将遭到销毁§r。\n\n蒸馏塔的最初目的应当是将§9石油§r和§9发酵生物质§r分解为更有利用价值的资源。§9石油§r蒸馏的配方能够输出4种产物，意味着§e蒸馏塔的搭建高度应至少为5§r（本任务的需求匹配的正是这样一座蒸馏塔。若你打算扩建，则每层加高结构将需要§e1个输出仓和7个洁净不锈钢机器外壳§r）\n\n任何输出流体多于4种的配方（例如§9发酵生物质§r的配方）均需要较之更高的蒸馏塔，请按需扩建以确保产物不受损失。此外，你需要留意配方的电压要求。许多蒸馏塔配方仅能在高于MV的输入电压下运行。§e更高级的能源仓到手之后便可着手拆换§r。§6输出总线§r不是蒸馏塔的必要部件，但有些配方会产出物品。如果你不愿意割舍，可以将它加装在结构底部的任意位置。\n\n一个5层的蒸馏塔整体为3x3x5（长x宽x高）的中空结构。§2底层§r需要一个§6输入仓§r和至多两个§6能源仓§r，§2安装位置不限§r；核心的§6控制器§r方块则需位于底层任一边的中央位置；余下空位全部使用§6洁净不锈钢机器外壳§r铺满。§2维修仓可安装在结构的任意位置。§r上方的每一层均为7个机器外壳和1个§6输出仓§r构成的环状结构，但最上层需使用机器外壳封顶。\n\n§9生物质§r之类仅有一种有用产物的配方并不推荐使用蒸馏塔处理。单方块的蒸馏室拥有更高的能效，更加经济实惠。",
+          "desc:8": "手握3级电路，我们可以开始§3蒸馏塔§r的搭建任务了。这台多方块机器是制造§6环氧树脂§r等高级塑料，以及开始石油化工流程的先决条件。\n\n蒸馏塔的机器结构十分灵活，§62格至13格高§r（可承载12种流体输出）的结构统统视为有效。最底层上方的每一层加高结构均可加装一个输出仓，也就能使机器额外输出一种流体。§c若可用的输出仓数量小于配方输出的流体种类个数，配方处理不受影响，但超出的部分将遭到销毁§r。\n\n蒸馏塔的最初目的应当是将§9石油§r和§9发酵生物质§r分解为更有利用价值的资源。§9石油§r蒸馏的配方能够输出4种产物，意味着§e蒸馏塔的搭建高度应至少为5§r（本任务的需求匹配的正是这样一座蒸馏塔。若你打算扩建，则每层加高结构将需要§e1个输出仓和7个洁净不锈钢外壳§r）\n\n任何输出流体多于4种的配方（例如§9发酵生物质§r的配方）均需要较之更高的蒸馏塔，请按需扩建以确保产物不受损失。此外，你需要留意配方的电压要求。许多蒸馏塔配方仅能在高于MV的输入电压下运行。§e更高级的能源仓到手之后便可着手拆换§r。§6输出总线§r不是蒸馏塔的必要部件，但有些配方会产出物品。如果你不愿意割舍，可以将它加装在结构底部的任意位置。\n\n一个5层的蒸馏塔整体为3x3x5（长x宽x高）的中空结构。§2底层§r需要一个§6输入仓§r和至多两个§6能源仓§r，§2安装位置不限§r；核心的§6控制器§r方块则需位于底层任一边的中央位置；余下空位全部使用§6洁净不锈钢外壳§r铺满。§2维修仓可安装在结构的任意位置。§r上方的每一层均为7个机器外壳和1个§6输出仓§r构成的环状结构，但最上层需使用机器外壳封顶。\n\n§9生物质§r之类仅有一种有用产物的配方并不推荐使用蒸馏塔处理。单方块的蒸馏室拥有更高的能效，更加经济实惠。",
           "frame:8": "GATE",
           "icon:10": {
             "Count:3": 1,
@@ -8705,7 +8705,7 @@
       ],
       "properties:10": {
         "betterquesting:10": {
-          "desc:8": "Finally, §6Epoxy Resin Sheets§r.\n\nThese can be made into circuit boards as a substrate for advanced circuits.",
+          "desc:8": "终于，§6环氧树脂片§r到手了。\n\n从此，你可以制造进阶电路板的必要材料——环氧树脂电路板。",
           "frame:8": "GATE",
           "icon:10": {
             "Count:3": 1,
@@ -8714,7 +8714,7 @@
           },
           "ismain:1": 1,
           "lockedprogress:1": 1,
-          "name:8": "Epoxy",
+          "name:8": "环氧树脂",
           "partysinglereward:1": 0
         }
       },
@@ -8842,7 +8842,7 @@
       ],
       "properties:10": {
         "betterquesting:10": {
-          "desc:8": "§6Epoxy Circuit Boards§r are a more advanced substrate type that gives you access to §2Nanocircuits, which span tiers three through six.§r",
+          "desc:8": "§6环氧树脂电路板§r是一种更先进的电路基板。由此，§2横跨三至六级的纳米电路成为了可能。§r",
           "frame:8": "GATE",
           "icon:10": {
             "Count:3": 1,
@@ -8851,7 +8851,7 @@
           },
           "ismain:1": 1,
           "lockedprogress:1": 1,
-          "name:8": "§2Epoxy Substrate§r",
+          "name:8": "§2环氧树脂基板§r",
           "partysinglereward:1": 0
         }
       },
@@ -12861,7 +12861,7 @@
       ],
       "properties:10": {
         "betterquesting:10": {
-          "desc:8": "§6Luminessence§r is used in a number of things, but right now, it will be a component in your §aExtended Crafting Tables§r.",
+          "desc:8": "在§6辉光精华§r的众多用途中，§a拓展工作台§r是它目前的首要任务。",
           "frame:8": "GATE",
           "icon:10": {
             "Count:3": 1,
@@ -12870,7 +12870,7 @@
           },
           "ismain:1": 1,
           "lockedprogress:1": 1,
-          "name:8": "Luminessence",
+          "name:8": "辉光精华",
           "partysinglereward:1": 0
         }
       },
@@ -12908,7 +12908,7 @@
       ],
       "properties:10": {
         "betterquesting:10": {
-          "desc:8": "§9Phosphoric Acid§r is a key component of §6Luminessence§r, which will be used extensively for such things as §6Nether Stars§r, §6Lumium Blend§r, and §bExtended Crafting§r components.\n\nIt can be made using several equally viable recipes:\n\n§6Phosphorus§r, §9Oxygen§r, and §9Water§r can be chemically reacted to produce §9Phosphoric Acid§r.\n\nAlternatively, you can combine §6Phosphorus Pentoxide§r and Water for a much faster reaction.\n\nOtherwise, you can react §6Apatite Dust§r, §9Sulfuric Acid§r, and Water to get Phosphoric Acid, §9Hydrochloric Acid§r, and a whole bunch of §6Gypsum Dust§r.",
+          "desc:8": "§6辉光精华§r被广泛应用在§6下界之星§r、§6流明粉§r及§b合成拓展§r的各种组件中，而§9磷酸§r则是它的关键原料。\n\n有以下几种可行性相当的制备配方可选：\n\n§6磷§r、§9氧气§r和§9水§r通过化学反应制得§9磷酸§r。\n\n或者，也可以将§6五氧化二磷§r与水结合，反应速度更快。\n\n此外，§6磷灰石粉§r、§9硫酸§r和水反应也是一种方法。磷酸之外的副产物有§9盐酸§r和大量的§6石膏粉§r。",
           "frame:8": "GATE",
           "icon:10": {
             "Count:3": 1,
@@ -12920,7 +12920,7 @@
           },
           "ismain:1": 1,
           "lockedprogress:1": 1,
-          "name:8": "Phosphoric Acid",
+          "name:8": "磷酸",
           "partysinglereward:1": 0,
           "questlogic:8": "OR"
         }
@@ -14852,7 +14852,7 @@
       ],
       "properties:10": {
         "betterquesting:10": {
-          "desc:8": "§2The Naphtha route for Epoxy has been removed. You can only make Epoxy using the BPA route.§r\n\nBPA can be produced using petrochemistry distillation products, or via distilling §9Charcoal Byproducts§r from your §3Pyrolyse Oven§r into useful components. Alternatively, you can get §9Phenol§r from §6Coal§r pyrolysis. §9Fermented Biomass§r is also useful to distill as it provides many useful products.\n\n§2Using the Large Chemical Reactor, you can skip two steps in the Epoxy production line.§r",
+          "desc:8": "§2使用石脑油的制备法已被移除，你只能依赖双酚A来制取环氧树脂。§r\n\n制取双酚A所需要的材料可以通过石化蒸馏或蒸馏来自§3热解炉§r的§9木炭副产物§r来获得。对于§9苯酚§r，热解§6煤炭§r也是一种方法。此外，§9发酵生物质§r的蒸馏产物也颇有用处。\n\n§2大型化学反应釜可以大大简化其制取流程，将产线缩减整整两步。§r",
           "frame:8": "GATE",
           "icon:10": {
             "Count:3": 1,
@@ -14864,7 +14864,7 @@
           },
           "ismain:1": 1,
           "lockedprogress:1": 1,
-          "name:8": "§2Epoxy Production§r",
+          "name:8": "§2环氧树脂的生产§r",
           "partysinglereward:1": 0
         }
       },
@@ -20332,7 +20332,7 @@
       ],
       "properties:10": {
         "betterquesting:10": {
-          "desc:8": "Holds your stuff.\n\nCan be §bconfigured§r with sneak-right click and set to §aauto-pickup items§r according to its filter by activating it (default key: §bV§r).\n\nCan be §benchanted§r increase its capacity by up to §a36 slots§r at §dHolding IV§r.",
+          "desc:8": "装东西用的。\n\n手持并潜行右击可对其进行§b配置§r，在启用相应功能（默认按键为§bV§r）后根据过滤设置来§a自动存入捡起的物品§r。\n\n可§b附魔§r来扩展容量，最多可额外拥有§a36个槽位§r（§d扩容 IV§r）。",
           "icon:10": {
             "Count:3": 1,
             "id:8": "thermalexpansion:satchel",
@@ -20341,7 +20341,7 @@
             }
           },
           "lockedprogress:1": 1,
-          "name:8": "Basic Satchel",
+          "name:8": "基础背包",
           "partysinglereward:1": 0,
           "visibility:8": "CHAIN"
         }
@@ -22080,7 +22080,7 @@
       ],
       "properties:10": {
         "betterquesting:10": {
-          "desc:8": "Glowing! §2But all the GTCEu machines glow already, so...§r\n\nThis one takes a significant amount of time to cook, so make sure to have it going constantly.\n\nWires made from §6Lumium§r transmit IV power losslessly, and it forms part of the basis for §6LuV Machine Hulls§r.",
+          "desc:8": "亮闪闪！§2但是那一大堆GTCEu的机器已经属于光污染了，啧……§r\n\n这种材料的烧制时间格外得长，所以尽可能地多烧、常烧，不要停。\n\n§6流明§r导线可以无损传输IV级的电能，§6LuV机身§r材料也少不了流明的参与。",
           "frame:8": "GATE",
           "icon:10": {
             "Count:3": 1,
@@ -22089,7 +22089,7 @@
           },
           "ismain:1": 1,
           "lockedprogress:1": 1,
-          "name:8": "§2Lumium§r",
+          "name:8": "§2流明§r",
           "partysinglereward:1": 0
         }
       },
@@ -34280,7 +34280,7 @@
       ],
       "properties:10": {
         "betterquesting:10": {
-          "desc:8": "有了§3中央监控器§r，纵使§e远隔千万里§r，基地风光也能尽收眼底！与§a无线数字接口覆盖板§r搭配使用时，你不仅能够§e浏览机器的内容物和运作状态，还能访问它们的界面，甚至将整个§3多方块机器§e渲染在屏幕上§r，§e人在家中坐，但万物仍任你掌握！§r\n\n中央监控器本身也是一种多方块机器，能够搭载§e尺寸在3x2到14x9之间§r的监控器屏幕。需要留意的是，在开始搭建前需先在中央监控器内设定好屏幕大小。\n\n监控器的设置方法简单直接。首先，制作一个无线数字接口，手持并潜行右击中央监控器。绑定完成后，像其他覆盖板一样将其加装于单方块或多方块机器。安装完成后，右击中央监控器，并在界面中After installation, right-click the Central Monitor and navigate to an available slot. The quantity of slots will depend on the Central Monitor\u0027s size.\n\nOnce in the slot menu, you\u0027ll see §ethe selected machine appearing on the right side of the screen§r. You can now choose the machine and, subject to the §aPlugin§r installed, exhibit pertinent information on the display. Most plugins offer the luxury of §eaccessing the chosen machine directly from the screen§r.\n\nHere\u0027s a snapshot of what different Plugins can do:\n\n- §lText Plugin§r: as the name suggests, it enables you to §ehave 16 different strings per Plugin§r, each having its own color.\n\n- §lOnline Picture Plugin§r: ideal for showcasing your favorite memes. Simply feed it a direct link to an image, and it will display it for all to see.\n\n- §lGUI Proxy Plugin§r: attaches the GUI of a selected machine to the screen, allowing direct machine access with a simple right-click. §cDon\u0027t forget to activate Proxy Mode on the right side of the menu!§r\n\n- §lAdvanced Monitor Proxy Plugin§r: this one takes the cake. It enables you to project entire multi-blocks onto the screen, giving you direct access to any visible part of the multi-block. This can all be done without ever needing to return to the actual machine.",
+          "desc:8": "有了§3中央监控器§r，纵使§e远隔千万里§r，基地风光也能尽收眼底！与§a无线数字接口覆盖板§r搭配使用时，你不仅能够§e浏览机器的内容物和运作状态，还能访问它们的界面，甚至将整个§3多方块机器§e渲染在屏幕上§r，§e人在家中坐，但万物仍任你掌握！§r\n\n中央监控器本身也是一种多方块机器，能够搭载§e尺寸在3x2到14x9之间§r的监控器屏幕。需要留意的是，在开始搭建前需先在中央监控器内设定好屏幕大小。\n\n监控器的设置方法简单直接。首先，制作一个无线数字接口，手持并潜行右击中央监控器。绑定完成后，像其他覆盖板一样将其加装于单方块或多方块机器。安装完成后，右击中央监控器，并在界面中选择一个可用的槽位。不难发现，结构中的屏幕排布恰恰决定着界面中槽位的数量和布局。\n\nOnce in the slot menu, you\u0027ll see §ethe selected machine appearing on the right side of the screen§r. You can now choose the machine and, subject to the §aPlugin§r installed, exhibit pertinent information on the display. Most plugins offer the luxury of §eaccessing the chosen machine directly from the screen§r.\n\nHere\u0027s a snapshot of what different Plugins can do:\n\n- §lText Plugin§r: as the name suggests, it enables you to §ehave 16 different strings per Plugin§r, each having its own color.\n\n- §lOnline Picture Plugin§r: ideal for showcasing your favorite memes. Simply feed it a direct link to an image, and it will display it for all to see.\n\n- §lGUI Proxy Plugin§r: attaches the GUI of a selected machine to the screen, allowing direct machine access with a simple right-click. §cDon\u0027t forget to activate Proxy Mode on the right side of the menu!§r\n\n- §lAdvanced Monitor Proxy Plugin§r: this one takes the cake. It enables you to project entire multi-blocks onto the screen, giving you direct access to any visible part of the multi-block. This can all be done without ever needing to return to the actual machine.",
           "icon:10": {
             "Count:3": 1,
             "Damage:2": 1029,
@@ -36477,13 +36477,13 @@
       ],
       "properties:10": {
         "betterquesting:10": {
-          "desc:8": "§2Thin Polyphenylene Sulfide Sheets are required for wrapping LuV+ cables.§r",
+          "desc:8": "§2LuV级及以上的线缆包层需要用到薄聚苯硫醚片。§r",
           "icon:10": {
             "Count:3": 1,
             "Damage:2": 1008,
             "id:8": "gregtech:meta_foil"
           },
-          "name:8": "§2Polyphenylene Sulfide§r",
+          "name:8": "§2聚苯硫醚§r",
           "tasklogic:8": "OR"
         }
       },
@@ -37662,7 +37662,7 @@
       ],
       "properties:10": {
         "betterquesting:10": {
-          "desc:8": "§2Rhodium Plated Lumium-Palladium is a mixture of Rhodium, Lumium and Palladium. It forms the basis of LuV Machine Hulls.§r",
+          "desc:8": "§2镀铑流明-钯是它名字里提到的三者混合而成的材料，用来打造LuV机身。§r",
           "frame:8": "GATE",
           "icon:10": {
             "Count:3": 1,
@@ -37670,7 +37670,7 @@
             "id:8": "gregtech:meta_ingot"
           },
           "ismain:1": 1,
-          "name:8": "§2Rhodium Plated Lumium-Palladium§r"
+          "name:8": "§2镀铑流明-钯§r"
         }
       },
       "questID:3": 910,
