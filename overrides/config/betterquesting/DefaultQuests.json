@@ -654,8 +654,6 @@
           "frame:8": "GATE",
           "icon:10": {
             "Count:3": 1,
-            "Damage:2": 0,
-            "OreDict:8": "",
             "id:8": "gregtech:wrench",
             "tag:10": {
               "DisallowContainerItem:1": 0,
@@ -1184,36 +1182,20 @@
       }
     },
     "21:10": {
-      "preRequisites:11": [],
       "properties:10": {
         "betterquesting:10": {
-          "autoclaim:1": 0,
           "desc:8": "Unused Gap Quest. Prevents Overriding Of IDs.",
-          "globalshare:1": 0,
           "icon:10": {
             "Count:3": 0,
-            "Damage:2": 0,
-            "OreDict:8": "",
             "id:8": "minecraft:air"
           },
-          "ignoresview:1": 0,
-          "ismain:1": 0,
           "issilent:1": 1,
-          "lockedprogress:1": 0,
           "name:8": "Gap",
           "partysinglereward:1": 0,
-          "questlogic:8": "AND",
-          "repeat_relative:1": 1,
-          "repeattime:3": -1,
-          "simultaneous:1": 0,
-          "snd_complete:8": "minecraft:entity.player.levelup",
-          "snd_update:8": "minecraft:entity.player.levelup",
-          "tasklogic:8": "AND",
           "visibility:8": "HIDDEN"
         }
       },
       "questID:3": 21,
-      "rewards:9": {},
       "tasks:9": {
         "0:10": {
           "index:3": 0,
@@ -1259,7 +1241,6 @@
             "0:10": {
               "Count:3": 1,
               "Damage:2": 1004,
-              "OreDict:8": "",
               "id:8": "gregtech:machine"
             },
             "1:10": {
@@ -1268,38 +1249,31 @@
             },
             "2:10": {
               "Count:3": 16,
-              "Damage:2": 0,
-              "OreDict:8": "",
               "id:8": "gregtech:wire_coil"
             },
             "3:10": {
               "Count:3": 1,
               "Damage:2": 1151,
-              "OreDict:8": "",
               "id:8": "gregtech:machine"
             },
             "4:10": {
               "Count:3": 1,
               "Damage:2": 1166,
-              "OreDict:8": "",
               "id:8": "gregtech:machine"
             },
             "5:10": {
               "Count:3": 1,
               "Damage:2": 1181,
-              "OreDict:8": "",
               "id:8": "gregtech:machine"
             },
             "6:10": {
               "Count:3": 1,
               "Damage:2": 1196,
-              "OreDict:8": "",
               "id:8": "gregtech:machine"
             },
             "7:10": {
               "Count:3": 1,
               "Damage:2": 1211,
-              "OreDict:8": "",
               "id:8": "gregtech:machine"
             },
             "8:10": {
@@ -1382,13 +1356,6 @@
           "lockedprogress:1": 1,
           "name:8": "Steam Dynamo",
           "partysinglereward:1": 0,
-          "questlogic:8": "AND",
-          "repeat_relative:1": 1,
-          "repeattime:3": -1,
-          "simultaneous:1": 0,
-          "snd_complete:8": "minecraft:entity.player.levelup",
-          "snd_update:8": "minecraft:entity.player.levelup",
-          "tasklogic:8": "AND",
           "visibility:8": "CHAIN"
         }
       },
@@ -1407,10 +1374,6 @@
       },
       "tasks:9": {
         "0:10": {
-          "autoConsume:1": 0,
-          "consume:1": 0,
-          "entryLogic:8": "AND",
-          "groupDetect:1": 0,
           "ignoreNBT:1": 1,
           "index:3": 0,
           "requiredItems:9": {
@@ -3055,7 +3018,6 @@
             "1:10": {
               "Count:3": 9,
               "Damage:2": 2,
-              "OreDict:8": "",
               "id:8": "gregtech:metal_casing"
             },
             "2:10": {
@@ -7101,36 +7063,20 @@
       }
     },
     "149:10": {
-      "preRequisites:11": [],
       "properties:10": {
         "betterquesting:10": {
-          "autoclaim:1": 0,
           "desc:8": "Unused Gap Quest. Prevents Overriding Of IDs.",
-          "globalshare:1": 0,
           "icon:10": {
             "Count:3": 0,
-            "Damage:2": 0,
-            "OreDict:8": "",
             "id:8": "minecraft:air"
           },
-          "ignoresview:1": 0,
-          "ismain:1": 0,
           "issilent:1": 1,
-          "lockedprogress:1": 0,
           "name:8": "Gap",
           "partysinglereward:1": 0,
-          "questlogic:8": "AND",
-          "repeat_relative:1": 1,
-          "repeattime:3": -1,
-          "simultaneous:1": 0,
-          "snd_complete:8": "minecraft:entity.player.levelup",
-          "snd_update:8": "minecraft:entity.player.levelup",
-          "tasklogic:8": "AND",
           "visibility:8": "HIDDEN"
         }
       },
       "questID:3": 149,
-      "rewards:9": {},
       "tasks:9": {
         "0:10": {
           "index:3": 0,
@@ -21700,7 +21646,6 @@
             "1:10": {
               "Count:3": 13,
               "Damage:2": 9,
-              "OreDict:8": "",
               "id:8": "gcym:large_multiblock_casing"
             },
             "2:10": {
@@ -21750,8 +21695,6 @@
             },
             "3:10": {
               "Count:3": 3,
-              "Damage:2": 0,
-              "OreDict:8": "",
               "id:8": "gregtech:meta_block_compressed_27"
             },
             "4:10": {
@@ -21761,13 +21704,11 @@
             "5:10": {
               "Count:3": 16,
               "Damage:2": 1,
-              "OreDict:8": "",
               "id:8": "gregtech:transparent_casing"
             },
             "6:10": {
               "Count:3": 1,
               "Damage:2": 1253,
-              "OreDict:8": "",
               "id:8": "gregtech:machine"
             }
           },
@@ -37589,15 +37530,13 @@
       "properties:10": {
         "betterquesting:10": {
           "desc:8": "A mixture of Clay and Brick produces large quantities of §6Firebricks§r, used in building the §3Primitive Blast Furnace§r. This allows you to make §6Steel§r from §6Wrought Iron§r (or with §6Iron§r, but its slower), which §2forms the basis of LV Machine Hulls§r, and allows you to make §6Belt Pouches§r, for upgrading your §eTool Belt§r.\n\n§eMultiblocks, like the Primitive Blast Furnace, can share blocks! For example, if you build another Primitive Blast Furnace, you can share the wall between them!§r\n\nA diagram of how to build this structure is in §bJEI§r. You can also §6sneak-right click§r the controller to enable the in-world preview.\n\nThe §3PBF§r has been changed to be blazing fast - just 20 seconds per §6Steel Ingot§r! You will still want to keep it running, as you won\u0027t stop needing Steel.",
+          "frame:8": "GATE",
           "icon:10": {
             "Count:3": 1,
             "Damage:2": 1000,
             "id:8": "gregtech:machine"
           },
-          "ignoresview:1": 0,
           "ismain:1": 1,
-          "issilent:1": 0,
-          "lockedprogress:1": 0,
           "name:8": "§2Primitive Steelworks§r",
           "visibility:8": "UNLOCKED"
         }
@@ -40796,19 +40735,7 @@
             "Damage:2": 667,
             "id:8": "gregtech:machine"
           },
-          "ignoresview:1": 0,
-          "ismain:1": 0,
-          "issilent:1": 0,
-          "lockedprogress:1": 0,
-          "name:8": "§2HV碎岩机§r",
-          "questlogic:8": "AND",
-          "repeat_relative:1": 1,
-          "repeattime:3": -1,
-          "simultaneous:1": 0,
-          "snd_complete:8": "minecraft:entity.player.levelup",
-          "snd_update:8": "minecraft:entity.player.levelup",
-          "tasklogic:8": "AND",
-          "visibility:8": "ALWAYS"
+          "name:8": "§2HV碎岩机§r"
         }
       },
       "questID:3": 1013,
@@ -40849,7 +40776,6 @@
           "icon:10": {
             "Count:3": 1,
             "Damage:2": 2019,
-            "OreDict:8": "",
             "id:8": "gregtech:meta_dust"
           },
           "name:8": "§2黑花岗岩的处理§r"
@@ -42711,19 +42637,7 @@
             "Damage:2": 920,
             "id:8": "gregtech:machine"
           },
-          "ignoresview:1": 0,
-          "ismain:1": 0,
-          "issilent:1": 0,
-          "lockedprogress:1": 0,
-          "name:8": "§2Automatic Mining§r",
-          "questlogic:8": "AND",
-          "repeat_relative:1": 1,
-          "repeattime:3": -1,
-          "simultaneous:1": 0,
-          "snd_complete:8": "minecraft:entity.player.levelup",
-          "snd_update:8": "minecraft:entity.player.levelup",
-          "tasklogic:8": "AND",
-          "visibility:8": "ALWAYS"
+          "name:8": "§2Automatic Mining§r"
         }
       },
       "questID:3": 1050,
@@ -44036,11 +43950,6 @@
       },
       "tasks:9": {
         "0:10": {
-          "autoConsume:1": 0,
-          "consume:1": 0,
-          "entryLogic:8": "AND",
-          "groupDetect:1": 0,
-          "ignoreNBT:1": 0,
           "index:3": 1,
           "requiredItems:9": {
             "0:10": {
@@ -44058,27 +43967,12 @@
       ],
       "properties:10": {
         "betterquesting:10": {
-          "autoclaim:1": 0,
           "desc:8": "This electrifying coil gives permanent §dNight Vision§r when worn as a hat. Truly the height of fashion.\n\nNo side effects, no catch. Although you also need this for your §3Steam Dynamo§r...",
-          "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
-            "Damage:2": 0,
-            "OreDict:8": "",
             "id:8": "nomilabs:excitationcoil"
           },
-          "ignoresview:1": 0,
-          "ismain:1": 0,
-          "issilent:1": 0,
-          "lockedprogress:1": 0,
           "name:8": "Excitation Coil",
-          "questlogic:8": "AND",
-          "repeat_relative:1": 1,
-          "repeattime:3": -1,
-          "simultaneous:1": 0,
-          "snd_complete:8": "minecraft:entity.player.levelup",
-          "snd_update:8": "minecraft:entity.player.levelup",
-          "tasklogic:8": "AND",
           "visibility:8": "CHAIN"
         }
       },
@@ -44090,8 +43984,6 @@
           "rewards:9": {
             "0:10": {
               "Count:3": 1,
-              "Damage:2": 0,
-              "OreDict:8": "",
               "id:8": "minecraft:golden_carrot",
               "tag:10": {
                 "display:10": {
@@ -44104,18 +43996,10 @@
       },
       "tasks:9": {
         "0:10": {
-          "autoConsume:1": 0,
-          "consume:1": 0,
-          "entryLogic:8": "AND",
-          "groupDetect:1": 0,
-          "ignoreNBT:1": 0,
           "index:3": 0,
-          "partialMatch:1": 1,
           "requiredItems:9": {
             "0:10": {
               "Count:3": 1,
-              "Damage:2": 0,
-              "OreDict:8": "",
               "id:8": "nomilabs:excitationcoil"
             }
           },
@@ -44129,45 +44013,23 @@
       ],
       "properties:10": {
         "betterquesting:10": {
-          "autoclaim:1": 0,
           "desc:8": "§oThis quest accepts ULV or LV Conveyor Modules.§r\n\nYou will need to route a LOT of things through your machines in the future, so its worth setting up some basic automation to make handling §emass inputs§r easier.\n\nFor this, you will need §6Conveyors§r; the ULV ones are fairly cheap, although LV and higher ones offer higher transfer speeds.\n\nYou will also need two storage containers. At least one of them must be openable with a block on top, such as an §bActually Additions §6Storage Crate§r.\n\n§aRight-click§r the target machine with a §eWrench§r to change the output side; set it to below the machine. In the machine GUI, enable auto-output in the bottom-left corner.\n\nNow, place the conveyor, as a cover, on the top face of the machine. Use a §eScrewdriver§r to configure it to \u0027Import\u0027.\n\nFinally, place your storage containers, one directly below the machine, and one directly above. Simply place your inputs in the top container, and outputs will appear in the bottom!\n\nIf your machines process the inputs too fast, upgrade the conveyor!",
-          "globalshare:1": 0,
+          "frame:8": "GATE",
           "icon:10": {
             "Count:3": 1,
-            "Damage:2": 0,
-            "OreDict:8": "",
             "id:8": "ulv_covers:ulv_cover_meta_item"
           },
-          "ignoresview:1": 0,
           "ismain:1": 1,
-          "issilent:1": 0,
-          "lockedprogress:1": 0,
-          "name:8": "Basic Machine Automation",
-          "questlogic:8": "AND",
-          "repeat_relative:1": 1,
-          "repeattime:3": -1,
-          "simultaneous:1": 0,
-          "snd_complete:8": "minecraft:entity.player.levelup",
-          "snd_update:8": "minecraft:entity.player.levelup",
-          "tasklogic:8": "AND",
-          "visibility:8": "ALWAYS"
+          "name:8": "Basic Machine Automation"
         }
       },
       "questID:3": 1083,
-      "rewards:9": {},
       "tasks:9": {
         "0:10": {
-          "autoConsume:1": 0,
-          "consume:1": 0,
-          "entryLogic:8": "AND",
-          "groupDetect:1": 0,
-          "ignoreNBT:1": 0,
           "index:3": 0,
-          "partialMatch:1": 1,
           "requiredItems:9": {
             "0:10": {
               "Count:3": 1,
-              "Damage:2": 0,
               "OreDict:8": "questbookConveyor",
               "id:8": "ulv_covers:ulv_cover_meta_item"
             }
@@ -44182,27 +44044,15 @@
       ],
       "properties:10": {
         "betterquesting:10": {
-          "autoclaim:1": 0,
           "desc:8": "You will be handling many different fluids, from §9Water§r and §9Steam§r to §9Lava§r. Some of these you might want to store, and others are collected from in-world.\n\nFor fluid collection, §bGregTech §6Cells§r is your best friend. Offering much more storage per item than a bucket, and being stackable, these allow for quick collection of in-world fluids, like Water and Lava. These come in many tiers, but currently, you can make §6Basic§r and §6Bronze§r cells.\n\nFor fluid storage, you have many choices, but currently, you can only use §bEnderIO §6Portable Tanks§r, §bGregTech §6Drums§r or §bGregTech §6Wooden Barrels§r. Portable Tanks provide less storage, but are cheaper, and don\u0027t have restrictions on fluid temeprature and type. Drums are available in multiple sizes, and allow for §aauto-output§r on the bottom side (use a §eScrewdriver§r to toggle).\n\n§aNote the restrictions on fluid temperature and fluid type for Cells, Barrels and Drums!\n\n§dNomi-CEu§r has another special feature: crafting recipes involving filled buckets can use §aany fluid container§r. Remember this when mass-crafting §6Water Sources§r or §6Cobblestone Generators§r. It can save you a lot of fiddling!\n\n§aIn such recipes, only the fluid inside the container is consumed; not the container itself.§r",
-          "globalshare:1": 0,
+          "frame:8": "GATE",
           "icon:10": {
             "Count:3": 1,
             "Damage:2": 78,
-            "OreDict:8": "",
             "id:8": "gregtech:meta_item_1"
           },
-          "ignoresview:1": 0,
           "ismain:1": 1,
-          "issilent:1": 0,
-          "lockedprogress:1": 0,
           "name:8": "§2Managing Fluids§r",
-          "questlogic:8": "AND",
-          "repeat_relative:1": 1,
-          "repeattime:3": -1,
-          "simultaneous:1": 0,
-          "snd_complete:8": "minecraft:entity.player.levelup",
-          "snd_update:8": "minecraft:entity.player.levelup",
-          "tasklogic:8": "AND",
           "visibility:8": "UNLOCKED"
         }
       },
@@ -44214,14 +44064,11 @@
           "rewards:9": {
             "0:10": {
               "Count:3": 1,
-              "Damage:2": 0,
-              "OreDict:8": "",
               "id:8": "nomilabs:meta_item"
             },
             "1:10": {
               "Count:3": 1,
               "Damage:2": 1611,
-              "OreDict:8": "",
               "id:8": "gregtech:machine"
             }
           }
