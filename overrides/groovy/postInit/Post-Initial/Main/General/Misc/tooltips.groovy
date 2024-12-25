@@ -1,6 +1,8 @@
 // SIDE: CLIENT
 // ^ Script only runs Client-Side
 
+import net.minecraftforge.fml.common.Loader
+
 import appeng.core.AEConfig
 import appeng.core.features.AEFeature
 import com.nomiceu.nomilabs.config.LabsConfig
@@ -94,12 +96,14 @@ addTooltip(item('advancedrocketry:lens'), translatable('nomiceu.tooltip.advanced
 /* AE2 & NAE2 */
 
 // AE2 Wireless Crafting Terminal (Old Deprecated Items)
-for (ItemStack deprecated : [item('ae2wtlib:infinity_booster_card'), item('wct:wct'), item('wct:magnet_card')]) {
-	addTooltip(deprecated, [
-	    translatable('nomiceu.tooltip.ae2.crafting_terminal_removal.1'),
-		translatable('nomiceu.tooltip.ae2.crafting_terminal_removal.2'),
-		translatable('nomiceu.tooltip.ae2.crafting_terminal_removal.3'),
-	])
+if (Loader.isModLoaded('ae2wtlib') && Loader.isModLoaded('wct')) {
+	for (ItemStack deprecated : [item('ae2wtlib:infinity_booster_card'), item('wct:wct'), item('wct:magnet_card')]) {
+		addTooltip(deprecated, [
+			translatable('nomiceu.tooltip.ae2.crafting_terminal_removal.1'),
+			translatable('nomiceu.tooltip.ae2.crafting_terminal_removal.2'),
+			translatable('nomiceu.tooltip.ae2.crafting_terminal_removal.3'),
+		])
+	}
 }
 
 // Quantum Link Card

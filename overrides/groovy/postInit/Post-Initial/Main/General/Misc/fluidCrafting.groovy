@@ -7,6 +7,7 @@ import net.minecraftforge.fluids.FluidStack
 import net.minecraftforge.fluids.FluidUtil
 import net.minecraftforge.fluids.capability.CapabilityFluidHandler
 import net.minecraftforge.fluids.capability.IFluidHandlerItem
+import net.minecraftforge.fml.common.Loader
 
 import static com.nomiceu.nomilabs.util.LabsTranslate.Translatable
 import static com.nomiceu.nomilabs.groovy.GroovyHelpers.TranslationHelpers.translate
@@ -70,12 +71,14 @@ crafting.shapelessBuilder()
 	.register()
 
 // Little Tiles Water
-crafting.shapelessBuilder()
-	.output(item('littletiles:lttransparentcoloredblock', 5) * 2)
-	.input(fluidIng(fluid('water')), fluidIng(fluid('water')))
-	.setInputTooltip(0, IngredientFluidBucket.getInputTooltip(fluid('water')))
-	.setInputTooltip(1, IngredientFluidBucket.getInputTooltip(fluid('water')))
-	.replace().register()
+if (Loader.isModLoaded('littletiles')) {
+    crafting.shapelessBuilder()
+        .output(item('littletiles:lttransparentcoloredblock', 5) * 2)
+        .input(fluidIng(fluid('water')), fluidIng(fluid('water')))
+        .setInputTooltip(0, IngredientFluidBucket.getInputTooltip(fluid('water')))
+        .setInputTooltip(1, IngredientFluidBucket.getInputTooltip(fluid('water')))
+        .replace().register()
+}
 
 // Waterstone
 crafting.shapedBuilder()
@@ -157,11 +160,13 @@ if (LabsModeHelper.expert) {
 /* Lava Bucket */
 
 // Little Tiles Lava
-crafting.shapelessBuilder()
-	.output(item('littletiles:ltcoloredblock', 12))
-	.input(fluidIng(fluid('lava')))
-	.setInputTooltip(4, IngredientFluidBucket.getInputTooltip(fluid('lava')))
-	.replace().register()
+if (Loader.isModLoaded('littletiles')) {
+    crafting.shapelessBuilder()
+        .output(item('littletiles:ltcoloredblock', 12))
+        .input(fluidIng(fluid('lava')))
+        .setInputTooltip(4, IngredientFluidBucket.getInputTooltip(fluid('lava')))
+        .replace().register()
+}
 
 // Lavastone
 crafting.shapedBuilder()
@@ -200,18 +205,20 @@ crafting.shapedBuilder()
 /* Milk Bucket */
 
 // White Water
-crafting.shapelessBuilder()
-	.output(item('littletiles:lttransparentcoloredblock', 6))
-	.input(fluidIng(fluid('milk')), item('littletiles:lttransparentcoloredblock', 5))
-	.setInputTooltip(0, IngredientFluidBucket.getInputTooltip(fluid('milk')))
-	.replace().register()
+if (Loader.isModLoaded('littletiles')) {
+    crafting.shapelessBuilder()
+        .output(item('littletiles:lttransparentcoloredblock', 6))
+        .input(fluidIng(fluid('milk')), item('littletiles:lttransparentcoloredblock', 5))
+        .setInputTooltip(0, IngredientFluidBucket.getInputTooltip(fluid('milk')))
+        .replace().register()
 
-// White Lava
-crafting.shapelessBuilder()
-	.output(item('littletiles:ltcoloredblock', 14))
-	.input(fluidIng(fluid('milk')), item('littletiles:ltcoloredblock', 12))
-	.setInputTooltip(0, IngredientFluidBucket.getInputTooltip(fluid('milk')))
-	.replace().register()
+    // White Lava
+    crafting.shapelessBuilder()
+        .output(item('littletiles:ltcoloredblock', 14))
+        .input(fluidIng(fluid('milk')), item('littletiles:ltcoloredblock', 12))
+        .setInputTooltip(0, IngredientFluidBucket.getInputTooltip(fluid('milk')))
+        .replace().register()
+}
 
 // Pet Mob Filter
 crafting.remove('darkutils:filter_pet')
