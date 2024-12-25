@@ -2643,13 +2643,6 @@ recipes.addShapeless(<metaitem:ingotRedAlloy>, [<enderio:item_alloy_ingot:3>]);
 <ore:questbookParallelControlHatch>.add(<metaitem:gcym:parallel_hatch.zpm>);
 <ore:questbookParallelControlHatch>.add(<metaitem:gcym:parallel_hatch.uv>);
 
-<ore:questbookSteamBoiler>.add(<gregtech:machine:1>);
-<ore:questbookSteamBoiler>.add(<gregtech:machine:2>);
-<ore:questbookSteamBoiler>.add(<gregtech:machine:3>);
-<ore:questbookSteamBoiler>.add(<gregtech:machine:4>);
-<ore:questbookSteamBoiler>.add(<gregtech:machine:5>);
-<ore:questbookSteamBoiler>.add(<gregtech:machine:6>);
-
 //<ore:questbookFluidExtractor>.add(<meta_tile_entity:fluid_extractor.lv>); // LV Fluid Extractor
 //<ore:questbookFluidExtractor>.add(<meta_tile_entity:fluid_extractor.mv>); // MV Fluid Extractor
 //<ore:questbookFluidExtractor>.add(<meta_tile_entity:fluid_extractor.hv>); // HV Fluid Extractor
@@ -2683,10 +2676,6 @@ recipes.addShapeless(<metaitem:ingotRedAlloy>, [<enderio:item_alloy_ingot:3>]);
 
 <ore:questbookLathe>.add(<metaitem:lathe.lv>);
 <ore:questbookLathe>.add(<metaitem:lathe.mv>);
-
-<ore:questbookSingleMiner>.add(<metaitem:miner.lv>);
-<ore:questbookSingleMiner>.add(<metaitem:miner.mv>);
-<ore:questbookSingleMiner>.add(<metaitem:miner.hv>);
 
 <ore:questbookAutoclave>.add(<metaitem:autoclave.lv>);
 <ore:questbookAutoclave>.add(<metaitem:autoclave.mv>);
