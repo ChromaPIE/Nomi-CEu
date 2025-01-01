@@ -3036,17 +3036,17 @@
             },
             "5:10": {
               "Count:3": 1,
-              "Damage:2": 1166,
+              "Damage:2": 1151,
               "id:8": "gregtech:machine"
             },
             "6:10": {
               "Count:3": 1,
-              "Damage:2": 1181,
+              "Damage:2": 1166,
               "id:8": "gregtech:machine"
             },
             "7:10": {
               "Count:3": 1,
-              "Damage:2": 1196,
+              "Damage:2": 1181,
               "id:8": "gregtech:machine"
             },
             "8:10": {
@@ -10253,7 +10253,7 @@
       ],
       "properties:10": {
         "betterquesting:10": {
-          "desc:8": "在基地四处零星放上一些，随心穿梭于各个节点！\n\n类似功能的装置还包括§bEnderIO§r的§6传送台§r和§b龙之进化§r的§6异象移位符§r，以及§aFTB的Home相关命令§r，任你挑选！",
+          "desc:8": "在基地四处零星放上一些，随心穿梭于各个节点！",
           "frame:8": "GATE",
           "icon:10": {
             "Count:3": 1,
@@ -21693,8 +21693,7 @@
             },
             "5:10": {
               "Count:3": 12,
-              "Damage:2": 1,
-              "id:8": "gregtech:transparent_casing"
+              "id:8": "appliedenergistics2:spatial_pylon"
             },
             "6:10": {
               "Count:3": 1,
@@ -21728,7 +21727,8 @@
             },
             "4:10": {
               "Count:3": 16,
-              "id:8": "appliedenergistics2:spatial_pylon"
+              "Damage:2": 1,
+              "id:8": "gregtech:transparent_casing"
             },
             "5:10": {
               "Count:3": 16,
@@ -31263,7 +31263,7 @@
       ],
       "properties:10": {
         "betterquesting:10": {
-          "desc:8": "Now that you have §einterdimensional teleportation§r, you can travel to and from the Moon without launching a rocket each way.",
+          "desc:8": "Now that you have §einterdimensional teleportation§r, you can travel to and from the Moon without launching a rocket each way.\n\nWhether you do this by §asetting FTB Homes§r, through §bEnderIO §6Telepads§r, or §bDraconic Evolution §6Dislocators§r is up to you!",
           "frame:8": "GATE",
           "icon:10": {
             "Count:3": 1,
@@ -40974,7 +40974,7 @@
       ],
       "properties:10": {
         "betterquesting:10": {
-          "desc:8": "想要让无线终端真正变得跟手机一样掏出来就能用，代价不菲，但绝对划算。\n\n首先，你需要搭建一个§a量子网桥§r。用§6ME量子环§r搭一个3x3的环型，留空的中央位置放上§6ME量子链接仓§r。如果观察到量子环的外形变得块与块相连没有缝隙，说明搭建正确，已构成有效的§a多方块结构§r，此时将其连入网络即可。\n\n拿两个奇点外加一张§6高级卡§r，放进§3压印器§r或§3高级压印器§r，可获得§6量子链接卡§r。最后，将链接卡插入§a量子网桥§r中央的§6量子链接仓§r。§c注意：是插入链接仓，不是无线终端！§r\n\n现在，只需将量子环接入AE2网络即可！但别忘了结构中§c只有模型稍大的四块量子环能建立连接§r。\n\n万事俱备！你的无线终端哪儿都能用了。对，别的维度也能用！\n\n如果你还在亲手给终端充电……可以去§a游戏中期§r任务线中的§a无线充能§r相关支线任务中瞧一瞧！",
+          "desc:8": "想要让无线终端真正变得跟手机一样掏出来就能用，代价不菲，但绝对划算。\n\n首先，你需要搭建一个§a量子网桥§r。用§6ME量子环§r搭一个3x3的环型，留空的中央位置放上§6ME量子链接仓§r。如果观察到量子环的外形变得块与块相连没有缝隙，说明搭建正确，已构成有效的§a多方块结构§r，此时将其连入网络即可。\n\n拿两个奇点外加一张§6高级卡§r，放进§3压印器§r或§3高级压印器§r，可获得§6量子链接卡§r。最后，将链接卡插入§a量子网桥§r中央的§6量子链接仓§r。§c注意：是插入链接仓，不是无线终端！§r\n\n现在，只需将量子环接入AE2网络即可！但别忘了结构中§c只有模型稍大的四块量子环能建立连接§r。\n\n万事俱备！你的无线终端哪儿都能用了。对，别的维度也能用！\n\n如果你还在亲手给终端充电……去§a游戏中期§r任务线中的§a无线充能§r支线任务中瞧瞧吧！",
           "icon:10": {
             "Count:3": 1,
             "Damage:2": 59,
@@ -44174,6 +44174,65 @@
               "Count:3": 1,
               "OreDict:8": "itemQuartzKnife",
               "id:8": "appliedenergistics2:nether_quartz_cutting_knife"
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      }
+    },
+    "1086:10": {
+      "preRequisiteTypes:7": [
+        1,
+        1
+      ],
+      "preRequisites:11": [
+        390,
+        542
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "desc:8": "You don\u0027t want to keep sticking your §6Flux Capacitor§r into a charger? You want §eWireless Charging§r?\n\nWell, you have two options: a §3Energetic Infuser§r with a §6Parabolic Flux Coupling§r augment, from §bThermal Expansion§r, or a §6Wireless Antenna§r from §bEnderIO§r.\n\n§6Parabolic Flux Coupling§r charges §6Flux Capacitors§r in your inventory, up to §a32 blocks away§r from the infuser. It can charge your capacitors at 1/10th the max charge speed (e.g. 9k RF/t for reinforced, 16k RF/t for signalum, and 25k RF/t for resonant), but it can only charge one capacitor, per player, at a time.\n\n§6Wireless Antenna§r charges any item in your inventory, up to §a24 blocks away§r. When you unlock §6Trinium Coils§r and §6Dark Soularium§r, you can upgrade this to a §6Enhanced Wireless Antenna§r, which has a range of 64 blocks, and even add §6Wireless Antenna Extensions§r to each side, increasing the range to a whopping 192 blocks. However, the transfer speed is limited to 10k RF/t per player.\n\n§cNote that the Wireless Antenna only accepts energy from the bottom.§r\n\nPick your poison: more transfer speed, or more range? Of course, you could use both, but do you really need that much power?",
+          "icon:10": {
+            "Count:3": 1,
+            "Damage:2": 402,
+            "id:8": "thermalexpansion:augment"
+          },
+          "name:8": "Wireless Charging",
+          "questlogic:8": "OR",
+          "tasklogic:8": "OR"
+        }
+      },
+      "questID:3": 1086,
+      "rewards:9": {
+        "0:10": {
+          "index:3": 0,
+          "rewardID:8": "bq_standard:item",
+          "rewards:9": {
+            "0:10": {
+              "Count:3": 1,
+              "id:8": "nomilabs:nomicoin25"
+            }
+          }
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "index:3": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "Count:3": 1,
+              "Damage:2": 402,
+              "id:8": "thermalexpansion:augment"
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        },
+        "1:10": {
+          "index:3": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "Count:3": 1,
+              "id:8": "enderio:block_normal_wireless_charger"
             }
           },
           "taskID:8": "bq_standard:retrieval"
@@ -49565,8 +49624,8 @@
           "id:3": 1075,
           "sizeX:3": 24,
           "sizeY:3": 24,
-          "x:3": 12,
-          "y:3": 64
+          "x:3": -36,
+          "y:3": 96
         },
         "64:10": {
           "id:3": 1080,
