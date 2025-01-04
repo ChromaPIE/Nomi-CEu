@@ -42012,7 +42012,7 @@
       ],
       "properties:10": {
         "betterquesting:10": {
-          "desc:8": "The §3High Performance Computing Array (HPCA)§r is a computer which provides §dComputation Work§r to be used in the §3Research Station§r. The amount of §dComputation Work§r it provides depends on the type of HPCA parts within it. It also needs to receive adequate §dCooling§r provided by Coolers within its structure.\n\nConnect the §3Computation Data Transmission Hatch§r to the §3Reception Hatch§r on your §3Research Station§r to transfer the §dCWU/t§r produced to it.\n\nThe HPCA accepts almost any combination of §3Computation Components§r, §3Coolers§r, §3Bridges§r and §3Empty Components§r within the 3x3 area behind the §aComputer Heat Vents§r. The suggested components will build a §d16 CWU/t§r HPCA, enough for scanning the §3Fusion Reactor Mk2§r, §6UV Circuits§r, and all §6ZPM Components§r. You can get away with less at first, but you will eventually need to upgrade to this computing power. Refer to §eJEI§r for some other possible setups.\n\nThe §dCWU/t§r of the HPCA is determined by the sum of the outputs of the §3HPCA Computation Components§r within it. Regular §3Computation Components§r produce §d4 CWU/t§r each, and require §d2 Cooling§r each. §3Advanced Computation Components§r, which you do not have access to yet, produce §d16 CWU/t§r each and require §d4 Cooling§r each, and a fully upgraded HPCA can produce up to §d36 CWU/t§r.\n\n§dCooling§r is provided by §3Cooler§r blocks within the structure. §3Passive Coolers§r provide §d1 Cooling§r each for free, whereas §3Active Coolers§r provide §d2 Cooling§r each with a steady flow of §9Dielectric PCB Coolant§r, provided through an §3Input Hatch§r. If the Cooling within the HPCA is insufficient, the components may be §cdamaged§r from overheating. The physical position of the components within the HPCA does not matter.\n\nA §3Bridge Component§r may be installed, allowing the HPCA to connect to §3Network Switches§r.\n\nThe energy consumption of the HPCA is determined by the sum of its parts. \u0027Max Energy\u0027 refers to the power draw while the HPCA is computing, while \u0027Upkeep Energy\u0027 refers to the power draw when the HPCA is idling.",
+          "desc:8": "§3高性能运算阵列§r，简称§3HPCA§r（High Performance Computing Array）是一种能够为§3研究站§r执行§d运算作业§r的计算机。其结构中包含的HPCA组件决定了它能够提供的§d运算作业§r量。同时为了保证散热，散热器也必不可少。\n\n将§3算力数据传输仓§r连接至§3研究站§r的§3算力数据接收仓§r来传输§dCWU/t§r。\n\nHPCA结构中§a计算机散热口§r后方的3x3区域内可几乎不设限制地组合布置§3运算组件§r、§3散热器§r、§3桥接组件§r或是§3组件空壳§r。本任务要求中的组件可构成一台提供§d16 CWU/t§r的HPCA，足以支持§3二型聚变反应堆控制电脑§r、§6UV电路§r和所有§6ZPM机器构件§r的扫描任务。少做几个组件先将就一下无妨，但到头来你还是需要弥补算力上的缺口。可以在§eJEI§r中查阅其他可行的布置方案。\n\nHPCA的§dCWU/t§r取决于结构中所有§3HPCA运算组件§r的算力总和。每个常规的§3运算组件§r可提供§d4 CWU/t§r，并要求§d2个冷却单位§r；而对于目前暂时无法制造的§3高级HPCA运算组件§r，算力将飙升至§d16 CWU/t§r，要求§d4个冷却单位§r。单台HPCA的满配算力最高为§d36 CWU/t§r。\n\n§d冷却单位§r来自结构中的§3散热器§r。§3HPCA散热组件§r属于无消耗的被动散热器，每个可免费提供§d1个冷却单位§r，而§3HPCA主动冷却组件§r则可提供§d2个冷却单位§r，但需要在机身上加装§3输入仓§r来稳定供给§9非传导性多氯联苯冷却剂§r。若整体的冷却性能不足，组件将因过热而§c受损§r。上述的冷却机制只考虑组件数量而非实际布局，故不会对摆放位置造成限制。\n\n在结构中加装§3桥接组件§r将允许HPCA接入§3网络交换机§r。\n\n组件总数决定HPCA的能耗。“最大耗能”指HPCA进行运算时的耗能功率，\"待机耗能\"顾名思义，指HPCA在待机状态下的能耗。",
           "frame:8": "GATE",
           "icon:10": {
             "Count:3": 1,
@@ -42020,7 +42020,7 @@
             "id:8": "gregtech:machine"
           },
           "ismain:1": 1,
-          "name:8": "§2High Performance Computing Array§r"
+          "name:8": "§2高性能运算阵列§r"
         }
       },
       "questID:3": 1036,
