@@ -16,6 +16,9 @@ mods.jei.ingredient.hide(item('advancedrocketry:crystal:*')) // Random Crystal B
 // Armor Plus
 mods.jei.ingredient.hide(item('armorplus:block_melting_obsidian')) // Null Texture Item
 
+// NuclearCraft
+mods.jei.ingredient.removeAndHide(item('nuclearcraft:block_depleted_uranium'))
+
 // Nomi Labs
 if (LabsModeHelper.expert) {
 	mods.jei.ingredient.hide(item('nomilabs:impossiblerealmdata'))

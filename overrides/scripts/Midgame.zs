@@ -54,10 +54,6 @@ chemical_reactor.recipeBuilder().inputs(<actuallyadditions:item_misc:24>).fluidI
 macerator.recipeBuilder().inputs([<advancedrocketry:moonturf>]).outputs([<nomilabs:moondust>]).duration(200).EUt(400).buildAndRegister();
 macerator.recipeBuilder().inputs([<advancedrocketry:moonturf_dark>]).outputs([<nomilabs:moondust>]).duration(200).EUt(400).buildAndRegister();
 
-macerator.recipeBuilder().inputs([<thermalfoundation:material:2048>]).outputs([<thermalfoundation:material:2049> * 4]).duration(200).EUt(16).buildAndRegister();
-macerator.recipeBuilder().inputs([<thermalfoundation:material:2050>]).outputs([<thermalfoundation:material:2051> * 4]).duration(200).EUt(16).buildAndRegister();
-macerator.recipeBuilder().inputs([<thermalfoundation:material:2052>]).outputs([<thermalfoundation:material:2053> * 4]).duration(200).EUt(16).buildAndRegister();
-
 centrifuge.findRecipe(20, [], [<liquid:hydrogen> * 160]).remove();
 centrifuge.recipeBuilder().fluidInputs(<liquid:hydrogen> * 500).fluidOutputs([<liquid:deuterium> * 10]).duration(800).EUt(30).buildAndRegister();
 centrifuge.recipeBuilder().inputs(<nomilabs:moondust>).fluidOutputs([<liquid:deuterium> * 100]).duration(200).EUt(20).buildAndRegister();
@@ -122,27 +118,6 @@ centrifuge.recipeBuilder()
 	.chancedOutput(<metaitem:dustTinyPlatinum>, 5000, 2000)
 	.duration(40)
 	.EUt(1280)
-	.buildAndRegister();
-
-// Black Granite Dust * 1
-<recipemap:macerator>.findRecipe(2, [<gregtech:stone_smooth:0>], null).remove();
-macerator.recipeBuilder()
-	.inputs([<gregtech:stone_smooth:0>])
-	.outputs([<metaitem:dustGraniteBlack>])
-	.chancedOutput(<metaitem:dustThorium>, 100, 700)
-	.duration(150)
-	.EUt(2)
-	.buildAndRegister();
-
-// Granite Dust * 1
-<recipemap:macerator>.findRecipe(2, [<minecraft:stone:1>], null).remove();
-macerator.recipeBuilder()
-	.inputs([<minecraft:stone:1>])
-	.outputs([<metaitem:dustGranite>])
-	.chancedOutput(<metaitem:dustSmallStone>, 100, 40)
-	.chancedOutput(<metaitem:dustThorium>, 100, 500)
-	.duration(150)
-	.EUt(2)
 	.buildAndRegister();
 
 canner.recipeBuilder()
