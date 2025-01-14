@@ -8,6 +8,7 @@ import gregtech.api.recipes.ingredients.GTRecipeOreInput
 import gregtech.api.unification.OreDictUnifier
 import net.minecraft.item.ItemStack
 import net.minecraftforge.fluids.FluidStack
+import net.minecraftforge.fml.common.Loader
 
 import static com.nomiceu.nomilabs.groovy.GroovyHelpers.TooltipHelpers.addTooltip
 import static com.nomiceu.nomilabs.groovy.GroovyHelpers.TranslationHelpers.translatable
@@ -30,27 +31,29 @@ var conversion = { ItemStack old, ItemStack curr ->
 		.register()
 }
 
-// Deprecate Old Wireless Crafting Terminal and Upgrades
-mods.jei.ingredient.removeAndHide(item('wct:magnet_card'))
-conversion(item('wct:magnet_card'), item('appliedenergistics2:material', 60))
+if (Loader.isModLoaded('ae2wtlib') && Loader.isModLoaded('wct')) {
+	// Deprecate Old Wireless Crafting Terminal and Upgrades
+	mods.jei.ingredient.removeAndHide(item('wct:magnet_card'))
+	conversion(item('wct:magnet_card'), item('appliedenergistics2:material', 60))
 
-mods.jei.ingredient.removeAndHide(item('ae2wtlib:infinity_booster_card'))
-conversion(item('ae2wtlib:infinity_booster_card'), item('appliedenergistics2:material', 59))
+	mods.jei.ingredient.removeAndHide(item('ae2wtlib:infinity_booster_card'))
+	conversion(item('ae2wtlib:infinity_booster_card'), item('appliedenergistics2:material', 59))
 
-mods.jei.ingredient.removeAndHide(item('wct:wct'))
-conversion(item('wct:wct'), item('appliedenergistics2:material', 58))
+	mods.jei.ingredient.removeAndHide(item('wct:wct'))
+	conversion(item('wct:wct'), item('appliedenergistics2:material', 58))
 
-// Old Wireless Terminal Tooltips
-for (var stack : [item('ae2wtlib:infinity_booster_card'), item('wct:wct'), item('wct:magnet_card')]) {
-	addTooltip(stack, [
-		translatable('nomiceu.tooltip.ae2.crafting_terminal_removal.1'),
-		translatable('nomiceu.tooltip.ae2.crafting_terminal_removal.2'),
-		translatable('nomiceu.tooltip.ae2.crafting_terminal_removal.3'),
-	])
+	// Old Wireless Terminal Tooltips
+	for (var stack : [item('ae2wtlib:infinity_booster_card'), item('wct:wct'), item('wct:magnet_card')]) {
+		addTooltip(stack, [
+			translatable('nomiceu.tooltip.ae2.crafting_terminal_removal.1'),
+			translatable('nomiceu.tooltip.ae2.crafting_terminal_removal.2'),
+			translatable('nomiceu.tooltip.ae2.crafting_terminal_removal.3'),
+		])
+	}
+
+	// Hide Creative Wireless Terminal
+	mods.jei.ingredient.hide(item('wct:wct_creative'))
 }
-
-// Hide Creative Wireless Terminal
-mods.jei.ingredient.hide(item('wct:wct_creative'))
 
 // Deprecate Extended Crafting's Handheld Crafting Table
 deprecate(item('extendedcrafting:handheld_table'))
