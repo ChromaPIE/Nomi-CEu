@@ -1,84 +1,21 @@
 [
   {
-    "content": "gregtech:meta_item_1:461",
+    "content": "nomilabs:woodenwidget",
     "amount": {
-      "min": 5,
+      "min": 4,
       "max": 10
     },
-    "unitWorth": 5,
+    "unitWorth": 20,
     "weight": 70
   },
   {
     "content": "nomilabs:stonewidget",
     "amount": {
-      "min": 5,
-      "max": 25
-    },
-    "unitWorth": 3,
-    "weight": 30
-  },
-  {
-    "content": "gregtech:meta_item_1:187",
-    "amount": {
-      "min": 2,
-      "max": 4
-    },
-    "unitWorth": 10,
-    "weight": 50
-  },
-  {
-    "content": "gregtech:meta_item_1:127",
-    "amount": {
-      "min": 5,
-      "max": 25
-    },
-    "unitWorth": 1,
-    "weight": 20
-  },
-  {
-    "content": "gregtech:meta_item_1:157",
-    "amount": {
-      "min": 1,
-      "max": 5
-    },
-    "unitWorth": 35,
-    "weight": 50
-  },
-  {
-    "content": "gregtech:meta_item_1:142",
-    "amount": {
-      "min": 2,
-      "max": 4
-    },
-    "unitWorth": 10,
-    "weight": 30
-  },
-  {
-    "content": "gregtech:meta_item_1:217",
-    "amount": {
-      "min": 2,
-      "max": 4
-    },
-    "unitWorth": 15,
-    "weight": 30
-  },
-  {
-    "content": "gregtech:meta_item_1:232",
-    "amount": {
-      "min": 2,
-      "max": 4
-    },
-    "unitWorth": 15,
-    "weight": 30
-  },
-  {
-    "content": "nomilabs:enderwidget",
-    "amount": {
-      "min": 2,
-      "max": 5
+      "min": 4,
+      "max": 10
     },
     "unitWorth": 30,
-    "weight": 50
+    "weight": 47
   },
   {
     "content": "nomilabs:alloywidget",
@@ -86,16 +23,106 @@
       "min": 2,
       "max": 5
     },
-    "unitWorth": 20,
-    "weight": 40
+    "unitWorth": 200,
+    "weight": 7
   },
   {
-    "content": "nomilabs:woodenwidget",
+    "content": "nomilabs:enderwidget",
+    "amount": {
+      "min": 2,
+      "max": 5
+    },
+    "unitWorth": 300,
+    "weight": 5
+  },
+  {
+    "content": "gregtech:meta_item_1:127",
+    "amount": {
+      "min": 2,
+      "max": 5
+    },
+    "unitWorth": 120,
+    "weight": 13
+  },
+  {
+    "content": "gregtech:meta_item_1:142",
+    "amount": {
+      "min": 2,
+      "max": 4
+    },
+    "unitWorth": 200,
+    "weight": 7
+  },
+  {
+    "content": "gregtech:meta_item_1:157",
+    "amount": {
+      "min": 1,
+      "max": 5
+    },
+    "unitWorth": 280,
+    "weight": 5
+  },
+  {
+    "content": "gregtech:meta_item_1:172",
+    "amount": {
+      "min": 2,
+      "max": 4
+    },
+    "unitWorth": 160,
+    "weight": 9
+  },
+  {
+    "content": "gregtech:meta_item_1:187",
+    "amount": {
+      "min": 1,
+      "max": 2
+    },
+    "unitWorth": 490,
+    "weight": 3
+  },
+  {
+    "content": "gregtech:meta_item_1:202",
+    "amount": {
+      "min": 1,
+      "max": 1
+    },
+    "unitWorth": 800,
+    "weight": 2
+  },
+  {
+    "content": "gregtech:meta_item_1:217",
+    "amount": {
+      "min": 2,
+      "max": 4
+    },
+    "unitWorth": 150,
+    "weight": 10
+  },
+  {
+    "content": "gregtech:meta_item_1:232",
+    "amount": {
+      "min": 2,
+      "max": 4
+    },
+    "unitWorth": 150,
+    "weight": 10
+  },
+  {
+    "content": "gregtech:meta_item_1:461",
+    "amount": {
+      "min": 2,
+      "max": 8
+    },
+    "unitWorth": 50,
+    "weight": 32
+  },
+  {
+    "content": "gregtech:meta_stick:395",
     "amount": {
       "min": 5,
       "max": 25
     },
-    "unitWorth": 2,
-    "weight": 80
+    "unitWorth": 15,
+    "weight": 98
   }
 ]
