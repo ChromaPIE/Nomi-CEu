@@ -43,7 +43,7 @@ for (var entry : [0: 'glass', 20: 'covered', 40: 'smart', 60: 'dense_smart', 500
 		.output(output)
 		.input(cables, fluidIng(fluid('water')))
 		.setInputTooltip(1, IngredientFluidBucket.getInputTooltip(fluid('water')))
-		.replace().register()
+		.register()
 }
 
 // Paper
@@ -281,14 +281,15 @@ crafting.shapedBuilder()
 	.replace().register()
 
 // Torch
+crafting.remove('gregtech:torch_creosote')
 crafting.shapedBuilder()
 	.output(item('minecraft:torch') * 16)
 	.matrix('AB', 'C ')
 	.key('A', ore('wool'))
 	.key('B', fluidIng(fluid('creosote')))
-	.key('C', ore('stick'))
+	.key('C', ore('stickWood'))
 	.setInputTooltip(1, IngredientFluidBucket.getInputTooltip(fluid('creosote')))
-	.replace().register()
+	.register()
 
 // Concrete Cell + Firebricks
 if (LabsModeHelper.expert) {
